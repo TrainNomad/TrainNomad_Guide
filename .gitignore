@@ -1,0 +1,11 @@
+# Binaires
+guide-server
+*.exe
+
+# Données locales
+guides.bin
+guides.json
+
+# Cache Python
+__pycache__/
+*.pyc
