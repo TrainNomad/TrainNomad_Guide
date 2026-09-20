@@ -11,25 +11,89 @@ import (
 	"strings"
 )
 
-// Guide représente un guide de destination complet
-type Guide struct {
-	Slug             string    `json:"slug"`
-	Name             string    `json:"name"`
-	Country          string    `json:"country"`
-	CountryCode      string    `json:"country_code"`
-	Image            string    `json:"image"`
-	HeroImage        string    `json:"hero_image"`
-	Description      string    `json:"description"`
-	ReadingTime      int       `json:"reading_time"`
-	Featured         bool      `json:"featured"`
-	FeaturedTitle    string    `json:"featured_title,omitempty"`
-	FeaturedSubtitle string    `json:"featured_subtitle,omitempty"`
-	Sections         []Section `json:"sections"`
-	QuickFacts       []Fact    `json:"quick_facts"`
-	Tags             []string  `json:"tags"`
+// EssentialItem represente un element essentiel (a voir, experience, mobilite)
+type EssentialItem struct {
+	Name        string `json:"name"`
+	Description string `json:"description"`
 }
 
-// Section représente une section du guide (gare, coworking, quartiers, etc.)
+// Essentials represente la section "L'essentiel"
+type Essentials struct {
+	ToSee       []EssentialItem `json:"to_see,omitempty"`
+	Experiences []EssentialItem `json:"experiences,omitempty"`
+	Mobility    []EssentialItem `json:"mobility,omitempty"`
+}
+
+// ItineraryStep represente une etape de l'itineraire
+type ItineraryStep struct {
+	Time        string `json:"time"`
+	Title       string `json:"title"`
+	Description string `json:"description"`
+	Type        string `json:"type"` // transport, visit, food, leisure
+}
+
+// ItineraryDay represente une journee de l'itineraire
+type ItineraryDay struct {
+	Day         int             `json:"day"`
+	Title       string          `json:"title"`
+	Description string          `json:"description"`
+	Steps       []ItineraryStep `json:"steps"`
+}
+
+// TrainStation represente une gare
+type TrainStation struct {
+	Name        string   `json:"name"`
+	Description string   `json:"description"`
+	Services    []string `json:"services,omitempty"`
+	Connections []string `json:"connections,omitempty"`
+}
+
+// TrainRoute represente une liaison ferroviaire
+type TrainRoute struct {
+	From        string   `json:"from"`
+	Description string   `json:"description"`
+	Duration    string   `json:"duration"`
+	Operators   []string `json:"operators,omitempty"`
+}
+
+// TrainTravel represente la section voyage en train
+type TrainTravel struct {
+	Intro    string         `json:"intro,omitempty"`
+	Stations []TrainStation `json:"stations,omitempty"`
+	Routes   []TrainRoute   `json:"routes,omitempty"`
+}
+
+// PracticalInfo represente un conseil pratique
+type PracticalInfo struct {
+	Title   string `json:"title"`
+	Icon    string `json:"icon"`
+	Content string `json:"content"`
+}
+
+// Guide represente un guide de destination complet
+type Guide struct {
+	Slug             string          `json:"slug"`
+	Name             string          `json:"name"`
+	Country          string          `json:"country"`
+	CountryCode      string          `json:"country_code"`
+	Image            string          `json:"image"`
+	HeroImage        string          `json:"hero_image"`
+	Description      string          `json:"description"`
+	ReadingTime      int             `json:"reading_time"`
+	Featured         bool            `json:"featured"`
+	FeaturedTitle    string          `json:"featured_title,omitempty"`
+	FeaturedSubtitle string          `json:"featured_subtitle,omitempty"`
+	Sections         []Section       `json:"sections"`
+	QuickFacts       []Fact          `json:"quick_facts"`
+	Tags             []string        `json:"tags"`
+	Introduction     string          `json:"introduction,omitempty"`
+	Essentials       *Essentials     `json:"essentials,omitempty"`
+	Itinerary        []ItineraryDay  `json:"itinerary,omitempty"`
+	TrainTravel      *TrainTravel    `json:"train_travel,omitempty"`
+	Practical        []PracticalInfo `json:"practical,omitempty"`
+}
+
+// Section represente une section du guide (gare, coworking, quartiers, etc.)
 type Section struct {
 	ID      string `json:"id"`
 	Title   string `json:"title"`
@@ -37,14 +101,14 @@ type Section struct {
 	Content string `json:"content"`
 }
 
-// Fact représente un fait rapide (durée, wifi, coût, climat)
+// Fact represente un fait rapide (duree, wifi, cout, climat)
 type Fact struct {
 	Icon  string `json:"icon"`
 	Label string `json:"label"`
 	Value string `json:"value"`
 }
 
-// GuideIndex représente un guide dans la liste (version légère)
+// GuideIndex represente un guide dans la liste (version legere)
 type GuideIndex struct {
 	Slug             string   `json:"slug"`
 	Name             string   `json:"name"`
@@ -59,18 +123,18 @@ type GuideIndex struct {
 	Tags             []string `json:"tags"`
 }
 
-// Meta contient les métadonnées du fichier binaire
+// Meta contient les metadonnees du fichier binaire
 type Meta struct {
 	Version   int    `json:"version"`
 	BuiltAt   string `json:"built_at"`
 	NumGuides int    `json:"num_guides"`
 }
 
-// GuidesData contient toutes les données des guides chargées en RAM
+// GuidesData contient toutes les donnees des guides chargees en RAM
 type GuidesData struct {
-	Meta    Meta
-	Guides  []Guide
-	Index   map[string]int // slug -> index dans Guides
+	Meta      Meta
+	Guides    []Guide
+	Index     map[string]int   // slug -> index dans Guides
 	ByCountry map[string][]int // country -> indices
 }
 
@@ -81,7 +145,7 @@ type binSection struct {
 	data  []byte
 }
 
-// LoadGuides charge les données depuis le fichier binaire compressé
+// LoadGuides charge les donnees depuis le fichier binaire compresse
 func LoadGuides(path string) (*GuidesData, error) {
 	f, err := os.Open(path)
 	if err != nil {
@@ -120,7 +184,7 @@ func parseGuides(raw []byte) (*GuidesData, error) {
 	secs := make(map[string]binSection, nsec)
 	for i := 0; i < nsec; i++ {
 		if pos+48 > len(raw) {
-			return nil, fmt.Errorf("guides.bin tronqué")
+			return nil, fmt.Errorf("guides.bin tronque")
 		}
 		name := string(bytes.TrimRight(raw[pos:pos+24], "\x00"))
 		dtype := raw[pos+24]
@@ -128,13 +192,13 @@ func parseGuides(raw []byte) (*GuidesData, error) {
 		size := int(le.Uint64(raw[pos+40 : pos+48]))
 		pos += 48
 		if pos+size > len(raw) {
-			return nil, fmt.Errorf("section %s tronquée", name)
+			return nil, fmt.Errorf("section %s tronquee", name)
 		}
 		secs[name] = binSection{dtype, count, raw[pos : pos+size]}
 		pos += size + (8-size%8)%8
 	}
 
-	// Récupérer les données
+	// Recuperer les donnees
 	var perr error
 	get := func(name string, dtype byte) []byte {
 		s, ok := secs[name]
@@ -145,7 +209,7 @@ func parseGuides(raw []byte) (*GuidesData, error) {
 			return nil
 		}
 		if s.dtype != dtype && perr == nil {
-			perr = fmt.Errorf("section %s : type %d attendu, %d trouvé", name, dtype, s.dtype)
+			perr = fmt.Errorf("section %s : type %d attendu, %d trouve", name, dtype, s.dtype)
 		}
 		return s.data
 	}
@@ -160,7 +224,7 @@ func parseGuides(raw []byte) (*GuidesData, error) {
 		return nil, fmt.Errorf("meta : %w", err)
 	}
 
-	// Parse guides (stockés en JSON pour simplicité)
+	// Parse guides (stockes en JSON pour simplicite)
 	guidesJSON := get("guides", 1)
 	if err := json.Unmarshal(guidesJSON, &d.Guides); err != nil {
 		return nil, fmt.Errorf("guides : %w", err)
@@ -187,7 +251,7 @@ func (d *GuidesData) GetGuide(slug string) *Guide {
 	return nil
 }
 
-// GetIndex retourne la liste des guides (version légère)
+// GetIndex retourne la liste des guides (version legere)
 func (d *GuidesData) GetIndex() []GuideIndex {
 	result := make([]GuideIndex, len(d.Guides))
 	for i, g := range d.Guides {
