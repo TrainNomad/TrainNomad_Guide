@@ -70,6 +70,50 @@ type PracticalInfo struct {
 	Content string `json:"content"`
 }
 
+// JourneyPoint represente un point du trajet
+type JourneyPoint struct {
+	Name string  `json:"name"`
+	Code string  `json:"code,omitempty"`
+	Lat  float64 `json:"lat"`
+	Lon  float64 `json:"lon"`
+}
+
+// JourneyLeg represente une etape du trajet (train ou correspondance)
+type JourneyLeg struct {
+	ID          int          `json:"id"`
+	Type        string       `json:"type"` // train, transfer
+	Operator    string       `json:"operator,omitempty"`
+	TrainType   string       `json:"train_type,omitempty"`
+	TrainNumber string       `json:"train_number,omitempty"`
+	From        JourneyPoint `json:"from"`
+	To          JourneyPoint `json:"to,omitempty"`
+	Departure   string       `json:"departure,omitempty"`
+	Arrival     string       `json:"arrival,omitempty"`
+	DurationMin int          `json:"duration_min"`
+	Mode        string       `json:"mode,omitempty"` // walk, wait
+	Description string       `json:"description,omitempty"`
+	Overnight   bool         `json:"overnight,omitempty"`
+	Amenities   []string     `json:"amenities,omitempty"`
+}
+
+// DefaultJourney represente le trajet de reference
+type DefaultJourney struct {
+	Origin      JourneyPoint `json:"origin"`
+	Destination JourneyPoint `json:"destination"`
+	Legs        []JourneyLeg `json:"legs"`
+}
+
+// PhotoSpot represente un spot photo le long du trajet
+type PhotoSpot struct {
+	Name        string  `json:"name"`
+	Description string  `json:"description"`
+	KmFromParis int     `json:"km_from_paris"`
+	Lat         float64 `json:"lat"`
+	Lon         float64 `json:"lon"`
+	BestSide    string  `json:"best_side"`
+	Type        string  `json:"type"` // coastal, mountain, bridge, urban
+}
+
 // Guide represente un guide de destination complet
 type Guide struct {
 	Slug             string          `json:"slug"`
@@ -91,6 +135,8 @@ type Guide struct {
 	Itinerary        []ItineraryDay  `json:"itinerary,omitempty"`
 	TrainTravel      *TrainTravel    `json:"train_travel,omitempty"`
 	Practical        []PracticalInfo `json:"practical,omitempty"`
+	DefaultJourney   *DefaultJourney `json:"default_journey,omitempty"`
+	PhotoSpots       []PhotoSpot     `json:"photo_spots,omitempty"`
 }
 
 // Section represente une section du guide (gare, coworking, quartiers, etc.)
