@@ -65,6 +65,253 @@ def build_guides_bin(guides_data: dict, output_path: str):
     print(f"Fichier {output_path} créé: {len(guides_data['guides'])} guides, {len(content)} bytes")
 
 
+def add_photo_spots(guides_data: dict):
+    """Ajoute les photo_spots à chaque guide basé sur sa destination."""
+
+    photo_spots_by_city = {
+        "lisbonne": [
+            {
+                "name": "Miradouro de Santa Luzia",
+                "description": "Belvédère emblématique d'Alfama avec vue sur le Tage et les toits aux tuiles ocres",
+                "type": "viewpoint",
+                "km_from_paris": 1700,
+                "lat": 38.7136,
+                "lon": -9.1308,
+                "best_side": "sunrise"
+            },
+            {
+                "name": "Praça do Comércio",
+                "description": "La place royale ouverte sur le Tage. Architecture pombaline et ambiance majestueuse",
+                "type": "plaza",
+                "km_from_paris": 1700,
+                "lat": 38.7071,
+                "lon": -9.1365,
+                "best_side": "afternoon"
+            },
+            {
+                "name": "Pont 25 de Abril",
+                "description": "Le \"Golden Gate\" portugais au coucher du soleil depuis le Cristo Rei ou Almada",
+                "type": "bridge",
+                "km_from_paris": 1700,
+                "lat": 38.6912,
+                "lon": -9.1772,
+                "best_side": "sunset"
+            }
+        ],
+        "barcelone": [
+            {
+                "name": "Sagrada Familia",
+                "description": "Chef-d'œuvre architectural de Gaudí, la basilique la plus emblématique de Barcelone",
+                "type": "church",
+                "km_from_paris": 800,
+                "lat": 41.4036,
+                "lon": 2.1744,
+                "best_side": "morning"
+            },
+            {
+                "name": "Park Güell",
+                "description": "Jardin spectaculaire dominant la ville avec mosaïques colorées et vues panoramiques",
+                "type": "park",
+                "km_from_paris": 800,
+                "lat": 41.4145,
+                "lon": 2.1526,
+                "best_side": "afternoon"
+            },
+            {
+                "name": "Montjuïc",
+                "description": "Colline offrant des vues sur la ville, le port et les Montagnes de Montserrat",
+                "type": "viewpoint",
+                "km_from_paris": 800,
+                "lat": 41.3694,
+                "lon": 2.1769,
+                "best_side": "sunset"
+            }
+        ],
+        "lyon": [
+            {
+                "name": "Basilique de Notre-Dame de Fourvière",
+                "description": "Basilique blanche dominant Lyon depuis la Fourvière, accès par funiculaire",
+                "type": "church",
+                "km_from_paris": 470,
+                "lat": 45.7597,
+                "lon": 4.8164,
+                "best_side": "morning"
+            },
+            {
+                "name": "Confluence - Musée des Confluences",
+                "description": "Musée futuriste sur la péninsule de la Confluence avec architecture spectaculaire",
+                "type": "museum",
+                "km_from_paris": 470,
+                "lat": 45.7219,
+                "lon": 4.8166,
+                "best_side": "afternoon"
+            },
+            {
+                "name": "Parc de la Tête d'Or",
+                "description": "Parc urbain avec lac, promenade et musées en cœur de ville",
+                "type": "park",
+                "km_from_paris": 470,
+                "lat": 45.7740,
+                "lon": 4.8398,
+                "best_side": "morning"
+            }
+        ],
+        "amsterdam": [
+            {
+                "name": "Canal Ring",
+                "description": "Les canaux concentriques de Amsterdam avec maisons historiques et ponts pittoresques",
+                "type": "waterway",
+                "km_from_paris": 500,
+                "lat": 52.3702,
+                "lon": 4.8952,
+                "best_side": "morning"
+            },
+            {
+                "name": "Anne Frank House",
+                "description": "Maison historique cachette d'Anne Frank pendant la Seconde Guerre mondiale",
+                "type": "museum",
+                "km_from_paris": 500,
+                "lat": 52.3752,
+                "lon": 4.8839,
+                "best_side": "afternoon"
+            },
+            {
+                "name": "Dam Square",
+                "description": "Cœur historique d'Amsterdam avec le Palais Royal et le Monument National",
+                "type": "plaza",
+                "km_from_paris": 500,
+                "lat": 52.3740,
+                "lon": 4.8896,
+                "best_side": "sunset"
+            }
+        ],
+        "berlin": [
+            {
+                "name": "Porte de Brandebourg",
+                "description": "Monument iconique symbolisant la réunification de Berlin",
+                "type": "monument",
+                "km_from_paris": 1000,
+                "lat": 52.5163,
+                "lon": 13.3777,
+                "best_side": "afternoon"
+            },
+            {
+                "name": "Mur de Berlin - East Side Gallery",
+                "description": "Galerie à ciel ouvert sur le plus long tronçon du Mur de Berlin",
+                "type": "museum",
+                "km_from_paris": 1000,
+                "lat": 52.5050,
+                "lon": 13.4420,
+                "best_side": "morning"
+            },
+            {
+                "name": "Reichstag",
+                "description": "Siège du Bundestag avec dôme de verre offrant une vue panoramique",
+                "type": "building",
+                "km_from_paris": 1000,
+                "lat": 52.5186,
+                "lon": 13.3755,
+                "best_side": "sunset"
+            }
+        ],
+        "bruxelles": [
+            {
+                "name": "Grand-Place",
+                "description": "Place historique UNESCO entourée de guildes gothiques et baroques",
+                "type": "plaza",
+                "km_from_paris": 300,
+                "lat": 50.8503,
+                "lon": 4.3517,
+                "best_side": "evening"
+            },
+            {
+                "name": "Atomium",
+                "description": "Monument futuriste en forme de molécule, symbole de Bruxelles",
+                "type": "monument",
+                "km_from_paris": 300,
+                "lat": 50.8945,
+                "lon": 4.3361,
+                "best_side": "afternoon"
+            },
+            {
+                "name": "Manneken Pis",
+                "description": "Statue iconique de petit garçon urinant, symbole humoristique bruxellois",
+                "type": "statue",
+                "km_from_paris": 300,
+                "lat": 50.8461,
+                "lon": 4.3516,
+                "best_side": "morning"
+            }
+        ],
+        "milan": [
+            {
+                "name": "Duomo de Milan",
+                "description": "Cathédrale gothique majestueuse, chef-d'œuvre architectural du style gothic tardif",
+                "type": "church",
+                "km_from_paris": 850,
+                "lat": 45.4642,
+                "lon": 9.1900,
+                "best_side": "morning"
+            },
+            {
+                "name": "La Scala",
+                "description": "Opéra renommé mondialement, architecture élégante du XVIIIe siècle",
+                "type": "theater",
+                "km_from_paris": 850,
+                "lat": 45.4683,
+                "lon": 9.1917,
+                "best_side": "evening"
+            },
+            {
+                "name": "Navigli",
+                "description": "Canaux historiques avec bars et restaurants branché, atmosphère bohème",
+                "type": "waterway",
+                "km_from_paris": 850,
+                "lat": 45.4563,
+                "lon": 9.1849,
+                "best_side": "sunset"
+            }
+        ],
+        "angers": [
+            {
+                "name": "Château d'Angers",
+                "description": "Forteresse massive du XIIIe siècle avec jardins, tapisserie de l'Apocalypse",
+                "type": "castle",
+                "km_from_paris": 290,
+                "lat": 47.4691,
+                "lon": -0.5520,
+                "best_side": "morning"
+            },
+            {
+                "name": "Cathédrale Saint-Maurice",
+                "description": "Splendide cathédrale gothique avec vitraux remarquables",
+                "type": "church",
+                "km_from_paris": 290,
+                "lat": 47.4748,
+                "lon": -0.5546,
+                "best_side": "afternoon"
+            },
+            {
+                "name": "Confluence - Musée des Confluences d'Angers",
+                "description": "Musée moderne d'art contemporain et patrimoine, architecture audacieuse",
+                "type": "museum",
+                "km_from_paris": 290,
+                "lat": 47.4627,
+                "lon": -0.5597,
+                "best_side": "afternoon"
+            }
+        ]
+    }
+
+    # Ajouter les photo_spots à chaque guide
+    for guide in guides_data["guides"]:
+        slug = guide["slug"]
+        if slug in photo_spots_by_city:
+            guide["photo_spots"] = photo_spots_by_city[slug]
+
+    return guides_data
+
+
 def create_sample_guides():
     """Crée un fichier guides.json exemple avec quelques destinations."""
 
@@ -326,6 +573,15 @@ def main():
     else:
         with open(args.input, 'r', encoding='utf-8') as f:
             guides_data = json.load(f)
+
+    # Enrichir les guides avec les photo_spots
+    print("Ajout des photo_spots aux guides...")
+    guides_data = add_photo_spots(guides_data)
+
+    # Sauvegarder le fichier enrichi
+    with open(args.input, 'w', encoding='utf-8') as f:
+        json.dump(guides_data, f, ensure_ascii=False, indent=2)
+    print(f"Fichier {args.input} enrichi avec les photo_spots")
 
     build_guides_bin(guides_data, args.output)
 

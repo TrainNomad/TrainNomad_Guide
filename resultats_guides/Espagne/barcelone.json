@@ -1,0 +1,249 @@
+{
+  "slug": "barcelone",
+  "name": "Barcelone",
+  "country": "Espagne",
+  "country_code": "ES",
+  "image": "/assets/guides/barcelone-cover.webp",
+  "hero_image": "/assets/guides/barcelone-hero.webp",
+  "description": "Capitale catalane vibrante. Gaudi, plages et tapas accessible en TGV.",
+  "reading_time": 20,
+  "featured": false,
+  "featured_title": "Barcelone : 2 jours entre Gaudi et Mediterranee",
+  "featured_subtitle": "La capitale catalane accessible en TGV direct depuis Paris. Architecture moderniste, plages et tapas.",
+  "tags": [
+    "TGV",
+    "Plage",
+    "Architecture"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-clock",
+      "label": "Depuis Paris",
+      "value": "6h30"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Distance",
+      "value": "1 050 km"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Ligne",
+      "value": "TGV / AVE"
+    }
+  ],
+  "introduction": "Le TGV franchit les Pyrenees et longe la Mediterranee avant d'entrer dans Barcelone. Depuis le quai de Sants, la ville catalane s'offre a vous : les fleches de la Sagrada Familia percent le ciel, les Ramblas grouillent de vie, et la plage de Barceloneta scintille sous le soleil. Ici, Gaudi a reinvente l'architecture, les tapas se degustent debout au comptoir, et la nuit ne s'arrete jamais vraiment. Barcelone vibre d'une energie mediterraneenne unique.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Sagrada Família",
+        "description": "Basilique de Gaudí, toujours en construction, remarquable pour ses façades sculptées et sa lumière intérieure."
+      },
+      {
+        "name": "Casa Batlló et Casa Milà",
+        "description": "Deux icônes modernistes du Passeig de Gràcia, aux façades et toits sculptés."
+      },
+      {
+        "name": "Parc Güell",
+        "description": "Ensemble paysager de Gaudí dominant la ville, célèbre pour ses mosaïques et ses panoramas."
+      },
+      {
+        "name": "Quartier gothique",
+        "description": "Ruelles médiévales, cathédrale, petites places et vestiges de la Barcelone romaine."
+      },
+      {
+        "name": "MNAC et Montjuïc",
+        "description": "Musée, jardins et vues sur la ville depuis la colline de Montjuïc."
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Tapas et vermouth",
+        "description": "Prendre l’apéritif dans une bodega, avec petites assiettes et vermouth local."
+      },
+      {
+        "name": "Marchés de quartier",
+        "description": "Au-delà de la Boqueria, découvrir les marchés pour une ambiance plus quotidienne."
+      },
+      {
+        "name": "Coucher de soleil à Montjuïc",
+        "description": "Observer port, ville et côte en fin de journée."
+      },
+      {
+        "name": "Promenade à Barceloneta",
+        "description": "Marcher du Port Vell vers la plage aux heures plus calmes."
+      },
+      {
+        "name": "El Born le soir",
+        "description": "Flâner entre galeries, ateliers et places animées."
+      }
+    ],
+    "mobility": [
+      {
+        "name": "Métro et bus TMB",
+        "description": "Réseau efficace ; choisissez un titre adapté à votre durée de séjour."
+      },
+      {
+        "name": "À pied",
+        "description": "Gothic, El Born et Eixample se parcourent bien, mais les distances sont réelles."
+      },
+      {
+        "name": "Vélo de location",
+        "description": "Pour les visiteurs, privilégiez la location classique ; Bicing est surtout destiné aux abonnés."
+      },
+      {
+        "name": "Funiculaire et téléphérique",
+        "description": "Utiles pour Montjuïc selon le programme et les horaires."
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Gaudí et l’Eixample",
+      "description": "Une journée consacrée à l’architecture moderniste et aux grands axes élégants.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Arrivée et installation",
+          "description": "Depuis Barcelona Sants, rejoignez l’Eixample en métro ou déposez vos bagages.",
+          "type": "transport"
+        },
+        {
+          "time": "10:00",
+          "title": "Casa Batlló ou Casa Milà",
+          "description": "Choisissez une seule maison de Gaudí pour prendre le temps de ses intérieurs et de son toit.",
+          "type": "visit"
+        },
+        {
+          "time": "12:00",
+          "title": "Passeig de Gràcia",
+          "description": "Descendez l’avenue en observant sols, façades et détails modernistes.",
+          "type": "leisure"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner dans l’Eixample",
+          "description": "Choisissez un menu du jour ou un comptoir de tapas à l’écart des axes les plus touristiques.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Sagrada Família",
+          "description": "Visitez avec un créneau réservé ; prévoyez du temps pour les vitraux et les façades.",
+          "type": "visit"
+        },
+        {
+          "time": "17:00",
+          "title": "Trajet vers le Parc Güell",
+          "description": "Rejoignez le parc en métro, bus et à pied ; la dernière montée peut être raide.",
+          "type": "transport"
+        },
+        {
+          "time": "17:45",
+          "title": "Parc Güell",
+          "description": "Parcourez la zone monumentale et les chemins paysagers avec vue sur la trame de la ville.",
+          "type": "visit"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner à Gràcia",
+          "description": "Terminez dans ce quartier de places ombragées et de petites tables.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Vieille ville, El Born et Méditerranée",
+      "description": "Des ruelles gothiques au front de mer, une journée d’histoire et de lumière méditerranéenne.",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Petit-déjeuner au marché",
+          "description": "Choisissez un marché couvert tôt le matin pour une expérience plus calme.",
+          "type": "food"
+        },
+        {
+          "time": "10:00",
+          "title": "Quartier gothique",
+          "description": "Explorez cathédrale, ruelles, patios et petites places hors des axes principaux.",
+          "type": "visit"
+        },
+        {
+          "time": "11:30",
+          "title": "Vestiges romains et plaça del Rei",
+          "description": "Approfondissez l’histoire de Barcino, l’ancienne cité romaine.",
+          "type": "visit"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner à El Born",
+          "description": "Prenez une pause parmi les ateliers, galeries et petites places.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Santa Maria del Mar et El Born",
+          "description": "Entrez dans l’église puis poursuivez librement dans le quartier.",
+          "type": "visit"
+        },
+        {
+          "time": "16:30",
+          "title": "Port Vell et Barceloneta",
+          "description": "Marchez vers le littoral pour une pause sur le sable ou une baignade en saison.",
+          "type": "leisure"
+        },
+        {
+          "time": "18:30",
+          "title": "Coucher de soleil",
+          "description": "Choisissez Montjuïc pour le panorama ou la plage pour la lumière sur la mer.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:30",
+          "title": "Dîner de poissons ou tapas",
+          "description": "Éloignez-vous légèrement du front de mer pour davantage de calme.",
+          "type": "food"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure periode",
+      "icon": "fa-calendar",
+      "content": "Avril-juin et septembre-octobre. Ete tres chaud et touristique. Attention aux pickpockets sur les Ramblas."
+    },
+    {
+      "title": "Se deplacer",
+      "icon": "fa-bus",
+      "content": "Metro efficace. T-casual 10 trajets valable metro/bus/tram. Centre facilement accessible a pied."
+    },
+    {
+      "title": "A ne pas manquer",
+      "icon": "fa-star",
+      "content": "Reserver Sagrada Familia a l'avance. Tapas debout au comptoir. Coucher de soleil depuis les Bunkers del Carmel."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quartiers",
+      "title": "Quartiers à explorer",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>L’Eixample</strong> concentre le modernisme. <strong>Le quartier gothique</strong> se découvre tôt le matin ; <strong>El Born</strong> mêle patrimoine et ateliers, tandis que <strong>Gràcia</strong> garde une ambiance de village.</p><p><strong>Barceloneta</strong> et le front de mer sont plus agréables en début ou fin de journée.</p>"
+    },
+    {
+      "id": "gastronomie",
+      "title": "Manger à Barcelone",
+      "icon": "fa-utensils",
+      "content": "<p>Partagez <strong>pa amb tomàquet</strong>, croquetas, anchois, fruits de mer, légumes grillés et riz. Le vermouth se prend à l’apéritif, souvent avec olives ou conserves de poisson. Explorez les bars de quartier plutôt que les seules zones les plus fréquentées.</p>"
+    },
+    {
+      "id": "conseils",
+      "title": "Conseils pratiques",
+      "icon": "fa-circle-info",
+      "content": "<p>Réservez la Sagrada Família et les maisons de Gaudí. Restez attentif à vos effets personnels dans les zones très fréquentées, notamment autour des Ramblas, des gares et du métro.</p>"
+    }
+  ]
+}

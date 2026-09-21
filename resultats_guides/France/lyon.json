@@ -1,0 +1,255 @@
+{
+  "slug": "lyon",
+  "name": "Lyon",
+  "country": "France",
+  "country_code": "FR",
+  "image": "/assets/guides/lyon-cover.webp",
+  "hero_image": "/assets/guides/lyon-hero.webp",
+  "description": "Capitale gastronomique, entre Rhone et Saone. Bouchons, traboules et tech.",
+  "reading_time": 20,
+  "featured": false,
+  "featured_title": "Lyon : Gastronomie et patrimoine en 2 jours",
+  "featured_subtitle": "A 2h de Paris, la capitale des Gaules devoile ses bouchons, ses traboules et sa presqu'ile.",
+  "tags": [
+    "TGV",
+    "Gastronomie",
+    "Patrimoine"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-clock",
+      "label": "Depuis Paris",
+      "value": "2h"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Distance",
+      "value": "465 km"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Ligne",
+      "value": "TGV"
+    }
+  ],
+  "introduction": "Le TGV file a travers la Bourgogne et la vallee du Rhone avant d'entrer dans Lyon Part-Dieu. Entre Rhone et Saone, la capitale des Gaules deploie ses tresors : ruelles de la Renaissance dans le Vieux Lyon, traboules secretes, et bien sur, ces fameux bouchons ou la gastronomie devient art de vivre. De Fourviere a la Confluence, Lyon melange deux mille ans d'histoire a une modernite creative. Ici, Paul Bocuse a invente la nouvelle cuisine, et les lumieres de decembre illuminent la ville entiere.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Vieux Lyon",
+        "description": "Quartier Renaissance inscrit à l’UNESCO, avec ruelles pavées, cours et traboules."
+      },
+      {
+        "name": "Basilique de Fourvière",
+        "description": "Sanctuaire dominant la ville, avec panorama sur Lyon et parfois les Alpes."
+      },
+      {
+        "name": "Musée des Beaux-Arts",
+        "description": "Grand musée installé dans une ancienne abbaye, aux collections très variées."
+      },
+      {
+        "name": "Musée des Confluences",
+        "description": "Musée des sciences et des sociétés dans une architecture contemporaine spectaculaire."
+      },
+      {
+        "name": "Parc de la Tête d’or",
+        "description": "Grand parc urbain avec lac, serres et allées ombragées."
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Traboules",
+        "description": "Emprunter les passages ouverts au public dans le respect des habitants."
+      },
+      {
+        "name": "Bouchon lyonnais",
+        "description": "Découvrir une cuisine généreuse : quenelles, salade lyonnaise et spécialités de terroir."
+      },
+      {
+        "name": "Halles de Lyon Paul Bocuse",
+        "description": "Flâner parmi producteurs, fromagers, charcutiers et écaillers."
+      },
+      {
+        "name": "Berges du Rhône",
+        "description": "Marcher ou pédaler le long des quais aménagés."
+      },
+      {
+        "name": "Croix-Rousse",
+        "description": "Explorer l’ancien quartier des canuts, ses pentes, ateliers et marchés."
+      }
+    ],
+    "mobility": [
+      {
+        "name": "Métro, tram et bus TCL",
+        "description": "Réseau complet pour les principaux sites."
+      },
+      {
+        "name": "Funiculaires",
+        "description": "Accès pratique à Fourvière et Saint-Just depuis Vieux Lyon."
+      },
+      {
+        "name": "Vélo’v",
+        "description": "Idéal sur les berges et la Presqu’île."
+      },
+      {
+        "name": "À pied",
+        "description": "Vieux Lyon et Presqu’île se parcourent bien, avec pavés et pentes."
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Vieux Lyon, traboules et Fourvière",
+      "description": "Une journée entre Renaissance, gastronomie et grands panoramas.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Arrivée à Lyon Part-Dieu",
+          "description": "Rejoignez le centre en métro ou tram et déposez vos bagages si nécessaire.",
+          "type": "transport"
+        },
+        {
+          "time": "10:00",
+          "title": "Cathédrale Saint-Jean",
+          "description": "Commencez par la primatiale, son quartier et son horloge astronomique.",
+          "type": "visit"
+        },
+        {
+          "time": "10:45",
+          "title": "Traboules du Vieux Lyon",
+          "description": "Suivez un parcours discret à travers cours et passages ouverts au public.",
+          "type": "visit"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner dans un bouchon",
+          "description": "Choisissez une table attentive à ses produits et goûtez une spécialité lyonnaise.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Funiculaire vers Fourvière",
+          "description": "Montez depuis Vieux Lyon pour éviter une ascension raide.",
+          "type": "transport"
+        },
+        {
+          "time": "15:00",
+          "title": "Basilique et esplanade",
+          "description": "Visitez la basilique puis observez les deux fleuves et la Presqu’île.",
+          "type": "visit"
+        },
+        {
+          "time": "16:30",
+          "title": "Théâtres gallo-romains",
+          "description": "Descendez vers le site antique pour une respiration archéologique.",
+          "type": "visit"
+        },
+        {
+          "time": "18:00",
+          "title": "Apéritif sur la Presqu’île",
+          "description": "Installez-vous vers les Terreaux ou la Croix-Rousse.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner lyonnais",
+          "description": "Terminez par un bouchon ou une table de cuisine contemporaine.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Presqu’île, Confluence et Rhône",
+      "description": "Des places classiques aux architectures contemporaines.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Place Bellecour et rue de la République",
+          "description": "Partez de la grande place et remontez la Presqu’île.",
+          "type": "leisure"
+        },
+        {
+          "time": "10:30",
+          "title": "Musée des Beaux-Arts",
+          "description": "Ciblez quelques salles : les collections sont vastes.",
+          "type": "visit"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner aux Terreaux ou Cordeliers",
+          "description": "Choisissez une brasserie, un marché ou une table de quartier.",
+          "type": "food"
+        },
+        {
+          "time": "14:00",
+          "title": "Vers Confluence",
+          "description": "Suivez les quais à pied ou en tram, en observant la transition urbaine.",
+          "type": "transport"
+        },
+        {
+          "time": "14:45",
+          "title": "Musée des Confluences",
+          "description": "Explorez les expositions et vérifiez la programmation temporaire.",
+          "type": "visit"
+        },
+        {
+          "time": "17:00",
+          "title": "Berges du Rhône",
+          "description": "Revenez pour une marche ou un trajet à vélo sur les quais.",
+          "type": "leisure"
+        },
+        {
+          "time": "18:30",
+          "title": "Parc de la Tête d’or ou Croix-Rousse",
+          "description": "Choisissez la verdure du parc ou les pentes et ateliers de la Croix-Rousse.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Retour vers la gare",
+          "description": "Rejoignez Part-Dieu ou Perrache avec une marge adaptée.",
+          "type": "transport"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure periode",
+      "icon": "fa-calendar",
+      "content": "Printemps et automne. Fete des Lumieres en decembre (8 dec), incontournable mais tres frequentee."
+    },
+    {
+      "title": "Se deplacer",
+      "icon": "fa-bus",
+      "content": "Metro efficace. Funiculaire pour Fourviere. Centre compact a pied. Velo'v pratique."
+    },
+    {
+      "title": "A ne pas manquer",
+      "icon": "fa-star",
+      "content": "Un vrai bouchon (eviter les pieges a touristes). Les traboules du Vieux Lyon. Vue depuis Fourviere au coucher du soleil."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quartiers",
+      "title": "Quartiers à explorer",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>Vieux Lyon</strong> révèle la ville Renaissance ; <strong>la Presqu’île</strong> concentre places, musées et commerces. <strong>La Croix-Rousse</strong> garde la mémoire des canuts, tandis que <strong>Confluence</strong> montre le Lyon contemporain.</p>"
+    },
+    {
+      "id": "gastronomie",
+      "title": "Gastronomie lyonnaise",
+      "icon": "fa-utensils",
+      "content": "<p>Un bouchon propose quenelles, saucisson brioché, salade lyonnaise et fromages régionaux. Les <strong>Halles de Lyon Paul Bocuse</strong> offrent une approche centrée sur les producteurs. Réservez les tables prisées le week-end.</p>"
+    },
+    {
+      "id": "culture",
+      "title": "Patrimoine et culture",
+      "icon": "fa-landmark",
+      "content": "<p>Le site historique de Lyon est inscrit à l’UNESCO. Théâtres romains, quartiers Renaissance et zones industrielles reconverties donnent à la ville une histoire en couches successives.</p>"
+    }
+  ]
+}

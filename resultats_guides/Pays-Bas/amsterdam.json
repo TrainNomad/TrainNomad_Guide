@@ -1,0 +1,243 @@
+{
+  "slug": "amsterdam",
+  "name": "Amsterdam",
+  "country": "Pays-Bas",
+  "country_code": "NL",
+  "image": "/assets/guides/amsterdam-cover.webp",
+  "hero_image": "/assets/guides/amsterdam-hero.webp",
+  "description": "Ville des canaux, musees et velos. Hub creatif au coeur de l'Europe.",
+  "reading_time": 20,
+  "featured": false,
+  "featured_title": "Amsterdam : Canaux et culture en 2 jours",
+  "featured_subtitle": "A 3h20 de Paris en Eurostar, la Venise du Nord devoile ses musees, canaux et cafes bruns.",
+  "tags": [
+    "Eurostar",
+    "Velo",
+    "Culture"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-clock",
+      "label": "Depuis Paris",
+      "value": "3h20"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Distance",
+      "value": "515 km"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Ligne",
+      "value": "Eurostar"
+    }
+  ],
+  "introduction": "L'Eurostar traverse la Belgique et les polders neerlandais avant d'entrer dans Amsterdam Centraal. Depuis cette gare monumentale, la ville s'ouvre comme un tableau de maitre : canaux bordes de maisons etroites, ponts arrondis, et velos partout. Ici, Rembrandt a peint la Ronde de Nuit, Van Gogh a trouve son style, et les cafes bruns perpetuent une ambiance seculaire. Amsterdam vibre d'une tolerance legendaire et d'une creativite debordante.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Rijksmuseum",
+        "description": "Grand musée national, avec notamment La Ronde de nuit de Rembrandt."
+      },
+      {
+        "name": "Musée Van Gogh",
+        "description": "Collection majeure de peintures, dessins et lettres de Vincent van Gogh."
+      },
+      {
+        "name": "Maison Anne Frank",
+        "description": "Lieu de mémoire dans l’annexe où Anne Frank a vécu cachée ; visite sur créneau réservé."
+      },
+      {
+        "name": "Jordaan",
+        "description": "Quartier de canaux, petites rues, galeries et cafés."
+      },
+      {
+        "name": "Negen Straatjes",
+        "description": "Neuf petites rues commerçantes entre les canaux."
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Croisière sur les canaux",
+        "description": "Comprendre la géométrie de la ville depuis l’eau."
+      },
+      {
+        "name": "Café brun",
+        "description": "Faire une pause dans un café traditionnel, boisé et chaleureux."
+      },
+      {
+        "name": "Marché Albert Cuyp",
+        "description": "Découvrir De Pijp et ses spécialités multiculturelles."
+      },
+      {
+        "name": "Vondelpark à vélo",
+        "description": "Pédaler avec prudence dans le parc et ses alentours."
+      },
+      {
+        "name": "Canaux au crépuscule",
+        "description": "Marcher le long du Prinsengracht, Herengracht ou Keizersgracht."
+      }
+    ],
+    "mobility": [
+      {
+        "name": "Tram, métro et bus GVB",
+        "description": "Réseau dense ; utilisez un moyen de paiement ou titre accepté et validez selon les règles."
+      },
+      {
+        "name": "Vélo",
+        "description": "Pratique mais exigeant : respectez pistes, feux et flux rapides."
+      },
+      {
+        "name": "À pied",
+        "description": "Le centre est compact, mais ponts, canaux et pistes cyclables demandent une attention continue."
+      },
+      {
+        "name": "Ferry gratuit",
+        "description": "Depuis Centraal, des ferries desservent certains quartiers du nord de l’IJ."
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Musées, canaux et Jordaan",
+      "description": "Une journée consacrée aux maîtres néerlandais et aux canaux.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Arrivée à Amsterdam Centraal",
+          "description": "Prenez tram, métro ou marche selon votre hébergement ; évitez les pistes cyclables avec vos valises.",
+          "type": "transport"
+        },
+        {
+          "time": "10:30",
+          "title": "Rijksmuseum",
+          "description": "Entrez avec un créneau réservé et ciblez Rembrandt, Vermeer et le Siècle d’or.",
+          "type": "visit"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner à Museumplein",
+          "description": "Faites une pause autour de Museumplein avant le second musée.",
+          "type": "food"
+        },
+        {
+          "time": "14:00",
+          "title": "Musée Van Gogh",
+          "description": "Découvrez le parcours chronologique et réservez à l’avance.",
+          "type": "visit"
+        },
+        {
+          "time": "16:30",
+          "title": "Canaux et Negen Straatjes",
+          "description": "Traversez les canaux en direction des Neuf Rues, entre vitrines et façades anciennes.",
+          "type": "leisure"
+        },
+        {
+          "time": "18:00",
+          "title": "Jordaan",
+          "description": "Poursuivez dans le Jordaan, entre places, galeries et cours discrètes.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner puis café brun",
+          "description": "Terminez dans ou près du Jordaan par un dîner et une pause dans un café traditionnel.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Mémoire, marchés et vie locale",
+      "description": "De la Maison Anne Frank aux quartiers du sud et aux espaces verts.",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Maison Anne Frank",
+          "description": "Présentez-vous à l’heure de votre créneau ; prévoyez ensuite un moment calme.",
+          "type": "visit"
+        },
+        {
+          "time": "10:45",
+          "title": "Promenade sur le Prinsengracht",
+          "description": "Marchez le long du canal pour observer maisons, ponts et péniches.",
+          "type": "leisure"
+        },
+        {
+          "time": "11:30",
+          "title": "Croisière sur les canaux",
+          "description": "Embarquez pour environ une heure afin de saisir l’architecture du centre.",
+          "type": "leisure"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner à De Pijp",
+          "description": "Rejoignez ce quartier vivant et multiculturel.",
+          "type": "food"
+        },
+        {
+          "time": "14:00",
+          "title": "Marché Albert Cuyp",
+          "description": "Parcourez les étals et goûtez un stroopwafel ou un hareng si vous en avez envie.",
+          "type": "leisure"
+        },
+        {
+          "time": "15:30",
+          "title": "Vondelpark",
+          "description": "Louez un vélo seulement si vous êtes à l’aise ; sinon marchez dans le parc.",
+          "type": "leisure"
+        },
+        {
+          "time": "17:30",
+          "title": "Canaux du sud",
+          "description": "Revenez tranquillement vers les canaux pour une terrasse ou un dernier verre.",
+          "type": "leisure"
+        },
+        {
+          "time": "19:00",
+          "title": "Retour vers Centraal",
+          "description": "Récupérez vos bagages et anticipez le trajet vers la gare.",
+          "type": "transport"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure periode",
+      "icon": "fa-calendar",
+      "content": "Avril-mai pour les tulipes et le Jour du Roi (27 avril). Ete agreable mais touristique. Hiver doux."
+    },
+    {
+      "title": "Se deplacer",
+      "icon": "fa-bus",
+      "content": "Louer un velo des l'arrivee. Sinon tramway efficace. OV-chipkaart pour les transports."
+    },
+    {
+      "title": "A ne pas manquer",
+      "icon": "fa-star",
+      "content": "Reserver Anne Frank a l'avance. Un cafe brun authentique. Croisiere au coucher du soleil."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quartiers",
+      "title": "Quartiers à explorer",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>Le centre des canaux</strong> est plus agréable tôt le matin ou au crépuscule. <strong>Le Jordaan</strong> associe ruelles et cafés ; <strong>De Pijp</strong> est plus dense et multiculturel. <strong>Oud-Zuid</strong> concentre Museumplein et Vondelpark.</p>"
+    },
+    {
+      "id": "culture",
+      "title": "Musées et mémoire",
+      "icon": "fa-landmark",
+      "content": "<p>Réservez les musées majeurs. Rijksmuseum et Musée Van Gogh demandent chacun plusieurs heures. La <strong>Maison Anne Frank</strong> est un lieu de mémoire dont la visite appelle au recueillement.</p>"
+    },
+    {
+      "id": "velos",
+      "title": "À vélo, avec attention",
+      "icon": "fa-bicycle",
+      "content": "<p>Amsterdam est une ville cyclable, pas un décor de vélo. Restez sur les pistes, ne vous arrêtez pas dans les flux et stationnez uniquement aux emplacements prévus. En cas de doute, préférez tram et marche.</p>"
+    }
+  ]
+}

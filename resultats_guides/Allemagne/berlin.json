@@ -1,0 +1,243 @@
+{
+  "slug": "berlin",
+  "name": "Berlin",
+  "country": "Allemagne",
+  "country_code": "DE",
+  "image": "/assets/guides/berlin-cover.webp",
+  "hero_image": "/assets/guides/berlin-hero.webp",
+  "description": "Capitale alternative et creative. Histoire, techno et currywurst.",
+  "reading_time": 20,
+  "featured": false,
+  "featured_title": "Berlin : Histoire et avant-garde",
+  "featured_subtitle": "A 8h de Paris, la capitale allemande melange memoire du XXe siecle et scene creative bouillonnante.",
+  "tags": [
+    "ICE",
+    "Culture",
+    "Nightlife"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-clock",
+      "label": "Depuis Paris",
+      "value": "8h"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Distance",
+      "value": "1 050 km"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Ligne",
+      "value": "ICE"
+    }
+  ],
+  "introduction": "L'ICE file a travers l'Allemagne avant d'entrer dans Berlin Hauptbahnhof, cathedrale de verre et d'acier. Berlin n'est pas une ville comme les autres : ici, les cicatrices du XXe siecle cohabitent avec une creativite debridee. La Porte de Brandebourg a vu l'histoire defiler, le Mur laisse encore ses traces, et les clubs techno battent jusqu'au petit matin. Entre musees de classe mondiale, street art omnipresent et brunchs dominicaux interminables, Berlin invente chaque jour sa propre modernite.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Porte de Brandebourg",
+        "description": "Monument néoclassique au cœur de l’histoire allemande contemporaine."
+      },
+      {
+        "name": "Mémorial aux Juifs assassinés d’Europe",
+        "description": "Champ de 2 711 stèles et centre d’information, à visiter avec lenteur."
+      },
+      {
+        "name": "Île aux Musées",
+        "description": "Ensemble UNESCO : choisissez Neues Museum, Altes Museum ou Bode-Museum ; le Pergamonmuseum est fermé jusqu’au 4 juin 2027."
+      },
+      {
+        "name": "East Side Gallery",
+        "description": "Longue portion du Mur transformée en galerie à ciel ouvert."
+      },
+      {
+        "name": "Reichstag",
+        "description": "Siège du Bundestag, dont la coupole se visite sur réservation."
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Traces du Mur",
+        "description": "Comparer East Side Gallery, Bernauer Straße et anciennes zones frontalières."
+      },
+      {
+        "name": "Kreuzberg et Neukölln",
+        "description": "Explorer cafés, marchés et cuisines du monde sans réduire ces quartiers à la nuit."
+      },
+      {
+        "name": "Prenzlauer Berg",
+        "description": "Parcourir rues résidentielles, cours et marchés."
+      },
+      {
+        "name": "Spree au crépuscule",
+        "description": "Marcher le long de la rivière pour voir les monuments sous une lumière douce."
+      },
+      {
+        "name": "Scène culturelle",
+        "description": "Choisir concert, cinéma, bar ou club selon ses envies et les règles des lieux."
+      }
+    ],
+    "mobility": [
+      {
+        "name": "U-Bahn et S-Bahn",
+        "description": "Réseau adapté à une ville étendue ; fonctionnement nocturne différent selon les jours."
+      },
+      {
+        "name": "Tram et bus",
+        "description": "Essentiels dans l’est et utiles la nuit."
+      },
+      {
+        "name": "Vélo",
+        "description": "Ville plate et cyclable, mais grandes distances."
+      },
+      {
+        "name": "À pied",
+        "description": "Chaque quartier se découvre bien, sans sous-estimer les temps de trajet."
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Histoire, mémoire et Mur de Berlin",
+      "description": "Une journée pour comprendre le XXe siècle berlinois.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Arrivée à Berlin Hauptbahnhof",
+          "description": "Rejoignez le quartier gouvernemental à pied ou en S-Bahn.",
+          "type": "transport"
+        },
+        {
+          "time": "10:00",
+          "title": "Porte de Brandebourg",
+          "description": "Observez l’axe entre Tiergarten, Reichstag et Unter den Linden.",
+          "type": "visit"
+        },
+        {
+          "time": "10:45",
+          "title": "Mémorial aux Juifs assassinés d’Europe",
+          "description": "Traversez le champ de stèles avec discrétion, puis visitez le centre d’information si vous le souhaitez.",
+          "type": "visit"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner à Mitte",
+          "description": "Faites une pause simple avant de poursuivre.",
+          "type": "food"
+        },
+        {
+          "time": "14:00",
+          "title": "Topographie de la Terreur",
+          "description": "Préférez ce site documentaire pour replacer l’histoire du régime nazi et de la répression dans son contexte.",
+          "type": "visit"
+        },
+        {
+          "time": "16:30",
+          "title": "East Side Gallery",
+          "description": "Parcourez les peintures du Mur et les panneaux historiques.",
+          "type": "visit"
+        },
+        {
+          "time": "18:30",
+          "title": "Kreuzberg et Landwehrkanal",
+          "description": "Marchez au bord du canal entre parcs et terrasses.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner à Kreuzberg ou Neukölln",
+          "description": "Découvrez l’une des nombreuses cuisines de quartier.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Musées, quartiers et Berlin contemporain",
+      "description": "Une journée entre collections majeures, architecture politique et scènes locales.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Île aux Musées",
+          "description": "Choisissez un musée : Neues Museum, Altes Museum ou Bode-Museum. Le Pergamonmuseum est fermé jusqu’au 4 juin 2027.",
+          "type": "visit"
+        },
+        {
+          "time": "12:00",
+          "title": "Unter den Linden et déjeuner",
+          "description": "Marchez vers Hackescher Markt puis arrêtez-vous dans une cour ou un café.",
+          "type": "food"
+        },
+        {
+          "time": "13:30",
+          "title": "Hackesche Höfe et Mitte",
+          "description": "Explorez cours intérieures, boutiques et galeries sans programme trop rigide.",
+          "type": "leisure"
+        },
+        {
+          "time": "15:00",
+          "title": "Reichstag",
+          "description": "Visitez la coupole si votre réservation est confirmée, sinon profitez du quartier gouvernemental et de la Spree.",
+          "type": "visit"
+        },
+        {
+          "time": "17:00",
+          "title": "Prenzlauer Berg ou Mauerpark",
+          "description": "Prenez le tram vers les rues résidentielles, marchés ou parc selon le jour.",
+          "type": "leisure"
+        },
+        {
+          "time": "19:00",
+          "title": "Dîner et soirée culturelle",
+          "description": "Choisissez un concert, cinéma, bar ou événement en fonction de vos envies.",
+          "type": "food"
+        },
+        {
+          "time": "22:00",
+          "title": "Retour par les transports nocturnes",
+          "description": "Vérifiez l’itinéraire officiel : fréquences et lignes varient selon le jour.",
+          "type": "transport"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure periode",
+      "icon": "fa-calendar",
+      "content": "Mai-septembre pour profiter des parcs et terrasses. Marches de Noel feeriques en decembre."
+    },
+    {
+      "title": "Se deplacer",
+      "icon": "fa-bus",
+      "content": "Berlin Welcome Card pour transports illimites. U-Bahn/S-Bahn 24h/24 le week-end. Velo ideal."
+    },
+    {
+      "title": "A ne pas manquer",
+      "icon": "fa-star",
+      "content": "Reserver la coupole du Reichstag. Brunch dominical a Prenzlauer Berg. East Side Gallery au lever du soleil."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quartiers",
+      "title": "Quartiers à explorer",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>Mitte</strong> concentre monuments et musées. <strong>Kreuzberg</strong> et <strong>Neukölln</strong> mêlent canaux, cuisines du monde et scènes créatives. <strong>Prenzlauer Berg</strong> est plus résidentiel, tandis que <strong>Friedrichshain</strong> accueille l’East Side Gallery.</p>"
+    },
+    {
+      "id": "memoire",
+      "title": "Mémoire et histoire",
+      "icon": "fa-landmark",
+      "content": "<p>Le Mémorial aux Juifs assassinés d’Europe, la Topographie de la Terreur, la Bernauer Straße et l’East Side Gallery abordent des périodes différentes. Prenez le temps de lire les contextes et évitez de les traiter comme de simples décors photographiques.</p>"
+    },
+    {
+      "id": "culture",
+      "title": "Musées et culture",
+      "icon": "fa-masks-theater",
+      "content": "<p>L’Île aux Musées est incontournable, mais le <strong>Pergamonmuseum est fermé jusqu’au 4 juin 2027</strong>. Réservez quand cela est requis et consultez les expositions temporaires peu avant votre séjour.</p>"
+    }
+  ]
+}

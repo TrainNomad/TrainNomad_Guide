@@ -1,0 +1,239 @@
+{
+  "slug": "angers",
+  "name": "Angers",
+  "country": "France",
+  "country_code": "FR",
+  "image": "/assets/guides/angers-cover.webp",
+  "hero_image": "/assets/guides/angers-hero.webp",
+  "description": "Capitale de l'Anjou, ville d'art et d'histoire au bord de la Maine.",
+  "reading_time": 18,
+  "featured": false,
+  "featured_title": "Angers : L'Anjou en une journee",
+  "featured_subtitle": "A 1h30 de Paris, decouvrez le chateau medieval, les vignobles et la douceur angevine.",
+  "tags": [
+    "TGV",
+    "Patrimoine",
+    "Vin"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-clock",
+      "label": "Depuis Paris",
+      "value": "1h30"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Distance",
+      "value": "300 km"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Ligne",
+      "value": "TGV Atlantique"
+    }
+  ],
+  "introduction": "A moins de deux heures de Paris, Angers devoile ses tresors avec une elegance discrete. Le TGV glisse le long de la Loire avant de s'arreter dans cette ville ou l'ardoise des toits contraste avec le tuffeau blanc des facades. Ici, le plus grand chateau medieval de France veille sur la Tapisserie de l'Apocalypse, chef-d'oeuvre du XIVe siecle. Les quais de la Maine invitent a la flanerie, les ruelles du centre historique regorgent de boutiques d'artisans, et les vignobles de l'Anjou ne sont qu'a quelques kilometres. Bienvenue dans la douceur angevine.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Château d’Angers",
+        "description": "Forteresse aux dix-sept tours abritant la Tapisserie de l’Apocalypse, chef-d’œuvre de la fin du Moyen Âge."
+      },
+      {
+        "name": "Cathédrale Saint-Maurice",
+        "description": "Édifice gothique angevin dominant la Maine, connu pour ses voûtes bombées et ses vitraux."
+      },
+      {
+        "name": "Maison d’Adam",
+        "description": "Maison à colombages de la fin du XVe siècle, célèbre pour sa façade sculptée."
+      },
+      {
+        "name": "Musée des Beaux-Arts",
+        "description": "Collections d’art ancien et moderne dans le logis Barrault, au cœur du centre historique."
+      },
+      {
+        "name": "Galerie David d’Angers",
+        "description": "Ancienne église lumineuse réunissant les sculptures monumentales de Pierre-Jean David."
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Tapisserie de l’Apocalypse",
+        "description": "Prendre le temps de suivre ce récit brodé de plus de cent mètres dans sa galerie dédiée."
+      },
+      {
+        "name": "Bords de Maine",
+        "description": "Marcher des quais vers la Doutre pour observer les toits d’ardoise et la silhouette du château."
+      },
+      {
+        "name": "Vins d’Anjou",
+        "description": "Découvrir Savennières, Coteaux-du-Layon ou Crémant de Loire dans un bar à vins."
+      },
+      {
+        "name": "La Doutre",
+        "description": "Traverser la Maine pour explorer hôtels particuliers, ruelles et jardins."
+      },
+      {
+        "name": "Terra Botanica",
+        "description": "Consacrer une demi-journée au parc consacré au végétal, particulièrement adapté aux familles."
+      }
+    ],
+    "mobility": [
+      {
+        "name": "À pied",
+        "description": "Château, cathédrale, musées et quais s’enchaînent facilement à pied, avec quelques pentes."
+      },
+      {
+        "name": "Tramway et bus Irigo",
+        "description": "Le réseau dessert gare, centre et quartiers ; vérifiez lignes et horaires avant de partir."
+      },
+      {
+        "name": "Vélo",
+        "description": "Les rives de Maine et les itinéraires ligériens se prêtent bien au vélo."
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Cité historique et bords de Maine",
+      "description": "Une journée dense entre forteresse médiévale, patrimoine gothique et douceur des quais.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Arrivée à Angers Saint-Laud",
+          "description": "Rejoignez le centre à pied ou en tram, déposez vos bagages puis gagnez les remparts.",
+          "type": "transport"
+        },
+        {
+          "time": "10:00",
+          "title": "Château d’Angers et Tapisserie de l’Apocalypse",
+          "description": "Parcourez remparts et jardins, puis prenez le temps d’observer le récit brodé dans la galerie dédiée.",
+          "type": "visit"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner dans le centre historique",
+          "description": "Choisissez une table autour de la place du Ralliement et privilégiez les produits ligériens.",
+          "type": "food"
+        },
+        {
+          "time": "14:00",
+          "title": "Cathédrale Saint-Maurice et Maison d’Adam",
+          "description": "Admirez les voûtes angevines, les vitraux puis les détails sculptés de la maison voisine.",
+          "type": "visit"
+        },
+        {
+          "time": "15:30",
+          "title": "Musée des Beaux-Arts ou galerie David d’Angers",
+          "description": "Choisissez entre peinture et sculpture selon vos envies, sans chercher à tout voir.",
+          "type": "visit"
+        },
+        {
+          "time": "17:00",
+          "title": "Passage dans la Doutre",
+          "description": "Traversez la Maine pour des ruelles plus calmes et de belles vues sur la forteresse.",
+          "type": "leisure"
+        },
+        {
+          "time": "18:30",
+          "title": "Apéritif de vins d’Anjou",
+          "description": "Goûtez un blanc sec, un crémant ou un moelleux accompagné de produits locaux.",
+          "type": "food"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner ou retour vers la gare",
+          "description": "Terminez sur les quais ou rejoignez Saint-Laud avec une marge confortable.",
+          "type": "transport"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Jardins, culture et douceur angevine",
+      "description": "Une seconde journée plus lente entre patrimoine végétal, art et promenades.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Petit-déjeuner et marché",
+          "description": "Commencez dans une boulangerie ou un marché selon le jour.",
+          "type": "food"
+        },
+        {
+          "time": "10:30",
+          "title": "Terra Botanica ou Musée Jean-Lurçat",
+          "description": "Choisissez le parc végétal ou le musée de la Tapisserie contemporaine selon vos intérêts.",
+          "type": "visit"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner près de la Maine",
+          "description": "Faites une pause avec vue sur l’eau avant de poursuivre les promenades.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Balade à vélo ou à pied",
+          "description": "Suivez les rives de Maine à votre rythme, entre végétation, ardoise et tuffeau.",
+          "type": "leisure"
+        },
+        {
+          "time": "16:30",
+          "title": "Boutiques et ateliers du centre",
+          "description": "Explorez les petites rues pour leurs librairies, ateliers et commerces indépendants.",
+          "type": "leisure"
+        },
+        {
+          "time": "18:00",
+          "title": "Dernier regard sur le château",
+          "description": "Placez-vous face aux remparts quand la lumière de fin de journée adoucit la pierre.",
+          "type": "leisure"
+        },
+        {
+          "time": "18:30",
+          "title": "Retour à Angers Saint-Laud",
+          "description": "Récupérez vos bagages et rejoignez la gare.",
+          "type": "transport"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure periode",
+      "icon": "fa-calendar",
+      "content": "Avril-juin et septembre-octobre. Printemps ideal pour les jardins et vignobles en fleur."
+    },
+    {
+      "title": "Se deplacer",
+      "icon": "fa-bus",
+      "content": "Centre compact et pietonnise. Tramway ligne A pour Terra Botanica. Velos en libre-service Velo+."
+    },
+    {
+      "title": "A ne pas manquer",
+      "icon": "fa-star",
+      "content": "La Tapisserie de l'Apocalypse au chateau. Un verre de Coteaux du Layon en terrasse. Les quais au coucher du soleil."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quartiers",
+      "title": "Quartiers et promenades",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>La Cité</strong> rassemble château, cathédrale et rues médiévales. <strong>La Doutre</strong>, sur l’autre rive, offre hôtels particuliers, ruelles et vues sur la forteresse.</p><p><strong>Les quais de Maine</strong> relient les deux rives à pied ou à vélo, surtout agréablement en fin d’après-midi.</p>"
+    },
+    {
+      "id": "gastronomie",
+      "title": "Gastronomie et vins",
+      "icon": "fa-utensils",
+      "content": "<p>Angers est une porte d’entrée vers les vignobles de l’Anjou : <strong>Savennières</strong>, <strong>Coteaux-du-Layon</strong> et <strong>Crémant de Loire</strong>. Goûtez rillauds, fouées, fromages de chèvre et fruits du Val de Loire en privilégiant les adresses qui expliquent l’origine des produits.</p>"
+    },
+    {
+      "id": "autour",
+      "title": "Autour d’Angers",
+      "icon": "fa-compass",
+      "content": "<p>Pour prolonger le séjour, explorez les bords de Loire, les villages viticoles et les châteaux de l’Anjou. Préparez l’excursion selon les transports réellement disponibles.</p>"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "slug": "bruxelles",
+  "name": "Bruxelles",
+  "country": "Belgique",
+  "country_code": "BE",
+  "image": "/assets/guides/bruxelles-cover.webp",
+  "hero_image": "/assets/guides/bruxelles-hero.webp",
+  "description": "Capitale de l'Europe. Gaufres, bandes dessinees et Grand-Place.",
+  "reading_time": 18,
+  "featured": false,
+  "featured_title": "Bruxelles : Art nouveau et gourmandise",
+  "featured_subtitle": "A 1h22 de Paris, la capitale belge melange patrimoine UNESCO, BD et chocolat.",
+  "tags": [
+    "Eurostar",
+    "Art Nouveau",
+    "Gastronomie"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-clock",
+      "label": "Depuis Paris",
+      "value": "1h22"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Distance",
+      "value": "315 km"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Ligne",
+      "value": "Eurostar"
+    }
+  ],
+  "introduction": "En a peine plus d'une heure, l'Eurostar vous depose a Bruxelles-Midi. La capitale de l'Europe est bien plus qu'une ville de fonctionnaires : sa Grand-Place baroque éblouit Victor Hugo, ses fresques de BD colorent les murs, et ses chocolatiers rivalisent d'excellence. Ici, l'Art nouveau s'epanouit dans les hotels particuliers de Victor Horta, les frites se degustent en cornet, et les bieres trappistes se savourent dans des estaminets seculaires. Bienvenue dans la plus surprenante des capitales.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Grand-Place",
+        "description": "Ensemble monumental de maisons de corporations et hôtel de ville, classé à l’UNESCO."
+      },
+      {
+        "name": "Musées royaux des Beaux-Arts",
+        "description": "Collections des primitifs flamands à l’art moderne, avec Musée Magritte à proximité."
+      },
+      {
+        "name": "Musée Magritte",
+        "description": "Œuvres et archives de René Magritte, entrée idéale dans le surréalisme belge."
+      },
+      {
+        "name": "Musée Horta",
+        "description": "Maison et atelier de Victor Horta, essentiels pour comprendre l’Art nouveau."
+      },
+      {
+        "name": "Mont des Arts et Sablon",
+        "description": "Belvédère, jardins et quartier de galeries, antiquaires et chocolatiers."
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Parcours BD",
+        "description": "Chercher les fresques inspirées de la bande dessinée dans le centre."
+      },
+      {
+        "name": "Chocolat belge",
+        "description": "Comparer pralinés, ganaches et tablettes chez plusieurs artisans."
+      },
+      {
+        "name": "Bières belges",
+        "description": "Découvrir lambic, gueuze, saison ou bière d’abbaye avec conseil."
+      },
+      {
+        "name": "Art nouveau",
+        "description": "Observer façades et ferronneries de Saint-Gilles et Ixelles."
+      },
+      {
+        "name": "Marolles",
+        "description": "Explorer marchés, friperies et ambiance populaire du quartier."
+      }
+    ],
+    "mobility": [
+      {
+        "name": "Métro, tram et bus STIB",
+        "description": "Réseau utile vers les musées, Saint-Gilles et Ixelles."
+      },
+      {
+        "name": "À pied",
+        "description": "Centre, Sablon, Mont des Arts et Marolles s’enchaînent bien, malgré les pentes."
+      },
+      {
+        "name": "Villo! et vélo",
+        "description": "Utile sur certaines liaisons si vous êtes à l’aise dans la circulation."
+      },
+      {
+        "name": "Train urbain",
+        "description": "Central, Chapelle et Midi peuvent raccourcir certains déplacements."
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Grand-Place, art et gourmandises",
+      "description": "Une journée au cœur de Bruxelles, entre patrimoine, musées et traditions gourmandes.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Arrivée à Bruxelles-Midi",
+          "description": "Rejoignez le centre par métro, tram ou train local ; Bruxelles-Central est un bon point de départ.",
+          "type": "transport"
+        },
+        {
+          "time": "10:00",
+          "title": "Grand-Place",
+          "description": "Observez hôtel de ville et façades des anciennes corporations.",
+          "type": "visit"
+        },
+        {
+          "time": "10:45",
+          "title": "Galeries Royales et centre ancien",
+          "description": "Traversez les galeries, puis flânez vers les rues historiques et le Manneken-Pis.",
+          "type": "leisure"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner bruxellois",
+          "description": "Goûtez frites, croquettes aux crevettes, stoemp ou carbonnade selon vos envies.",
+          "type": "food"
+        },
+        {
+          "time": "14:00",
+          "title": "Musée Magritte ou Musées royaux",
+          "description": "Consacrez l’après-midi au surréalisme ou aux collections plus larges des Beaux-Arts.",
+          "type": "visit"
+        },
+        {
+          "time": "16:30",
+          "title": "Mont des Arts et Sablon",
+          "description": "Descendez par les jardins vers galeries, antiquaires et église du Sablon.",
+          "type": "leisure"
+        },
+        {
+          "time": "18:00",
+          "title": "Dégustation de chocolat",
+          "description": "Comparez quelques créations en demandant conseil sur pralinés et ganaches.",
+          "type": "food"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner et bières belges",
+          "description": "Terminez dans une brasserie ou un bar spécialisé, avec modération.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Art nouveau, Marolles et Bruxelles vivante",
+      "description": "Un second jour consacré aux quartiers et à l’architecture bruxelloise.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Jeu de Balle et Marolles",
+          "description": "Commencez autour du marché aux puces et des rues populaires.",
+          "type": "leisure"
+        },
+        {
+          "time": "10:30",
+          "title": "Palais de Justice et panorama",
+          "description": "Montez vers le palais et observez la ville ; vérifiez les accès selon les travaux.",
+          "type": "visit"
+        },
+        {
+          "time": "12:00",
+          "title": "Déjeuner à Saint-Gilles",
+          "description": "Faites une pause avant les quartiers d’Art nouveau.",
+          "type": "food"
+        },
+        {
+          "time": "13:30",
+          "title": "Musée Horta",
+          "description": "Visitez maison et atelier avec un créneau réservé.",
+          "type": "visit"
+        },
+        {
+          "time": "15:30",
+          "title": "Promenade Art nouveau",
+          "description": "Repérez façades, verrières et ferronneries à Saint-Gilles et Ixelles, depuis l’espace public.",
+          "type": "visit"
+        },
+        {
+          "time": "17:30",
+          "title": "Flagey ou étangs d’Ixelles",
+          "description": "Faites une pause autour des étangs ou sur une terrasse.",
+          "type": "leisure"
+        },
+        {
+          "time": "19:30",
+          "title": "Dîner de clôture",
+          "description": "Restez à Ixelles ou retournez vers le centre selon l’ambiance recherchée.",
+          "type": "food"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure periode",
+      "icon": "fa-calendar",
+      "content": "Avril-juin et septembre-octobre. Marche de Noel feerique en decembre."
+    },
+    {
+      "title": "Se deplacer",
+      "icon": "fa-bus",
+      "content": "Centre compact a pied. Metro/tram efficace. Ticket STIB 24h pratique."
+    },
+    {
+      "title": "A ne pas manquer",
+      "icon": "fa-star",
+      "content": "Grand-Place illuminee le soir. Une biere trappiste authentique. Le chocolat Pierre Marcolini."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quartiers",
+      "title": "Quartiers à explorer",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>Le centre historique</strong> rassemble Grand-Place et galeries. <strong>Le Sablon</strong> est plus élégant ; <strong>les Marolles</strong> plus populaires et créatives. <strong>Saint-Gilles</strong> et <strong>Ixelles</strong> sont essentiels pour l’Art nouveau et la vie de quartier.</p>"
+    },
+    {
+      "id": "gourmandises",
+      "title": "Chocolat, frites et bières",
+      "icon": "fa-utensils",
+      "content": "<p>Goûtez chocolat, frites, croquettes aux crevettes, carbonnade ou stoemp selon vos envies. Les bières fortes se dégustent lentement ; un établissement spécialisé peut conseiller des styles plus acides, maltés ou légers.</p>"
+    },
+    {
+      "id": "art-nouveau",
+      "title": "L’Art nouveau bruxellois",
+      "icon": "fa-building",
+      "content": "<p>Victor Horta a marqué la ville. Le Musée Horta est le meilleur point d’entrée ; Saint-Gilles et Ixelles révèlent aussi de nombreuses façades. Respectez le caractère résidentiel des rues.</p>"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "slug": "lisbonne",
+  "name": "Lisbonne",
+  "country": "Portugal",
+  "country_code": "PT",
+  "image": "/assets/guides/lisbonne-cover.webp",
+  "hero_image": "/assets/guides/lisbonne-hero.webp",
+  "description": "La capitale portugaise la plus attachante. Fado, Alfama et pastéis de nata au bout du rail.",
+  "reading_time": 15,
+  "featured": true,
+  "featured_title": "Lisbonne : 3 jours au bout du rail",
+  "featured_subtitle": "La capitale européenne la plus attachante, accessible en train avec correspondances depuis Paris. Architecture, azulejos et mélancolie ensoleillée.",
+  "tags": [
+    "Portugal",
+    "Train",
+    "Culture",
+    "Gastronomie"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-clock",
+      "label": "Accès depuis Paris",
+      "value": "Avec correspondances, selon la date"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Distance",
+      "value": "Environ 1 700 km à vol d’oiseau"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Gares principales",
+      "value": "Santa Apolónia et Oriente"
+    }
+  ],
+  "introduction": "Le train s'immobilise doucement le long du Tage, et déjà la lumière dorée de Lisbonne inonde les quais de Santa Apolónia. Vous avez traversé la péninsule ibérique de nuit, laissant derrière vous Paris, Hendaye et Madrid. Au petit matin, la ville aux sept collines s'offre à vous : façades recouvertes d'azulejos bleus et blancs, ruelles escarpées où résonne le fado, terrasses ensoleillées où l'on déguste un pastel de nata encore tiède. Bienvenue à Lisbonne, terminus poétique d'un voyage ferroviaire inoubliable.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Castelo de São Jorge",
+        "description": "Forteresse médiévale dominant la ville avec vue panoramique"
+      },
+      {
+        "name": "Praça do Comércio",
+        "description": "Place majestueuse ouverte sur le Tage"
+      },
+      {
+        "name": "Monastère des Hiéronymites",
+        "description": "Chef-d'œuvre de l'art manuélin, UNESCO"
+      },
+      {
+        "name": "Tour de Belém",
+        "description": "Symbole des grandes découvertes portugaises"
+      },
+      {
+        "name": "Cathédrale Sé",
+        "description": "Plus ancien édifice religieux de Lisbonne"
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Tram 28",
+        "description": "Ligne mythique traversant les quartiers historiques"
+      },
+      {
+        "name": "Fado à Alfama",
+        "description": "Soirée musicale dans les tavernes traditionnelles"
+      },
+      {
+        "name": "Pastéis de Belém",
+        "description": "La pâtisserie originale des pastéis de nata depuis 1837"
+      }
+    ],
+    "mobility": [
+      {
+        "name": "Métro",
+        "description": "4 lignes couvrant les principaux quartiers"
+      },
+      {
+        "name": "Funiculaires",
+        "description": "Glória, Bica et Lavra pour gravir les collines"
+      },
+      {
+        "name": "Tramways",
+        "description": "Lignes 12, 15, 18, 25 et le mythique 28"
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Alfama et les collines historiques",
+      "description": "Première immersion dans le cœur battant de Lisbonne",
+      "steps": [
+        {
+          "time": "08:00",
+          "title": "Arrivée à Santa Apolónia",
+          "description": "Descendez du train et savourez ce premier contact avec Lisbonne. La gare donne directement sur le quartier d'Alfama. Prenez un café galão et une torrada dans un bar de gare pour vous réveiller.",
+          "type": "transport"
+        },
+        {
+          "time": "09:30",
+          "title": "Déambulation dans Alfama",
+          "description": "Remontez à pied les ruelles tortueuses du plus ancien quartier de Lisbonne. Laissez-vous perdre entre les façades d'azulejos, le linge qui sèche aux fenêtres et les miradouros qui offrent des points de vue époustouflants.",
+          "type": "visit"
+        },
+        {
+          "time": "11:00",
+          "title": "Cathédrale Sé de Lisbonne",
+          "description": "Visitez l'imposante cathédrale romane, construite en 1147 après la reconquête chrétienne. Son cloître mérite le détour.",
+          "type": "visit"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner à Alfama",
+          "description": "Installez-vous dans une tasca traditionnelle. Goûtez au bacalhau à brás (morue aux œufs brouillés) ou aux sardinhas assadas (sardines grillées).",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Castelo de São Jorge",
+          "description": "Grimpez jusqu'au château maure qui domine la ville. La vue à 360° sur Lisbonne et le Tage est inoubliable. Prenez votre temps dans les jardins.",
+          "type": "visit"
+        },
+        {
+          "time": "17:00",
+          "title": "Miradouro da Graça",
+          "description": "Redescendez par le quartier de Graça et faites une pause au miradouro avec un verre de Ginjinha, la liqueur de cerises locale.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Soirée Fado",
+          "description": "Dînez dans une casa de fado traditionnelle d'Alfama. Le fado, inscrit au patrimoine immatériel de l'UNESCO, se vit dans l'intimité de ces petites salles où chanteurs et guitaristes vous transportent.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Belém et les rives du Tage",
+      "description": "Sur les traces des grands explorateurs portugais",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Tram 15E vers Belém",
+          "description": "Depuis la Praça do Comércio, prenez le tramway moderne qui longe le Tage jusqu'à Belém. Le trajet offre de belles vues sur le fleuve.",
+          "type": "transport"
+        },
+        {
+          "time": "09:45",
+          "title": "Tour de Belém",
+          "description": "Commencez par l'emblème de Lisbonne, cette tour fortifiée du XVIe siècle qui gardait l'entrée du port. Style manuélin unique mêlant gothique tardif et influences mauresques.",
+          "type": "visit"
+        },
+        {
+          "time": "11:00",
+          "title": "Monastère des Hiéronymites",
+          "description": "Chef-d'œuvre absolu de l'architecture portugaise. L'église et le cloître sont d'une finesse incroyable. Comptez 1h30 minimum.",
+          "type": "visit"
+        },
+        {
+          "time": "12:30",
+          "title": "Pastéis de Belém",
+          "description": "Pause obligatoire à la pâtisserie historique qui produit les authentiques pastéis de nata depuis 1837. Recette secrète, croûte croustillante, crème onctueuse. Un café et deux pastéis : le bonheur.",
+          "type": "food"
+        },
+        {
+          "time": "14:00",
+          "title": "Monument des Découvertes",
+          "description": "Admirez ce monument de 52 mètres célébrant l'ère des grandes découvertes. La rose des vents au sol indique les routes des explorateurs portugais.",
+          "type": "visit"
+        },
+        {
+          "time": "15:30",
+          "title": "MAAT ou Musée des Carrosses",
+          "description": "Choisissez entre le MAAT (art contemporain dans un bâtiment spectaculaire) ou le Musée des Carrosses (collection unique de voitures royales).",
+          "type": "visit"
+        },
+        {
+          "time": "17:30",
+          "title": "Balade sur les Docks",
+          "description": "Promenez-vous le long des anciens docks réhabilités. Cafés branchés, vues sur le Pont du 25 Avril (sosie du Golden Gate).",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner à Alcântara",
+          "description": "Le quartier d'Alcântara propose une scène culinaire moderne. Fruits de mer, cuisine fusion ou traditionnelle revisitée.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "LX Factory, Bairro Alto et départ",
+      "description": "Entre créativité urbaine et charme bohème",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "LX Factory",
+          "description": "Ancienne zone industrielle reconvertie en hub créatif. Boutiques design, librairie spectaculaire Ler Devagar, street art et cafés branchés. Le brunch y est excellent.",
+          "type": "visit"
+        },
+        {
+          "time": "11:30",
+          "title": "Tram 28 vers le Chiado",
+          "description": "Prenez le mythique Tram 28 qui serpente à travers les quartiers historiques. Sensation garantie dans les montées et descentes abruptes.",
+          "type": "transport"
+        },
+        {
+          "time": "12:00",
+          "title": "Chiado et Livraria Bertrand",
+          "description": "Quartier élégant des lettres et des arts. Visitez la Livraria Bertrand, plus ancienne librairie du monde encore en activité (1732).",
+          "type": "visit"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner au Bairro Alto",
+          "description": "Trouvez une petite adresse dans les ruelles du Bairro Alto, quartier bohème et festif. La journée, il est calme et charmant.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Elevador de Santa Justa",
+          "description": "Cet ascenseur néo-gothique en fer forgé relie la Baixa au Chiado. Vue magnifique depuis la plateforme supérieure.",
+          "type": "visit"
+        },
+        {
+          "time": "15:30",
+          "title": "Praça do Comércio",
+          "description": "Terminez par cette place monumentale ouverte sur le Tage. L'arc de triomphe de la Rua Augusta marque l'entrée de la Baixa.",
+          "type": "visit"
+        },
+        {
+          "time": "17:00",
+          "title": "Retour vers Santa Apolónia ou Oriente",
+          "description": "Récupérez vos bagages et dirigez-vous vers votre gare de départ. Si votre train part de Lisboa-Oriente, admirez l'architecture de Calatrava.",
+          "type": "transport"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure période",
+      "icon": "fa-calendar",
+      "content": "Avril-juin et septembre-octobre. Été très chaud et touristique. Hiver doux mais parfois pluvieux."
+    },
+    {
+      "title": "Se déplacer",
+      "icon": "fa-bus",
+      "content": "Lisboa Card (24/48/72h) : transports illimités + entrées gratuites aux monuments. Sinon, carte Viva Viagem rechargeable pour métro/bus/tram."
+    },
+    {
+      "title": "À ne pas manquer",
+      "icon": "fa-star",
+      "content": "Le coucher de soleil depuis le Miradouro da Senhora do Monte. Les sardines grillées en terrasse. Le tram 28 tôt le matin (moins bondé)."
+    }
+  ],
+  "sections": [
+    {
+      "id": "gares",
+      "title": "Les gares de Lisbonne",
+      "icon": "fa-train",
+      "content": "<p><strong>Santa Apolónia</strong> est une gare historique sur les rives du Tage, proche d’Alfama et reliée au métro.</p><p><strong>Lisboa-Oriente</strong>, conçue par Santiago Calatrava pour l’Expo ’98, est un grand pôle ferroviaire et urbain relié au métro, aux bus et au Parque das Nações.</p><p>Vérifiez votre gare d’arrivée ou de départ lors de la réservation : les services ne desservent pas tous la même gare.</p>"
+    },
+    {
+      "id": "quartiers",
+      "title": "Quartiers à explorer",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>Alfama</strong> : le plus ancien quartier, épargné par le séisme de 1755. Ruelles médiévales tortueuses, maisons colorées aux façades d'azulejos, et tavernes de fado. Le cœur authentique de Lisbonne.</p><p><strong>Baixa</strong> : le centre-ville reconstruit en damier après le tremblement de terre. Rues commerçantes élégantes, places majestueuses et architecture pombaline harmonieuse.</p><p><strong>Belém</strong> : quartier des grandes découvertes. Monastère des Hiéronymites, Tour de Belém, pastéis de nata originels et musées de classe mondiale.</p><p><strong>Bairro Alto</strong> : quartier bohème et nocturne. Ruelles pavées, bars alternatifs et ambiance créative.</p>"
+    },
+    {
+      "id": "gastronomie",
+      "title": "Gastronomie",
+      "icon": "fa-utensils",
+      "content": "<p>La cuisine lisboète est un hymne aux produits de la mer et aux saveurs authentiques.</p><p><strong>Bacalhau</strong> : la morue se décline en dizaines de recettes. Essayez le bacalhau à brás (effiloché aux œufs et pommes paille) ou le bacalhau com natas (gratiné à la crème).</p><p><strong>Sardinhas assadas</strong> : sardines grillées au charbon, incontournables en été lors des fêtes populaires.</p><p><strong>Pastéis de nata</strong> : ces petits flans à la pâte feuilletée sont une religion. Pastéis de Belém ou Manteigaria pour les meilleurs.</p><p><strong>Ginjinha</strong> : liqueur de cerises servie dans les petits bars du Rossio. Un classique à déguster.</p>"
+    }
+  ]
+}

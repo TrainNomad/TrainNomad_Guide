@@ -1,0 +1,243 @@
+{
+  "slug": "milan",
+  "name": "Milan",
+  "country": "Italie",
+  "country_code": "IT",
+  "image": "/assets/guides/milan-cover.webp",
+  "hero_image": "/assets/guides/milan-hero.webp",
+  "description": "Capitale du design et de la mode. Duomo, Navigli et risotto alla milanese.",
+  "reading_time": 20,
+  "featured": false,
+  "featured_title": "Milan : Design, mode et aperitivo",
+  "featured_subtitle": "A 7h de Paris, la capitale lombarde melange elegance, art et dolce vita.",
+  "tags": [
+    "TGV",
+    "Design",
+    "Mode"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-clock",
+      "label": "Depuis Paris",
+      "value": "7h"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Distance",
+      "value": "850 km"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Ligne",
+      "value": "TGV / Frecciarossa"
+    }
+  ],
+  "introduction": "Le train traverse les Alpes et la plaine du Po avant d'entrer dans Milano Centrale, cathedrale ferroviaire Art deco. Milan n'est pas une ville-musee : c'est une metropole vibrante ou mode et design dictent les tendances mondiales. Ici, le Duomo de marbre blanc defie le ciel, la Cene de Leonard se contemple en silence, et l'aperitivo sur les Navigli inaugure des soirees italiennes memorables. Entre Via Montenapoleone et Brera, Milan cultive une elegance discrete.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Duomo et terrasses",
+        "description": "Cathédrale gothique de marbre blanc, dont les terrasses offrent flèches et panorama."
+      },
+      {
+        "name": "Cène de Léonard de Vinci",
+        "description": "Fresque de Santa Maria delle Grazie, accessible sur réservation et créneau limité."
+      },
+      {
+        "name": "Pinacothèque de Brera",
+        "description": "Grand musée de peinture italienne au cœur d’un quartier d’ateliers et librairies."
+      },
+      {
+        "name": "Galleria Vittorio Emanuele II",
+        "description": "Galerie du XIXe siècle entre Duomo et Scala, remarquable pour sa verrière."
+      },
+      {
+        "name": "Fondazione Prada",
+        "description": "Institution d’art contemporain dans une ancienne distillerie."
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Aperitivo",
+        "description": "Prendre un verre accompagné de petites assiettes en début de soirée."
+      },
+      {
+        "name": "Navigli au crépuscule",
+        "description": "Marcher autour de la Darsena et des canaux avant le dîner."
+      },
+      {
+        "name": "Brera",
+        "description": "Explorer ruelles, galeries et terrasses de ce quartier artistique."
+      },
+      {
+        "name": "Quadrilatère de la mode",
+        "description": "Observer les vitrines de Via Montenapoleone et rues voisines."
+      },
+      {
+        "name": "Café milanais",
+        "description": "Faire une pause debout au comptoir ou dans un café historique."
+      }
+    ],
+    "mobility": [
+      {
+        "name": "Métro ATM",
+        "description": "Solution la plus rapide pour relier Centrale, Duomo et quartiers éloignés."
+      },
+      {
+        "name": "Tramway",
+        "description": "Les trams historiques offrent une traversée plus visuelle de la ville."
+      },
+      {
+        "name": "À pied",
+        "description": "Duomo, Brera, Scala et Quadrilatère s’enchaînent bien à pied."
+      },
+      {
+        "name": "Vélo et partage",
+        "description": "Pratique sur grands axes, avec prudence dans les rues circulées."
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Duomo, Brera et Navigli",
+      "description": "Une première journée entre monuments emblématiques, art italien et aperitivo.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Arrivée à Milano Centrale",
+          "description": "Prenez le métro vers le Duomo ou déposez vos bagages ; admirez la gare avant de partir.",
+          "type": "transport"
+        },
+        {
+          "time": "10:00",
+          "title": "Duomo et terrasses",
+          "description": "Visitez cathédrale et terrasses avec un créneau réservé.",
+          "type": "visit"
+        },
+        {
+          "time": "12:00",
+          "title": "Galleria et Scala",
+          "description": "Traversez la galerie puis rejoignez la piazza della Scala.",
+          "type": "visit"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner milanais",
+          "description": "Choisissez risotto, ossobuco ou cotoletta dans une rue en retrait.",
+          "type": "food"
+        },
+        {
+          "time": "15:00",
+          "title": "Pinacothèque de Brera",
+          "description": "Visitez le musée puis flânez dans les rues du quartier.",
+          "type": "visit"
+        },
+        {
+          "time": "17:30",
+          "title": "Vers la Darsena",
+          "description": "Rejoignez Navigli en métro ou tram.",
+          "type": "transport"
+        },
+        {
+          "time": "18:30",
+          "title": "Aperitivo sur les Navigli",
+          "description": "Prenez un verre et quelques assiettes au bord des canaux.",
+          "type": "food"
+        },
+        {
+          "time": "20:30",
+          "title": "Dîner à Navigli",
+          "description": "Choisissez une table dans une rue adjacente aux quais.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Léonard, design et Milan contemporaine",
+      "description": "De la Renaissance à l’art contemporain et aux quartiers créatifs.",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Cène de Léonard de Vinci",
+          "description": "Présentez-vous à Santa Maria delle Grazie avec une marge confortable.",
+          "type": "visit"
+        },
+        {
+          "time": "10:30",
+          "title": "Corso Magenta",
+          "description": "Observez l’église et parcourez cette avenue historique.",
+          "type": "leisure"
+        },
+        {
+          "time": "12:00",
+          "title": "Château des Sforza et Parco Sempione",
+          "description": "Visitez le château ou traversez le parc vers l’Arco della Pace.",
+          "type": "visit"
+        },
+        {
+          "time": "13:30",
+          "title": "Déjeuner à Brera ou Porta Garibaldi",
+          "description": "Choisissez une table entre cuisine traditionnelle et design contemporain.",
+          "type": "food"
+        },
+        {
+          "time": "15:00",
+          "title": "Design District ou Fondazione Prada",
+          "description": "Explorez Porta Nuova/Isola ou l’art contemporain de la Fondazione Prada.",
+          "type": "visit"
+        },
+        {
+          "time": "17:30",
+          "title": "Quadrilatère de la mode",
+          "description": "Parcourez Via Montenapoleone sans obligation d’achat.",
+          "type": "leisure"
+        },
+        {
+          "time": "19:00",
+          "title": "Retour vers Centrale",
+          "description": "Prenez un dernier espresso puis rejoignez la gare avec une marge adaptée.",
+          "type": "transport"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure periode",
+      "icon": "fa-calendar",
+      "content": "Avril-juin et septembre-octobre. Fashion Week en fevrier et septembre. Ete chaud et deserte en aout."
+    },
+    {
+      "title": "Se deplacer",
+      "icon": "fa-bus",
+      "content": "Metro M1/M3 couvrent l'essentiel. Tramways historiques. Centre compact a pied."
+    },
+    {
+      "title": "A ne pas manquer",
+      "icon": "fa-star",
+      "content": "Reserver la Cene des mois a l'avance. Aperitivo sur les Navigli. Les terrasses du Duomo."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quartiers",
+      "title": "Quartiers à explorer",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>Le centre autour du Duomo</strong> concentre les symboles de Milan. <strong>Brera</strong> est plus artistique ; <strong>Navigli</strong> vit autour des canaux et de l’aperitivo. <strong>Porta Nuova et Isola</strong> montrent le visage contemporain de la ville.</p>"
+    },
+    {
+      "id": "gastronomie",
+      "title": "Cuisine milanaise",
+      "icon": "fa-utensils",
+      "content": "<p>La cuisine lombarde privilégie riz, safran et mijotés : <strong>risotto alla milanese</strong>, ossobuco, cotoletta et mondeghili. L’aperitivo est un rituel social, pas nécessairement un dîner complet.</p>"
+    },
+    {
+      "id": "reservations",
+      "title": "Réservations indispensables",
+      "icon": "fa-ticket",
+      "content": "<p>La <strong>Cène</strong> se réserve longtemps à l’avance. Duomo, terrasses et expositions peuvent aussi exiger un créneau. Vérifiez les sites officiels avant votre séjour.</p>"
+    }
+  ]
+}
