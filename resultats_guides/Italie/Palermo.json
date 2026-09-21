@@ -1,0 +1,278 @@
+{
+  "slug": "palermo",
+  "name": "Palerme",
+  "country": "Italie",
+  "country_code": "IT",
+  "image": "/assets/guides/palermo-cover.webp",
+  "hero_image": "/assets/guides/palermo-hero.webp",
+  "description": "Capitale sicilienne de palais arabo-normands, marchés populaires et cuisine de rue.",
+  "reading_time": 20,
+  "featured": false,
+  "featured_title": "Palerme : marchés et palais en 2 jours",
+  "featured_subtitle": "Une escapade sicilienne entre mosaïques dorées, ruelles animées, marchés historiques et promenades face à la mer.",
+  "tags": [
+    "Train de nuit",
+    "Sicile",
+    "Culture"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-clock",
+      "label": "Depuis Rome",
+      "value": "Environ 11 à 12 h"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Depuis Paris",
+      "value": "Environ 1 700 km"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Ligne",
+      "value": "Intercity Notte"
+    }
+  ],
+  "introduction": "Palerme se découvre par les sens : l’appel des marchands dans les marchés, le parfum des agrumes, des arancine et des fritures, l’éclat des mosaïques byzantines et la lumière sur la mer Tyrrhénienne. Capitale de la Sicile, la ville mêle héritages arabe, normand, byzantin, espagnol et italien dans un centre dense et vivant. Le train de nuit Intercity Notte relie notamment Rome et Milan à Palerme ; une partie du voyage comprend la traversée du détroit de Messine, les voitures du train étant acheminées par ferry vers la Sicile. Une arrivée à Palermo Centrale vous place à proximité immédiate du centre historique, des églises baroques, des marchés et du front de mer. [1][5]",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Palais des Normands et Chapelle Palatine",
+        "description": "Ancien palais royal abritant une chapelle célèbre pour ses mosaïques byzantines aux fonds d’or."
+      },
+      {
+        "name": "Cathédrale de Palerme",
+        "description": "Monument emblématique aux styles mêlés, avec tombeaux royaux et accès possible aux terrasses."
+      },
+      {
+        "name": "Quattro Canti",
+        "description": "Carrefour baroque au cœur du centre historique, point de départ pratique pour explorer les quatre quartiers anciens."
+      },
+      {
+        "name": "Église de la Martorana",
+        "description": "Église remarquable pour ses mosaïques médiévales et son architecture arabo-normande."
+      },
+      {
+        "name": "Teatro Massimo",
+        "description": "Grand opéra de Palerme, reconnaissable à son imposante façade néoclassique."
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Marché de Ballarò",
+        "description": "Flâner parmi les étals de fruits, poissons, épices et spécialités siciliennes dans une ambiance populaire."
+      },
+      {
+        "name": "Marché du Capo",
+        "description": "Explorer un marché historique au pied des remparts et près du palais de justice."
+      },
+      {
+        "name": "Cuisine de rue sicilienne",
+        "description": "Goûter arancine, panelle, sfincione, cannoli ou glace à la brioche selon vos envies."
+      },
+      {
+        "name": "Promenade au Foro Italico",
+        "description": "Marcher au bord de la mer depuis le quartier de la Kalsa jusqu’aux jardins et au port."
+      },
+      {
+        "name": "Coucher de soleil à Mondello",
+        "description": "Rejoindre la plage et l’ancien village balnéaire pour une parenthèse maritime hors du centre."
+      }
+    ],
+    "mobility": [
+      {
+        "name": "À pied",
+        "description": "Le centre historique se parcourt bien à pied, mais les trottoirs irréguliers, la chaleur et la circulation demandent de la vigilance."
+      },
+      {
+        "name": "Bus urbains AMAT",
+        "description": "Pratiques pour relier les quartiers plus éloignés, le front de mer ou Mondello ; vérifiez les horaires le jour même."
+      },
+      {
+        "name": "Train régional",
+        "description": "Utile pour certaines excursions depuis Palermo Centrale, notamment vers Cefalù ou l’ouest de la Sicile."
+      },
+      {
+        "name": "Taxi",
+        "description": "Préférez les stations officielles ou les réservations auprès d’établissements fiables, surtout en soirée."
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Palais, cathédrale et marchés historiques",
+      "description": "Une première journée au cœur de la Palerme arabo-normande, baroque et populaire.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Départ depuis Palermo Centrale",
+          "description": "Rejoignez le centre historique à pied ou en bus selon votre hébergement. Gardez vos effets personnels près de vous dans les zones très fréquentées.",
+          "type": "transport"
+        },
+        {
+          "time": "10:00",
+          "title": "Marché de Ballarò",
+          "description": "Commencez par l’un des marchés les plus vivants de la ville, idéal le matin pour observer les étals et prendre un café ou une première spécialité locale.",
+          "type": "leisure"
+        },
+        {
+          "time": "11:00",
+          "title": "Palais des Normands et Chapelle Palatine",
+          "description": "Réservez si possible votre entrée et accordez du temps aux mosaïques de la Chapelle Palatine, pièce maîtresse de l’héritage arabo-normand.",
+          "type": "visit"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner près du marché du Capo",
+          "description": "Choisissez une table simple ou une adresse de cuisine de rue pour goûter panelle, arancine ou sfincione.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Cathédrale de Palerme",
+          "description": "Observez les styles successifs de l’édifice ; si les conditions vous conviennent, montez aux terrasses pour une vue sur les toits de la ville.",
+          "type": "visit"
+        },
+        {
+          "time": "16:00",
+          "title": "Quattro Canti et Piazza Pretoria",
+          "description": "Descendez vers le carrefour baroque des Quattro Canti, puis découvrez la fontaine monumentale de Piazza Pretoria.",
+          "type": "leisure"
+        },
+        {
+          "time": "17:00",
+          "title": "Martorana et San Cataldo",
+          "description": "Entrez dans la Martorana pour ses mosaïques, puis observez les coupoles rouges caractéristiques de l’église San Cataldo voisine.",
+          "type": "visit"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner dans la Kalsa",
+          "description": "Terminez dans le quartier de la Kalsa, entre petites places, restaurants siciliens et ambiance plus calme à l’approche de la mer.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Kalsa, mer et Palerme contemporaine",
+      "description": "Une journée entre mémoire, architecture, jardins et horizon méditerranéen.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Piazza Marina et jardins Garibaldi",
+          "description": "Commencez par cette grande place bordée de palais, puis traversez les jardins et leurs ficus monumentaux.",
+          "type": "leisure"
+        },
+        {
+          "time": "10:15",
+          "title": "Palazzo Chiaramonte-Steri",
+          "description": "Découvrez un palais médiéval lié à l’histoire politique et judiciaire de la Sicile ; vérifiez les conditions de visite avant votre arrivée.",
+          "type": "visit"
+        },
+        {
+          "time": "11:30",
+          "title": "Foro Italico et front de mer",
+          "description": "Marchez vers le bord de mer pour une pause plus ouverte après la densité du centre historique.",
+          "type": "leisure"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner près du port ou de la Kalsa",
+          "description": "Choisissez poissons, pâtes siciliennes ou cuisine de rue selon l’ambiance recherchée.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Teatro Massimo",
+          "description": "Admirez l’extérieur de l’opéra et participez à une visite guidée si l’horaire le permet.",
+          "type": "visit"
+        },
+        {
+          "time": "15:30",
+          "title": "Via Maqueda et pause gourmande",
+          "description": "Remontez cette grande rue piétonne du centre, faites une halte pour un cannolo, une granita ou une glace à la brioche.",
+          "type": "food"
+        },
+        {
+          "time": "17:00",
+          "title": "Mondello ou fin d’après-midi en centre-ville",
+          "description": "Si vous souhaitez voir la mer, prenez un bus vers Mondello et prévoyez une marge pour le retour. Sinon, prolongez la promenade entre les ruelles de la Kalsa et le port.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dernier dîner sicilien",
+          "description": "Choisissez une adresse de quartier et terminez par une pâtisserie sicilienne ou un verre de marsala.",
+          "type": "food"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure période",
+      "icon": "fa-calendar",
+      "content": "Privilégiez le printemps et l’automne pour marcher confortablement. L’été peut être très chaud et animé ; l’hiver reste généralement doux, avec davantage de possibilités de pluie."
+    },
+    {
+      "title": "Se déplacer",
+      "icon": "fa-bus",
+      "content": "Le centre se visite surtout à pied. Utilisez les bus pour Mondello ou les quartiers périphériques, en consultant les horaires du jour. Prévoyez toujours une marge : la circulation peut ralentir les trajets."
+    },
+    {
+      "title": "À ne pas manquer",
+      "icon": "fa-star",
+      "content": "La Chapelle Palatine, les mosaïques de la Martorana, les marchés de Ballarò ou du Capo, une spécialité de street food et une promenade dans la Kalsa jusqu’au front de mer."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quartiers",
+      "title": "Quartiers à explorer",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>Le centre historique</strong> rassemble marchés, places et grands monuments. <strong>La Kalsa</strong> mêle palais, ruelles, ateliers et proximité de la mer. <strong>Albergheria</strong> comprend Ballarò et le Palais des Normands ; <strong>le Capo</strong> séduit par son marché et ses rues plus populaires. Pour une parenthèse balnéaire, <strong>Mondello</strong> se situe à l’extérieur du centre.</p>"
+    },
+    {
+      "id": "culture",
+      "title": "Héritages et mémoire",
+      "icon": "fa-landmark",
+      "content": "<p>Palerme porte les traces de civilisations successives. Les monuments arabo-normands, dont le Palais des Normands et la Chapelle Palatine, constituent un repère majeur de la ville. Prenez le temps de regarder les mosaïques, les inscriptions, les coupoles et les mélanges de styles, plutôt que d’enchaîner les visites.</p>"
+    },
+    {
+      "id": "marches",
+      "title": "Marchés et cuisine de rue",
+      "icon": "fa-utensils",
+      "content": "<p>Les marchés de <strong>Ballarò</strong>, du <strong>Capo</strong> et de <strong>la Vucciria</strong> offrent des atmosphères différentes. Visitez-les le matin ou autour du déjeuner, lorsque les étals et les petites adresses sont les plus vivants. Goûtez selon vos envies aux arancine, panelle, crocchè, sfincione ou cannoli, en privilégiant les lieux fréquentés et les produits préparés devant vous.</p>"
+    }
+  ],
+  "photo_spots": [
+    {
+      "name": "Quattro Canti",
+      "description": "Carrefour baroque emblématique, formé par quatre façades monumentales au cœur du centre historique.",
+      "type": "plaza",
+      "km_from_paris": 1700,
+      "lat": 38.1157,
+      "lon": 13.3615,
+      "best_side": "morning"
+    },
+    {
+      "name": "Cathédrale de Palerme",
+      "description": "Grande cathédrale aux influences normandes, arabes, gothiques et néoclassiques.",
+      "type": "landmark",
+      "km_from_paris": 1700,
+      "lat": 38.1146,
+      "lon": 13.3563,
+      "best_side": "afternoon"
+    },
+    {
+      "name": "Foro Italico",
+      "description": "Promenade ouverte sur la mer, avec vue sur le golfe et le front de mer de Palerme.",
+      "type": "waterfront",
+      "km_from_paris": 1700,
+      "lat": 38.1179,
+      "lon": 13.3755,
+      "best_side": "sunset"
+    }
+  ]
+}
