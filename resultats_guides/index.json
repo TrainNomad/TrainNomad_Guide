@@ -49,7 +49,7 @@
       "name": "Paris",
       "country": "France",
       "path": "France\\paris.json",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "milan",
