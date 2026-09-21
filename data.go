@@ -8,6 +8,7 @@ import (
 	"fmt"
 	"io"
 	"os"
+	"path/filepath"
 	"strings"
 )
 
@@ -189,6 +190,71 @@ type binSection struct {
 	dtype byte
 	count uint64
 	data  []byte
+}
+
+// LoadGuidesFromDirectory charge les donnees depuis les fichiers JSON individuels
+func LoadGuidesFromDirectory(dirPath string) (*GuidesData, error) {
+	d := &GuidesData{
+		Index:     make(map[string]int),
+		ByCountry: make(map[string][]int),
+	}
+
+	d.Meta.Version = 1
+	d.Meta.BuiltAt = "dynamic"
+
+	// Parcourir les dossiers de pays
+	countriesDirs, err := os.ReadDir(dirPath)
+	if err != nil {
+		return nil, fmt.Errorf("impossible de lire le repertoire %s: %w", dirPath, err)
+	}
+
+	for _, countryEntry := range countriesDirs {
+		if !countryEntry.IsDir() || countryEntry.Name() == "index.json" {
+			continue
+		}
+
+		countryPath := filepath.Join(dirPath, countryEntry.Name())
+		countryName := countryEntry.Name()
+
+		// Parcourir les fichiers JSON du pays
+		files, err := os.ReadDir(countryPath)
+		if err != nil {
+			continue
+		}
+
+		for _, file := range files {
+			if file.IsDir() || !strings.HasSuffix(file.Name(), ".json") {
+				continue
+			}
+
+			filePath := filepath.Join(countryPath, file.Name())
+
+			// Lire et parser le fichier JSON
+			jsonData, err := os.ReadFile(filePath)
+			if err != nil {
+				continue
+			}
+
+			var guide Guide
+			if err := json.Unmarshal(jsonData, &guide); err != nil {
+				continue
+			}
+
+			// Ajouter le guide
+			idx := len(d.Guides)
+			d.Guides = append(d.Guides, guide)
+			d.Index[guide.Slug] = idx
+			d.ByCountry[countryName] = append(d.ByCountry[countryName], idx)
+		}
+	}
+
+	d.Meta.NumGuides = len(d.Guides)
+
+	if d.Meta.NumGuides == 0 {
+		return nil, fmt.Errorf("aucun guide trouve dans %s", dirPath)
+	}
+
+	return d, nil
 }
 
 // LoadGuides charge les donnees depuis le fichier binaire compresse

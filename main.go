@@ -9,26 +9,40 @@ import (
 	"time"
 )
 
-func findGuidesData() string {
-	if p := os.Getenv("GUIDES_PATH"); p != "" {
-		return p
+func findGuidesData() (string, string) {
+	// Vérifier s'il y a un repertoire resultats_guides
+	if _, err := os.Stat("resultats_guides"); err == nil {
+		return "resultats_guides", "directory"
 	}
+
+	if p := os.Getenv("GUIDES_PATH"); p != "" {
+		return p, "binary"
+	}
+
 	for _, p := range []string{"guides.bin.gz", "guides.bin", "data/guides.bin.gz"} {
 		if _, err := os.Stat(p); err == nil {
-			return p
+			return p, "binary"
 		}
 	}
-	return "guides.bin.gz"
+	return "guides.bin.gz", "binary"
 }
 
 func main() {
 	// Limiter la mémoire (Render free tier: 512 Mo)
 	debug.SetMemoryLimit(256 << 20)
 
-	path := findGuidesData()
+	path, pathType := findGuidesData()
 	start := time.Now()
 
-	data, err := LoadGuides(path)
+	var data *GuidesData
+	var err error
+
+	if pathType == "directory" {
+		data, err = LoadGuidesFromDirectory(path)
+	} else {
+		data, err = LoadGuides(path)
+	}
+
 	if err != nil {
 		log.Fatalf("chargement de %s : %v", path, err)
 	}
