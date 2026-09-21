@@ -1,0 +1,266 @@
+{
+  "slug": "paris",
+  "name": "Paris",
+  "country": "France",
+  "country_code": "FR",
+  "image": "/assets/guides/paris-cover.webp",
+  "hero_image": "/assets/guides/paris-hero.webp",
+  "description": "Capitale française au bord de la Seine, entre musées majeurs, quartiers historiques et art de vivre.",
+  "reading_time": 22,
+  "featured": true,
+  "featured_title": "Paris : l’essentiel en deux jours",
+  "featured_subtitle": "Monuments emblématiques, grands musées, promenades sur la Seine et quartiers à vivre.",
+  "tags": [
+    "Musées",
+    "Patrimoine",
+    "Gastronomie"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-train",
+      "label": "Gares principales",
+      "value": "6 gares parisiennes"
+    },
+    {
+      "icon": "fa-subway",
+      "label": "Se déplacer",
+      "value": "Métro, RER, bus, tram"
+    },
+    {
+      "icon": "fa-landmark",
+      "label": "À voir",
+      "value": "Musées et monuments"
+    }
+  ],
+  "introduction": "Paris se découvre autant par ses grands repères que par ses détours. De la Seine aux hauteurs de Montmartre, la ville juxtapose monuments, musées, cafés, jardins et quartiers aux identités très marquées. La tour Eiffel, le Louvre, Notre-Dame de Paris, le musée d’Orsay ou le Sacré-Cœur peuvent former une première approche, mais l’intérêt d’un séjour réside aussi dans les promenades : les quais, le Marais, Saint-Germain-des-Prés, les passages couverts ou les rues de la rive gauche. Pour éviter de transformer la visite en course, choisissez quelques priorités par journée et réservez à l’avance les sites les plus demandés.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Tour Eiffel",
+        "description": "Symbole de Paris sur le Champ-de-Mars. Réservez un créneau si vous souhaitez monter aux étages ou au sommet."
+      },
+      {
+        "name": "Musée du Louvre",
+        "description": "Ancien palais royal et grand musée d’art, à aborder par une sélection d’ailes ou de collections plutôt que par une visite exhaustive."
+      },
+      {
+        "name": "Notre-Dame de Paris et l’Île de la Cité",
+        "description": "Cathédrale gothique au cœur historique de Paris, à associer à une promenade sur l’île, vers le Pont Neuf et les quais."
+      },
+      {
+        "name": "Musée d’Orsay",
+        "description": "Installé dans une ancienne gare, il rassemble notamment des collections majeures du XIXe siècle et de l’impressionnisme."
+      },
+      {
+        "name": "Montmartre et Sacré-Cœur",
+        "description": "Butte, ruelles et vues étendues sur Paris ; privilégiez le matin ou la fin de journée pour une ambiance plus agréable."
+      },
+      {
+        "name": "Arc de Triomphe et Champs-Élysées",
+        "description": "Monument commémoratif au sommet de l’avenue des Champs-Élysées, avec une terrasse offrant une vue sur les grandes perspectives parisiennes."
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Promenade le long de la Seine",
+        "description": "Marchez entre le Louvre, le Pont Neuf, l’Île de la Cité et Saint-Germain-des-Prés en profitant des quais et des ponts."
+      },
+      {
+        "name": "Lever les yeux dans les passages couverts",
+        "description": "Explorez les passages du 2e arrondissement, entre verrières, librairies, cafés et boutiques anciennes."
+      },
+      {
+        "name": "Paris depuis les hauteurs",
+        "description": "Choisissez la terrasse de l’Arc de Triomphe, la butte Montmartre ou la tour Montparnasse selon la vue recherchée."
+      },
+      {
+        "name": "Pause dans un jardin",
+        "description": "Alternez les visites avec le jardin des Tuileries, le Luxembourg, le Palais-Royal ou les Buttes-Chaumont."
+      },
+      {
+        "name": "Dîner de quartier",
+        "description": "Préférez une adresse dans le Marais, autour de République, à Oberkampf, dans le Quartier latin ou sur la rive gauche plutôt qu’un choix dicté uniquement par les grandes artères."
+      },
+      {
+        "name": "Croisière sur la Seine",
+        "description": "Une option particulièrement agréable en fin de journée, à choisir pour le parcours et l’horaire plutôt que comme substitut à la découverte à pied."
+      }
+    ],
+    "mobility": [
+      {
+        "name": "Métro et RER",
+        "description": "Le métro est le moyen le plus efficace pour circuler dans Paris ; le RER relie aussi rapidement plusieurs grands pôles et la banlieue. Vérifiez les perturbations et travaux avant chaque trajet."
+      },
+      {
+        "name": "Bus et tramway",
+        "description": "Le bus est pratique pour observer la ville et compléter le métro ; les tramways desservent surtout les marges de Paris et la proche couronne."
+      },
+      {
+        "name": "À pied",
+        "description": "De nombreux quartiers se visitent très bien à pied. Regroupez les visites par zone : Louvre et Seine, Marais et Île de la Cité, rive gauche, Montmartre."
+      },
+      {
+        "name": "Vélo",
+        "description": "Les pistes et voies sur berge rendent les trajets agréables, mais la circulation demande de l’attention. Vérifiez la disponibilité des vélos et stations avant de partir."
+      },
+      {
+        "name": "Depuis les aéroports",
+        "description": "Les accès à Charles-de-Gaulle et Orly relèvent de titres ou forfaits spécifiques selon le mode choisi. Ne supposez pas qu’un billet urbain ordinaire couvre le trajet."
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Paris historique, Seine et grands musées",
+      "description": "Une première journée autour du Louvre, de la Seine, de l’Île de la Cité et de la rive gauche.",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Arrivée et dépôt des bagages",
+          "description": "Rejoignez votre hébergement ou utilisez une consigne adaptée, puis commencez dans un quartier compact afin de limiter les allers-retours.",
+          "type": "transport"
+        },
+        {
+          "time": "10:00",
+          "title": "Musée du Louvre ou jardin des Tuileries",
+          "description": "Si vous entrez au Louvre, réservez un créneau et définissez quelques œuvres ou départements prioritaires. Sans musée, longez les Tuileries vers la Concorde.",
+          "type": "visit"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner autour du Palais-Royal ou des Halles",
+          "description": "Choisissez une table dans les rues adjacentes plutôt que sur les axes les plus touristiques.",
+          "type": "food"
+        },
+        {
+          "time": "14:00",
+          "title": "Île de la Cité et Notre-Dame de Paris",
+          "description": "Traversez vers le Pont Neuf, les quais et le parvis de Notre-Dame ; adaptez l’accès à la cathédrale aux conditions de visite du jour.",
+          "type": "visit"
+        },
+        {
+          "time": "15:30",
+          "title": "Sainte-Chapelle ou balade des quais",
+          "description": "Choisissez la Sainte-Chapelle si vous avez réservé, ou poursuivez tranquillement vers le Quartier latin et la Seine.",
+          "type": "visit"
+        },
+        {
+          "time": "17:00",
+          "title": "Saint-Germain-des-Prés et jardin du Luxembourg",
+          "description": "Remontez la rive gauche par les librairies, les cafés et les rues autour de Saint-Germain avant une pause au jardin du Luxembourg.",
+          "type": "leisure"
+        },
+        {
+          "time": "19:00",
+          "title": "Apéritif et dîner rive gauche",
+          "description": "Terminez la journée dans le Quartier latin, à Saint-Germain ou vers Odéon, selon l’ambiance recherchée.",
+          "type": "food"
+        },
+        {
+          "time": "21:30",
+          "title": "Promenade nocturne sur la Seine",
+          "description": "Rejoignez les quais ou un pont proche pour voir les monuments illuminés, puis rentrez en vérifiant l’horaire du dernier métro.",
+          "type": "leisure"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Tour Eiffel, Champs-Élysées et Montmartre",
+      "description": "Une journée entre les perspectives monumentales de l’ouest parisien et l’atmosphère plus villageoise de la butte Montmartre.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Champ-de-Mars et tour Eiffel",
+          "description": "Arrivez tôt pour profiter des vues depuis le Champ-de-Mars et du Trocadéro. Réservez en avance si vous prévoyez la montée.",
+          "type": "visit"
+        },
+        {
+          "time": "11:30",
+          "title": "Promenade vers le Trocadéro ou les Invalides",
+          "description": "Choisissez la vue classique depuis le Trocadéro, ou partez vers les Invalides pour un parcours plus patrimonial.",
+          "type": "leisure"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner dans le 7e, le 8e ou près de l’Alma",
+          "description": "Faites une pause avant de rejoindre les grandes avenues ; réservez si vous visez une adresse précise.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Arc de Triomphe et Champs-Élysées",
+          "description": "Montez sur la terrasse de l’Arc de Triomphe si les conditions le permettent, puis choisissez entre une marche sur l’avenue ou un détour par le parc Monceau.",
+          "type": "visit"
+        },
+        {
+          "time": "16:30",
+          "title": "Montmartre",
+          "description": "Prenez le métro jusqu’au pied de la butte, puis explorez les rues autour du Sacré-Cœur, de la place du Tertre et des Abbesses.",
+          "type": "leisure"
+        },
+        {
+          "time": "18:30",
+          "title": "Vue depuis le Sacré-Cœur",
+          "description": "Profitez de la lumière de fin d’après-midi sur Paris tout en gardant vos effets personnels près de vous dans les zones très fréquentées.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner à South Pigalle ou autour des Abbesses",
+          "description": "Choisissez une table dans les rues voisines plutôt qu’au pied immédiat des principaux sites touristiques.",
+          "type": "food"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure période",
+      "icon": "fa-calendar",
+      "content": "Avril-juin et septembre-octobre offrent souvent un bon équilibre entre lumière, températures et promenades. Paris se visite toute l’année, mais l’affluence est forte pendant les vacances scolaires, les grands week-ends et les périodes d’événements."
+    },
+    {
+      "title": "Se déplacer",
+      "icon": "fa-subway",
+      "content": "Le métro, le RER, les bus et les tramways sont intégrés au réseau francilien. Les conditions de circulation, les tarifs et les travaux évoluent : consultez l’application Île-de-France Mobilités ou Bonjour RATP avant les trajets. Les billets métro-train-RER ordinaires ne couvrent pas les liaisons aéroportuaires."
+    },
+    {
+      "title": "Réserver à l’avance",
+      "icon": "fa-ticket",
+      "content": "Pour le Louvre, la tour Eiffel, la Sainte-Chapelle, certains créneaux de Notre-Dame et de nombreuses expositions, réservez dès que votre programme est fixé. Vérifiez également les jours de fermeture et les horaires du site officiel."
+    },
+    {
+      "title": "À ne pas manquer",
+      "icon": "fa-star",
+      "content": "Un grand musée choisi selon vos goûts, une marche sur les quais de Seine, un coucher de soleil depuis Montmartre ou l’Arc de Triomphe, et du temps sans programme strict dans un quartier."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quartiers",
+      "title": "Quartiers et promenades",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>Le Marais</strong> mêle hôtels particuliers, musées, rues commerçantes et vie de quartier. <strong>Saint-Germain-des-Prés et le Quartier latin</strong> sont adaptés aux promenades de rive gauche, entre librairies, cafés et jardins.</p><p><strong>Montmartre</strong> se découvre tôt ou en fin de journée pour ses ruelles et ses vues. <strong>Canal Saint-Martin, Oberkampf et République</strong> offrent une atmosphère plus contemporaine, propice aux cafés et aux adresses de soirée.</p>"
+    },
+    {
+      "id": "gastronomie",
+      "title": "Gastronomie et marchés",
+      "icon": "fa-utensils",
+      "content": "<p>Paris permet de varier facilement entre bistrots, boulangeries, pâtisseries, fromagers, caves à vin et cuisines du monde. Cherchez une adresse à proximité du quartier visité plutôt que de traverser la ville pour chaque repas.</p><p>Pour un déjeuner simple, composez un pique-nique avec pain, fromages, fruits ou pâtisseries et installez-vous dans un jardin lorsque le règlement le permet. Réservez les restaurants recherchés, surtout le vendredi et le samedi soir.</p>"
+    },
+    {
+      "id": "culture",
+      "title": "Musées et culture",
+      "icon": "fa-palette",
+      "content": "<p>Paris compte une offre muséale très large, des collections universelles du <strong>Louvre</strong> aux impressionnistes du <strong>musée d’Orsay</strong>, en passant par l’art moderne, la photographie, les maisons d’artistes et les expositions temporaires.</p><p>Pour profiter réellement d’un musée, prévoyez une visite principale par demi-journée, réservez lorsque nécessaire et contrôlez les horaires nocturnes ou les fermetures hebdomadaires sur le site de chaque établissement.</p>"
+    },
+    {
+      "id": "autour",
+      "title": "Autour de Paris",
+      "icon": "fa-compass",
+      "content": "<p>Versailles, le château de Vincennes, La Défense, Saint-Denis et les bords de Marne peuvent compléter un séjour plus long. Ces excursions impliquent souvent un trajet en RER, métro, train ou bus : vérifiez le titre de transport nécessaire, le temps de parcours réel et les éventuels travaux avant de partir.</p>"
+    }
+  ]
+}
