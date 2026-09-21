@@ -245,5 +245,34 @@
       "icon": "fa-circle-info",
       "content": "<p>Réservez la Sagrada Família et les maisons de Gaudí. Restez attentif à vos effets personnels dans les zones très fréquentées, notamment autour des Ramblas, des gares et du métro.</p>"
     }
+  ],
+  "photo_spots": [
+    {
+      "name": "Sagrada Familia",
+      "description": "Chef-d'œuvre architectural de Gaudí, la basilique la plus emblématique de Barcelone",
+      "type": "church",
+      "km_from_paris": 800,
+      "lat": 41.4036,
+      "lon": 2.1744,
+      "best_side": "morning"
+    },
+    {
+      "name": "Park Güell",
+      "description": "Jardin spectaculaire dominant la ville avec mosaïques colorées et vues panoramiques",
+      "type": "park",
+      "km_from_paris": 800,
+      "lat": 41.4145,
+      "lon": 2.1526,
+      "best_side": "afternoon"
+    },
+    {
+      "name": "Montjuïc",
+      "description": "Colline offrant des vues sur la ville, le port et les Montagnes de Montserrat",
+      "type": "viewpoint",
+      "km_from_paris": 800,
+      "lat": 41.3694,
+      "lon": 2.1769,
+      "best_side": "sunset"
+    }
   ]
 }

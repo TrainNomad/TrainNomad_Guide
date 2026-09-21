@@ -251,5 +251,34 @@
       "icon": "fa-landmark",
       "content": "<p>Le site historique de Lyon est inscrit à l’UNESCO. Théâtres romains, quartiers Renaissance et zones industrielles reconverties donnent à la ville une histoire en couches successives.</p>"
     }
+  ],
+  "photo_spots": [
+    {
+      "name": "Basilique de Notre-Dame de Fourvière",
+      "description": "Basilique blanche dominant Lyon depuis la Fourvière, accès par funiculaire",
+      "type": "church",
+      "km_from_paris": 470,
+      "lat": 45.7597,
+      "lon": 4.8164,
+      "best_side": "morning"
+    },
+    {
+      "name": "Confluence - Musée des Confluences",
+      "description": "Musée futuriste sur la péninsule de la Confluence avec architecture spectaculaire",
+      "type": "museum",
+      "km_from_paris": 470,
+      "lat": 45.7219,
+      "lon": 4.8166,
+      "best_side": "afternoon"
+    },
+    {
+      "name": "Parc de la Tête d'Or",
+      "description": "Parc urbain avec lac, promenade et musées en cœur de ville",
+      "type": "park",
+      "km_from_paris": 470,
+      "lat": 45.774,
+      "lon": 4.8398,
+      "best_side": "morning"
+    }
   ]
 }

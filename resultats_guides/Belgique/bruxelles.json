@@ -239,5 +239,34 @@
       "icon": "fa-building",
       "content": "<p>Victor Horta a marqué la ville. Le Musée Horta est le meilleur point d’entrée ; Saint-Gilles et Ixelles révèlent aussi de nombreuses façades. Respectez le caractère résidentiel des rues.</p>"
     }
+  ],
+  "photo_spots": [
+    {
+      "name": "Grand-Place",
+      "description": "Place historique UNESCO entourée de guildes gothiques et baroques",
+      "type": "plaza",
+      "km_from_paris": 300,
+      "lat": 50.8503,
+      "lon": 4.3517,
+      "best_side": "evening"
+    },
+    {
+      "name": "Atomium",
+      "description": "Monument futuriste en forme de molécule, symbole de Bruxelles",
+      "type": "monument",
+      "km_from_paris": 300,
+      "lat": 50.8945,
+      "lon": 4.3361,
+      "best_side": "afternoon"
+    },
+    {
+      "name": "Manneken Pis",
+      "description": "Statue iconique de petit garçon urinant, symbole humoristique bruxellois",
+      "type": "statue",
+      "km_from_paris": 300,
+      "lat": 50.8461,
+      "lon": 4.3516,
+      "best_side": "morning"
+    }
   ]
 }

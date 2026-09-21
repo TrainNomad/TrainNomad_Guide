@@ -277,5 +277,34 @@
       "icon": "fa-utensils",
       "content": "<p>La cuisine lisboète est un hymne aux produits de la mer et aux saveurs authentiques.</p><p><strong>Bacalhau</strong> : la morue se décline en dizaines de recettes. Essayez le bacalhau à brás (effiloché aux œufs et pommes paille) ou le bacalhau com natas (gratiné à la crème).</p><p><strong>Sardinhas assadas</strong> : sardines grillées au charbon, incontournables en été lors des fêtes populaires.</p><p><strong>Pastéis de nata</strong> : ces petits flans à la pâte feuilletée sont une religion. Pastéis de Belém ou Manteigaria pour les meilleurs.</p><p><strong>Ginjinha</strong> : liqueur de cerises servie dans les petits bars du Rossio. Un classique à déguster.</p>"
     }
+  ],
+  "photo_spots": [
+    {
+      "name": "Miradouro de Santa Luzia",
+      "description": "Belvédère emblématique d'Alfama avec vue sur le Tage et les toits aux tuiles ocres",
+      "type": "viewpoint",
+      "km_from_paris": 1700,
+      "lat": 38.7136,
+      "lon": -9.1308,
+      "best_side": "sunrise"
+    },
+    {
+      "name": "Praça do Comércio",
+      "description": "La place royale ouverte sur le Tage. Architecture pombaline et ambiance majestueuse",
+      "type": "plaza",
+      "km_from_paris": 1700,
+      "lat": 38.7071,
+      "lon": -9.1365,
+      "best_side": "afternoon"
+    },
+    {
+      "name": "Pont 25 de Abril",
+      "description": "Le \"Golden Gate\" portugais au coucher du soleil depuis le Cristo Rei ou Almada",
+      "type": "bridge",
+      "km_from_paris": 1700,
+      "lat": 38.6912,
+      "lon": -9.1772,
+      "best_side": "sunset"
+    }
   ]
 }

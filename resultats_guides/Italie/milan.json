@@ -239,5 +239,34 @@
       "icon": "fa-ticket",
       "content": "<p>La <strong>Cène</strong> se réserve longtemps à l’avance. Duomo, terrasses et expositions peuvent aussi exiger un créneau. Vérifiez les sites officiels avant votre séjour.</p>"
     }
+  ],
+  "photo_spots": [
+    {
+      "name": "Duomo de Milan",
+      "description": "Cathédrale gothique majestueuse, chef-d'œuvre architectural du style gothic tardif",
+      "type": "church",
+      "km_from_paris": 850,
+      "lat": 45.4642,
+      "lon": 9.19,
+      "best_side": "morning"
+    },
+    {
+      "name": "La Scala",
+      "description": "Opéra renommé mondialement, architecture élégante du XVIIIe siècle",
+      "type": "theater",
+      "km_from_paris": 850,
+      "lat": 45.4683,
+      "lon": 9.1917,
+      "best_side": "evening"
+    },
+    {
+      "name": "Navigli",
+      "description": "Canaux historiques avec bars et restaurants branché, atmosphère bohème",
+      "type": "waterway",
+      "km_from_paris": 850,
+      "lat": 45.4563,
+      "lon": 9.1849,
+      "best_side": "sunset"
+    }
   ]
 }

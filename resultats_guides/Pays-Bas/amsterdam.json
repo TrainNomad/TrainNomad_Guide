@@ -239,5 +239,34 @@
       "icon": "fa-bicycle",
       "content": "<p>Amsterdam est une ville cyclable, pas un décor de vélo. Restez sur les pistes, ne vous arrêtez pas dans les flux et stationnez uniquement aux emplacements prévus. En cas de doute, préférez tram et marche.</p>"
     }
+  ],
+  "photo_spots": [
+    {
+      "name": "Canal Ring",
+      "description": "Les canaux concentriques de Amsterdam avec maisons historiques et ponts pittoresques",
+      "type": "waterway",
+      "km_from_paris": 500,
+      "lat": 52.3702,
+      "lon": 4.8952,
+      "best_side": "morning"
+    },
+    {
+      "name": "Anne Frank House",
+      "description": "Maison historique cachette d'Anne Frank pendant la Seconde Guerre mondiale",
+      "type": "museum",
+      "km_from_paris": 500,
+      "lat": 52.3752,
+      "lon": 4.8839,
+      "best_side": "afternoon"
+    },
+    {
+      "name": "Dam Square",
+      "description": "Cœur historique d'Amsterdam avec le Palais Royal et le Monument National",
+      "type": "plaza",
+      "km_from_paris": 500,
+      "lat": 52.374,
+      "lon": 4.8896,
+      "best_side": "sunset"
+    }
   ]
 }

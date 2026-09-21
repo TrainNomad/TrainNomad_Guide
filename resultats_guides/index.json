@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "built_at": "2026-09-21T15:15:10.754460",
+  "guides": [
+    {
+      "slug": "berlin",
+      "name": "Berlin",
+      "country": "Allemagne",
+      "path": "Allemagne\\berlin.json",
+      "featured": false
+    },
+    {
+      "slug": "bruxelles",
+      "name": "Bruxelles",
+      "country": "Belgique",
+      "path": "Belgique\\bruxelles.json",
+      "featured": false
+    },
+    {
+      "slug": "barcelone",
+      "name": "Barcelone",
+      "country": "Espagne",
+      "path": "Espagne\\barcelone.json",
+      "featured": false
+    },
+    {
+      "slug": "angers",
+      "name": "Angers",
+      "country": "France",
+      "path": "France\\angers.json",
+      "featured": false
+    },
+    {
+      "slug": "lyon",
+      "name": "Lyon",
+      "country": "France",
+      "path": "France\\lyon.json",
+      "featured": false
+    },
+    {
+      "slug": "marseille",
+      "name": "Marseille",
+      "country": "France",
+      "path": "France\\marseille.json",
+      "featured": false
+    },
+    {
+      "slug": "paris",
+      "name": "Paris",
+      "country": "France",
+      "path": "France\\paris.json",
+      "featured": true
+    },
+    {
+      "slug": "milan",
+      "name": "Milan",
+      "country": "Italie",
+      "path": "Italie\\milan.json",
+      "featured": false
+    },
+    {
+      "slug": "amsterdam",
+      "name": "Amsterdam",
+      "country": "Pays-Bas",
+      "path": "Pays-Bas\\amsterdam.json",
+      "featured": false
+    },
+    {
+      "slug": "lisbonne",
+      "name": "Lisbonne",
+      "country": "Portugal",
+      "path": "Portugal\\lisbonne.json",
+      "featured": true
+    }
+  ]
+}

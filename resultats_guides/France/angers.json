@@ -235,5 +235,34 @@
       "icon": "fa-compass",
       "content": "<p>Pour prolonger le séjour, explorez les bords de Loire, les villages viticoles et les châteaux de l’Anjou. Préparez l’excursion selon les transports réellement disponibles.</p>"
     }
+  ],
+  "photo_spots": [
+    {
+      "name": "Château d'Angers",
+      "description": "Forteresse massive du XIIIe siècle avec jardins, tapisserie de l'Apocalypse",
+      "type": "castle",
+      "km_from_paris": 290,
+      "lat": 47.4691,
+      "lon": -0.552,
+      "best_side": "morning"
+    },
+    {
+      "name": "Cathédrale Saint-Maurice",
+      "description": "Splendide cathédrale gothique avec vitraux remarquables",
+      "type": "church",
+      "km_from_paris": 290,
+      "lat": 47.4748,
+      "lon": -0.5546,
+      "best_side": "afternoon"
+    },
+    {
+      "name": "Confluence - Musée des Confluences d'Angers",
+      "description": "Musée moderne d'art contemporain et patrimoine, architecture audacieuse",
+      "type": "museum",
+      "km_from_paris": 290,
+      "lat": 47.4627,
+      "lon": -0.5597,
+      "best_side": "afternoon"
+    }
   ]
 }

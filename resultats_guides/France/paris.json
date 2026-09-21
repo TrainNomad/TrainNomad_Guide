@@ -262,5 +262,115 @@
       "icon": "fa-compass",
       "content": "<p>Versailles, le château de Vincennes, La Défense, Saint-Denis et les bords de Marne peuvent compléter un séjour plus long. Ces excursions impliquent souvent un trajet en RER, métro, train ou bus : vérifiez le titre de transport nécessaire, le temps de parcours réel et les éventuels travaux avant de partir.</p>"
     }
-  ]
+  ],
+  "photo_spots": [
+  {
+    "name": "Esplanade du Trocadéro",
+    "description": "Vue frontale emblématique sur la tour Eiffel, avec les jardins du Champ-de-Mars et la Seine dans l’axe. Arriver tôt permet d’éviter une partie de l’affluence.",
+    "type": "viewpoint",
+    "km_from_paris": 0,
+    "lat": 48.8625,
+    "lon": 2.2876,
+    "best_side": "morning"
+  },
+  {
+    "name": "Pont de Bir-Hakeim",
+    "description": "Pont métallique à deux niveaux offrant une perspective graphique sur la tour Eiffel, la Seine et les arches du viaduc du métro.",
+    "type": "bridge",
+    "km_from_paris": 0,
+    "lat": 48.8556,
+    "lon": 2.2873,
+    "best_side": "sunset"
+  },
+  {
+    "name": "Pont Alexandre-III",
+    "description": "Pont Belle Époque orné de lampadaires, sculptures dorées et vues ouvertes vers les Invalides, la Seine et la tour Eiffel.",
+    "type": "bridge",
+    "km_from_paris": 0,
+    "lat": 48.8637,
+    "lon": 2.3136,
+    "best_side": "sunset"
+  },
+  {
+    "name": "Parvis de Notre-Dame",
+    "description": "Point de vue classique sur la façade occidentale de Notre-Dame de Paris, au cœur de l’Île de la Cité. Vérifier les conditions d’accès et de circulation sur place.",
+    "type": "landmark",
+    "km_from_paris": 0,
+    "lat": 48.8530,
+    "lon": 2.3499,
+    "best_side": "morning"
+  },
+  {
+    "name": "Pont de l’Archevêché",
+    "description": "Perspective sur l’arrière de Notre-Dame, ses arcs-boutants et la Seine ; un angle plus architectural que le parvis.",
+    "type": "bridge",
+    "km_from_paris": 0,
+    "lat": 48.8513,
+    "lon": 2.3512,
+    "best_side": "afternoon"
+  },
+  {
+    "name": "Sacré-Cœur et parvis de Montmartre",
+    "description": "Vue panoramique sur les toits de Paris depuis les hauteurs de Montmartre, avec la basilique comme sujet principal ou en arrière-plan.",
+    "type": "viewpoint",
+    "km_from_paris": 0,
+    "lat": 48.8867,
+    "lon": 2.3431,
+    "best_side": "sunset"
+  },
+  {
+    "name": "Place du Tertre",
+    "description": "Place pavée de Montmartre entourée de façades anciennes, d’ateliers et de terrasses ; privilégier le début de matinée pour une scène moins encombrée.",
+    "type": "plaza",
+    "km_from_paris": 0,
+    "lat": 48.8865,
+    "lon": 2.3408,
+    "best_side": "morning"
+  },
+  {
+    "name": "Pont des Arts",
+    "description": "Passerelle piétonne au-dessus de la Seine, idéale pour cadrer le fleuve, les façades de la rive gauche, l’Institut de France et les lumières du soir.",
+    "type": "bridge",
+    "km_from_paris": 0,
+    "lat": 48.8583,
+    "lon": 2.3376,
+    "best_side": "sunset"
+  },
+  {
+    "name": "Quai de Bourbon",
+    "description": "Quai calme de l’Île Saint-Louis, apprécié pour ses façades classiques, ses reflets sur la Seine et les cadrages vers Notre-Dame.",
+    "type": "waterfront",
+    "km_from_paris": 0,
+    "lat": 48.8508,
+    "lon": 2.3568,
+    "best_side": "afternoon"
+  },
+  {
+    "name": "Jardin du Luxembourg",
+    "description": "Jardin historique avec bassin central, chaises vertes, statues, arbres et perspective sur le palais du Luxembourg.",
+    "type": "garden",
+    "km_from_paris": 0,
+    "lat": 48.8462,
+    "lon": 2.3372,
+    "best_side": "morning"
+  },
+  {
+    "name": "Galerie Vivienne",
+    "description": "Passage couvert du XIXe siècle connu pour sa verrière, ses mosaïques au sol et ses façades élégantes ; adapté aux images d’architecture et d’ambiance.",
+    "type": "passage",
+    "km_from_paris": 0,
+    "lat": 48.8667,
+    "lon": 2.3398,
+    "best_side": "afternoon"
+  },
+  {
+    "name": "Arc de Triomphe",
+    "description": "Terrasse panoramique au centre de l’étoile, avec vues sur les douze avenues, les Champs-Élysées, la Défense et la tour Eiffel.",
+    "type": "viewpoint",
+    "km_from_paris": 0,
+    "lat": 48.8738,
+    "lon": 2.2950,
+    "best_side": "sunset"
+  }
+]
 }

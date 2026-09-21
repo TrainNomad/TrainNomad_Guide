@@ -1,0 +1,38 @@
+{
+  "slug": "marseille",
+  "name": "Marseille",
+  "country": "France",
+  "country_code": "FR",
+  "description": "Cité phocéenne ensoleillée. Vieux-Port, calanques et bouillabaisse.",
+  "reading_time": 10,
+  "featured": false,
+  "photo_spots": [
+    {
+      "name": "Vieux-Port",
+      "description": "Cour d'eau historique avec bateaux de pêche colorés",
+      "type": "harbor",
+      "km_from_paris": 770,
+      "lat": 43.2965,
+      "lon": 5.3698,
+      "best_side": "morning"
+    },
+    {
+      "name": "Basilique Notre-Dame de la Garde",
+      "description": "Basilique dorée dominant la ville depuis une colline",
+      "type": "church",
+      "km_from_paris": 770,
+      "lat": 43.2832,
+      "lon": 5.3687,
+      "best_side": "sunset"
+    },
+    {
+      "name": "Château d'If",
+      "description": "Forteresse historique sur une île, prison du Comte de Monte Cristo",
+      "type": "castle",
+      "km_from_paris": 770,
+      "lat": 43.3527,
+      "lon": 5.3294,
+      "best_side": "afternoon"
+    }
+  ]
+}

@@ -239,5 +239,34 @@
       "icon": "fa-masks-theater",
       "content": "<p>L’Île aux Musées est incontournable, mais le <strong>Pergamonmuseum est fermé jusqu’au 4 juin 2027</strong>. Réservez quand cela est requis et consultez les expositions temporaires peu avant votre séjour.</p>"
     }
+  ],
+  "photo_spots": [
+    {
+      "name": "Porte de Brandebourg",
+      "description": "Monument iconique symbolisant la réunification de Berlin",
+      "type": "monument",
+      "km_from_paris": 1000,
+      "lat": 52.5163,
+      "lon": 13.3777,
+      "best_side": "afternoon"
+    },
+    {
+      "name": "Mur de Berlin - East Side Gallery",
+      "description": "Galerie à ciel ouvert sur le plus long tronçon du Mur de Berlin",
+      "type": "museum",
+      "km_from_paris": 1000,
+      "lat": 52.505,
+      "lon": 13.442,
+      "best_side": "morning"
+    },
+    {
+      "name": "Reichstag",
+      "description": "Siège du Bundestag avec dôme de verre offrant une vue panoramique",
+      "type": "building",
+      "km_from_paris": 1000,
+      "lat": 52.5186,
+      "lon": 13.3755,
+      "best_side": "sunset"
+    }
   ]
 }
