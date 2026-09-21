@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "built_at": "2026-09-21T16:15:44.104802",
+  "built_at": "2026-09-21T16:28:31.165006",
   "guides": [
     {
       "slug": "berlin",
@@ -70,6 +70,13 @@
       "name": "Lisbonne",
       "country": "Portugal",
       "path": "Portugal\\lisbonne.json",
+      "featured": false
+    },
+    {
+      "slug": "edinburgh",
+      "name": "Édimbourg",
+      "country": "Royaume-Uni",
+      "path": "Royaume-Uni\\Edimbourgh.json",
       "featured": true
     }
   ]
