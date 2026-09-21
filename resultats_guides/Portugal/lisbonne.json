@@ -7,7 +7,7 @@
   "hero_image": "/assets/guides/lisbonne-hero.webp",
   "description": "La capitale portugaise la plus attachante. Fado, Alfama et pastéis de nata au bout du rail.",
   "reading_time": 15,
-  "featured": true,
+  "featured": false,
   "featured_title": "Lisbonne : 3 jours au bout du rail",
   "featured_subtitle": "La capitale européenne la plus attachante, accessible en train avec correspondances depuis Paris. Architecture, azulejos et mélancolie ensoleillée.",
   "tags": [
