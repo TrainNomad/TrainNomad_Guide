@@ -7,7 +7,7 @@
   "hero_image": "/assets/guides/paris-hero.webp",
   "description": "Capitale française au bord de la Seine, entre musées majeurs, quartiers historiques et art de vivre.",
   "reading_time": 22,
-  "featured": true,
+  "featured": false,
   "featured_title": "Paris : l’essentiel en deux jours",
   "featured_subtitle": "Monuments emblématiques, grands musées, promenades sur la Seine et quartiers à vivre.",
   "tags": [

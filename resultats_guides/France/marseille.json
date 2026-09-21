@@ -7,7 +7,7 @@
   "hero_image": "/assets/guides/marseille-hero.webp",
   "description": "Ville-port méditerranéenne entre calanques, patrimoine maritime, quartiers populaires et culture contemporaine.",
   "reading_time": 20,
-  "featured": true,
+  "featured": false,
   "featured_title": "Marseille : mer, histoire et calanques en deux jours",
   "featured_subtitle": "Du Vieux-Port aux falaises des Calanques, découvrez une ville vivante tournée vers la Méditerranée.",
   "tags": [
