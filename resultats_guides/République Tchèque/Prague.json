@@ -293,12 +293,12 @@
     {
       "title": "Se déplacer",
       "icon": "fa-train",
-      "content": "Le réseau intégré de Prague combine métro, tram et bus, avec des titres valables pendant une durée donnée et utilisables en correspondance. Pour trois jours, le forfait 72 heures est le plus simple : il coûte 340 CZK dans l’application PID Lítačka ou 350 CZK en version papier. Pensez à valider un billet papier avant le premier trajet. [40][38]"
+      "content": "Le réseau intégré de Prague combine métro, tram et bus, avec des titres valables pendant une durée donnée et utilisables en correspondance. Pour trois jours, le forfait 72 heures est le plus simple : il coûte 340 CZK dans l’application PID Lítačka ou 350 CZK en version papier. Pensez à valider un billet papier avant le premier trajet."
     },
     {
       "title": "Réserver et vérifier",
       "icon": "fa-ticket",
-      "content": "Réservez les créneaux du château, de l’hôtel de ville, du Clementinum et des croisières si vous voyagez pendant une période chargée. Le complexe du château est ouvert de 6 h à 22 h, tandis que les bâtiments historiques suivent des horaires séparés. Les lieux du Musée juif sont fermés le samedi et lors des fêtes juives. [48][54]"
+      "content": "Réservez les créneaux du château, de l’hôtel de ville, du Clementinum et des croisières si vous voyagez pendant une période chargée. Le complexe du château est ouvert de 6 h à 22 h, tandis que les bâtiments historiques suivent des horaires séparés. Les lieux du Musée juif sont fermés le samedi et lors des fêtes juives."
     },
     {
       "title": "À ne pas manquer",
@@ -329,7 +329,7 @@
       "id": "petrin",
       "title": "Petrín et panoramas",
       "icon": "fa-mountain-sun",
-      "content": "<p>La colline de <strong>Petrín</strong> est l’un des meilleurs contrepoints au centre historique : jardins, chemins et vues sur la ville. Le funiculaire reliant Újezd à Petrín reprend son service à partir du 22 septembre 2026, après des travaux de stabilisation et une reconstruction complète. Vérifiez son état avant votre départ et prévoyez une montée à pied en solution alternative. [50][52]</p>"
+      "content": "<p>La colline de <strong>Petrín</strong> est l’un des meilleurs contrepoints au centre historique : jardins, chemins et vues sur la ville. Le funiculaire reliant Újezd à Petrín reprend son service à partir du 22 septembre 2026, après des travaux de stabilisation et une reconstruction complète. Vérifiez son état avant votre départ et prévoyez une montée à pied en solution alternative.</p>"
     }
   ],
   "photo_spots": [

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "built_at": "2026-09-21T21:18:37.558070",
+  "built_at": "2026-09-21T21:55:25.259102",
   "guides": [
     {
       "slug": "berlin",
@@ -63,6 +63,13 @@
       "name": "Palerme",
       "country": "Italie",
       "path": "Italie\\Palermo.json",
+      "featured": false
+    },
+    {
+      "slug": "rome",
+      "name": "Rome",
+      "country": "Italie",
+      "path": "Italie\\Rome.json",
       "featured": false
     },
     {

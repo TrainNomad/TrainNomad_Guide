@@ -1,0 +1,416 @@
+{
+  "slug": "rome",
+  "name": "Rome",
+  "country": "Italie",
+  "country_code": "IT",
+  "image": "/assets/guides/roma-cover.webp",
+  "hero_image": "/assets/guides/roma-hero.webp",
+  "description": "Ville éternelle de ruines antiques, palais papaux, places baroques, trattorie et quartiers populaires.",
+  "reading_time": 30,
+  "featured": false,
+  "featured_title": "Rome : l’Antiquité et la dolce vita en 4 jours",
+  "featured_subtitle": "Quatre jours entre le Colisée, le Vatican, les places baroques, Trastevere, la Villa Borghèse et les collines romaines.",
+  "tags": [
+    "Train de nuit",
+    "Antiquité",
+    "Culture"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-clock",
+      "label": "Depuis Paris",
+      "value": "Environ 11 à 14 h"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Distance",
+      "value": "1 420 km"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Ligne",
+      "value": "Trains de nuit via l’Italie"
+    }
+  ],
+  "introduction": "Rome se découvre à pied, par strates successives : les vestiges de l’Empire romain, les basiliques paléochrétiennes, les palais de la Renaissance, les églises baroques et les terrasses de quartier. Depuis Roma Termini, le centre historique se rejoint facilement en métro, en bus ou à pied selon votre hébergement. Quatre jours permettent de prendre le temps de visiter les grands ensembles — Colisée, Forum romain, Palatin et Vatican — tout en laissant de la place aux promenades entre le Panthéon, Piazza Navona, le Ghetto, Trastevere, la Villa Borghèse et l’Aventin. Rome n’est pas une ville à cocher : les pauses sur une place, les détours par une église et les repas de quartier font partie du voyage.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Colisée",
+        "description": "Amphithéâtre antique emblématique de Rome, à visiter sur créneau réservé."
+      },
+      {
+        "name": "Forum romain et mont Palatin",
+        "description": "Cœur politique, religieux et monumental de la Rome antique, à parcourir en prenant le temps de lire le paysage."
+      },
+      {
+        "name": "Panthéon",
+        "description": "Temple antique reconverti en église, célèbre pour sa coupole et son oculus."
+      },
+      {
+        "name": "Musées du Vatican et chapelle Sixtine",
+        "description": "Grand parcours muséal incluant les collections pontificales et la chapelle décorée par Michel-Ange."
+      },
+      {
+        "name": "Basilique Saint-Pierre",
+        "description": "Grande basilique de la Cité du Vatican, avec la Pietà de Michel-Ange et, selon les conditions d’accès, la coupole."
+      },
+      {
+        "name": "Galerie Borghèse",
+        "description": "Musée de la Villa Borghèse, reconnu pour ses sculptures du Bernin et ses peintures du Caravage, Raphaël et Titien."
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Flâner dans le centre historique",
+        "description": "Relier à pied le Panthéon, Piazza Navona, Campo de’ Fiori, la fontaine de Trevi et la place d’Espagne."
+      },
+      {
+        "name": "Dîner à Trastevere",
+        "description": "Traverser le Tibre en soirée et choisir une trattoria dans les rues animées du quartier."
+      },
+      {
+        "name": "Voir Rome depuis le Pincio",
+        "description": "Rejoindre le belvédère au-dessus de Piazza del Popolo pour un panorama sur les toits et les coupoles."
+      },
+      {
+        "name": "Marcher sur l’Aventin",
+        "description": "Découvrir le jardin des Orangers, Santa Sabina et le trou de serrure de l’ordre de Malte."
+      },
+      {
+        "name": "Prendre l’apéritif à Monti",
+        "description": "Faire une pause dans ce quartier central aux ruelles pavées, entre ateliers, petites adresses et terrasses."
+      },
+      {
+        "name": "Se promener dans la Villa Borghèse",
+        "description": "Profiter des jardins, des allées ombragées, des points de vue et de la proximité du Pincio."
+      }
+    ],
+    "mobility": [
+      {
+        "name": "À pied",
+        "description": "La meilleure manière de découvrir le centre historique. Prévoyez de bonnes chaussures : pavés, chaleur et longues distances font partie de l’expérience."
+      },
+      {
+        "name": "Métro",
+        "description": "Utile pour les trajets plus longs, notamment entre Termini, le Colisée, le Vatican, l’Espagne et les quartiers périphériques."
+      },
+      {
+        "name": "Bus et tram",
+        "description": "Pratiques là où le métro ne passe pas, notamment vers Trastevere, l’Aventin, Testaccio et la Via Appia."
+      },
+      {
+        "name": "Pass transport ROMA 72H",
+        "description": "Titre valable 72 heures après sa première validation, avec voyages illimités dans Rome sur les réseaux inclus."
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Rome antique et quartier de Monti",
+      "description": "Une journée consacrée au cœur monumental de l’Empire romain, entre amphithéâtre, forums et ruelles de Monti.",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Colisée",
+          "description": "Présentez-vous au moins quinze minutes avant votre créneau. Réservez sur la billetterie officielle et gardez votre confirmation avec vous.",
+          "type": "visit"
+        },
+        {
+          "time": "10:30",
+          "title": "Forum romain et mont Palatin",
+          "description": "Entrez dans l’aire archéologique pour parcourir les anciennes places, temples, arcs et résidences impériales. Prévoyez de l’eau, un chapeau et de bonnes chaussures.",
+          "type": "visit"
+        },
+        {
+          "time": "13:30",
+          "title": "Déjeuner à Monti",
+          "description": "Rejoignez le quartier de Monti pour une pause dans une trattoria ou autour de Piazza della Madonna dei Monti.",
+          "type": "food"
+        },
+        {
+          "time": "15:00",
+          "title": "Forums impériaux et colonne Trajane",
+          "description": "Marchez le long de la Via dei Fori Imperiali jusqu’à la colonne Trajane, puis observez les vestiges depuis les différents points de vue.",
+          "type": "leisure"
+        },
+        {
+          "time": "16:30",
+          "title": "Capitole et Piazza Venezia",
+          "description": "Montez vers la piazza du Capitole, dessinée par Michel-Ange, puis passez par Piazza Venezia et le Vittoriano.",
+          "type": "visit"
+        },
+        {
+          "time": "18:00",
+          "title": "Terrasse du Vittoriano ou Campidoglio",
+          "description": "Choisissez une vue sur les forums et les toits de Rome, selon l’énergie restante et les conditions d’accès.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner à Monti",
+          "description": "Terminez dans Monti, un quartier pratique pour un premier dîner romain entre rues pavées et petites places.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Vatican, Saint-Pierre et Trastevere",
+      "description": "Une journée entre les collections pontificales, la basilique Saint-Pierre, le Tibre et les ruelles de Trastevere.",
+      "steps": [
+        {
+          "time": "08:00",
+          "title": "Musées du Vatican",
+          "description": "Réservez le premier créneau disponible afin de parcourir les collections avec davantage de confort. La chapelle Sixtine se visite dans le cadre du parcours des musées.",
+          "type": "visit"
+        },
+        {
+          "time": "12:00",
+          "title": "Déjeuner dans Prati",
+          "description": "Quittez les abords immédiats de l’entrée des musées pour déjeuner dans le quartier de Prati, plus résidentiel.",
+          "type": "food"
+        },
+        {
+          "time": "13:30",
+          "title": "Basilique Saint-Pierre",
+          "description": "Passez les contrôles de sécurité et découvrez la nef, la Pietà et le baldaquin du Bernin. Habillez-vous de manière adaptée à un lieu de culte.",
+          "type": "visit"
+        },
+        {
+          "time": "15:30",
+          "title": "Coupole de Saint-Pierre ou place Saint-Pierre",
+          "description": "Montez à la coupole si vous avez réservé ou si les conditions d’accès le permettent. Sinon, prenez le temps d’observer la place dessinée par Bernin.",
+          "type": "visit"
+        },
+        {
+          "time": "17:00",
+          "title": "Château Saint-Ange et bords du Tibre",
+          "description": "Marchez jusqu’au château Saint-Ange et longez le Tibre en direction du centre historique.",
+          "type": "leisure"
+        },
+        {
+          "time": "18:30",
+          "title": "Pont Sisto et Trastevere",
+          "description": "Traversez le Tibre par le pont Sisto, puis flânez dans les rues et les petites places de Trastevere.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:30",
+          "title": "Dîner à Trastevere",
+          "description": "Choisissez une trattoria à l’écart des rues les plus fréquentées et terminez la soirée par une promenade jusqu’à Santa Maria in Trastevere.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Panthéon, places baroques et Ghetto",
+      "description": "Une journée de marche dans le centre historique, entre monuments antiques, fontaines, places et patrimoine juif romain.",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Panthéon",
+          "description": "Commencez tôt par le Panthéon pour apprécier la coupole et l’oculus avant l’affluence. Vérifiez les modalités d’entrée et les éventuels offices.",
+          "type": "visit"
+        },
+        {
+          "time": "10:00",
+          "title": "Piazza Navona",
+          "description": "Rejoignez Piazza Navona pour voir les fontaines, les façades baroques et l’église Sant’Agnese in Agone.",
+          "type": "leisure"
+        },
+        {
+          "time": "11:00",
+          "title": "Campo de’ Fiori",
+          "description": "Passez par Campo de’ Fiori, surtout vivant le matin, puis poursuivez vers les rues du centre.",
+          "type": "leisure"
+        },
+        {
+          "time": "12:00",
+          "title": "Ghetto juif et Portique d’Octavie",
+          "description": "Découvrez les rues du Ghetto, le Portique d’Octavie et les abords du théâtre de Marcellus, en prenant le temps de respecter la dimension mémorielle du quartier.",
+          "type": "visit"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner dans le Ghetto ou près du Tibre",
+          "description": "Goûtez la cuisine judéo-romaine ou italienne traditionnelle, puis faites une pause avant la marche de l’après-midi.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Fontaine de Trevi",
+          "description": "Rejoignez la fontaine en passant par les ruelles du centre. Attendez-vous à une fréquentation importante, même hors saison.",
+          "type": "leisure"
+        },
+        {
+          "time": "15:30",
+          "title": "Place d’Espagne",
+          "description": "Continuez vers la Scalinata di Trinità dei Monti et Piazza di Spagna, entre boutiques, façades et escaliers monumentaux.",
+          "type": "leisure"
+        },
+        {
+          "time": "17:00",
+          "title": "Belvédère du Pincio",
+          "description": "Montez vers le Pincio pour une vue ouverte sur Piazza del Popolo et les coupoles de Rome.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner près du Panthéon ou à Prati",
+          "description": "Choisissez une adresse dans les rues secondaires du centre ou retournez vers Prati pour une ambiance plus résidentielle.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Villa Borghèse, Aventin et Testaccio",
+      "description": "Une dernière journée plus verdoyante et locale, entre art, jardins, collines et cuisine romaine.",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Galerie Borghèse",
+          "description": "Réservez impérativement votre créneau. La visite dure deux heures et permet de voir notamment les sculptures du Bernin et des œuvres du Caravage.",
+          "type": "visit"
+        },
+        {
+          "time": "11:15",
+          "title": "Villa Borghèse",
+          "description": "Poursuivez par une promenade dans les jardins, vers le lac ou le Pincio, à votre rythme.",
+          "type": "leisure"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner dans le quartier Flaminio ou près de Piazza del Popolo",
+          "description": "Faites une pause avant de rejoindre la partie sud de Rome pour l’après-midi.",
+          "type": "food"
+        },
+        {
+          "time": "14:00",
+          "title": "Métro vers le Circo Massimo",
+          "description": "Rejoignez la zone du Circo Massimo, puis montez à pied vers l’Aventin.",
+          "type": "transport"
+        },
+        {
+          "time": "14:30",
+          "title": "Jardin des Orangers",
+          "description": "Entrez dans ce jardin sur l’Aventin pour admirer un des panoramas les plus agréables sur Rome et le dôme de Saint-Pierre.",
+          "type": "leisure"
+        },
+        {
+          "time": "15:15",
+          "title": "Santa Sabina et trou de serrure de l’Aventin",
+          "description": "Visitez la basilique Santa Sabina puis approchez-vous du portail de l’ordre de Malte pour observer, si l’attente reste raisonnable, la vue célèbre sur le dôme de Saint-Pierre.",
+          "type": "visit"
+        },
+        {
+          "time": "16:30",
+          "title": "Testaccio",
+          "description": "Descendez vers Testaccio, quartier connu pour son histoire populaire et sa culture gastronomique.",
+          "type": "leisure"
+        },
+        {
+          "time": "17:30",
+          "title": "Marché de Testaccio ou Monte Testaccio",
+          "description": "Selon le jour et les horaires, découvrez le marché ou promenez-vous autour du Monte Testaccio avant l’apéritif.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dernier dîner romain à Testaccio",
+          "description": "Terminez le séjour dans ce quartier pour goûter une cuisine romaine traditionnelle, comme cacio e pepe, amatriciana ou carciofi selon la saison.",
+          "type": "food"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure période",
+      "icon": "fa-calendar",
+      "content": "Le printemps et l’automne sont les saisons les plus confortables pour marcher entre les monuments. L’été peut être très chaud, avec une fréquentation élevée et peu d’ombre sur les sites antiques. L’hiver est généralement plus calme, mais certains jours peuvent être pluvieux."
+    },
+    {
+      "title": "Se déplacer",
+      "icon": "fa-bus",
+      "content": "Rome se découvre surtout à pied dans le centre historique. Pour les trajets plus longs, utilisez métro, bus et tram. Le pass ROMA 72H est valable 72 heures à partir de sa première validation et donne droit à des trajets illimités dans Rome sur les réseaux urbains inclus. Pour quatre jours, utilisez-le à partir de votre première journée de déplacements intensifs ou combinez-le avec des billets à l’unité."
+    },
+    {
+      "title": "Réserver à l’avance",
+      "icon": "fa-ticket",
+      "content": "Réservez le Colisée, les musées du Vatican et la Galerie Borghèse avant le séjour. Le Colisée impose un créneau d’entrée ; le billet classique Colisée, Forum romain et Palatin est valable 24 heures. Les musées du Vatican fonctionnent du lundi au samedi, avec une ouverture exceptionnelle et gratuite le dernier dimanche du mois sous conditions. La Galerie Borghèse exige une réservation pour tous les visiteurs."
+    },
+    {
+      "title": "À ne pas manquer",
+      "icon": "fa-star",
+      "content": "Le Colisée et le Forum romain, les musées du Vatican, la basilique Saint-Pierre, le Panthéon, Piazza Navona, la fontaine de Trevi, Trastevere, la Villa Borghèse et un coucher de soleil depuis le Pincio ou l’Aventin."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quartiers",
+      "title": "Quartiers à explorer",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>Monti</strong> est idéal entre le Colisée et la gare, avec ruelles, petites places et restaurants. <strong>Le centre historique</strong> relie le Panthéon, Piazza Navona, Campo de’ Fiori et Trevi. <strong>Trastevere</strong> offre des rues plus animées le soir. <strong>Prati</strong>, près du Vatican, est plus résidentiel. <strong>Testaccio</strong> est une bonne option pour découvrir une Rome populaire et gastronomique.</p>"
+    },
+    {
+      "id": "antiquite",
+      "title": "Rome antique",
+      "icon": "fa-landmark",
+      "content": "<p>Le Colisée, le Forum romain et le Palatin forment un vaste ensemble archéologique : prévoyez plusieurs heures, de l’eau et une protection solaire. Le billet d’entrée standard donne un accès unique au Colisée au créneau choisi et un accès unique au Forum-Palatin dans une fenêtre de 24 heures autour de ce créneau. Ne réservez que sur la billetterie officielle du Parc archéologique du Colisée.</p>"
+    },
+    {
+      "id": "vatican",
+      "title": "Vatican et Saint-Pierre",
+      "icon": "fa-church",
+      "content": "<p>Les musées du Vatican et la basilique Saint-Pierre sont deux visites distinctes. Les musées comprennent la chapelle Sixtine et demandent une bonne demi-journée ; la basilique nécessite un contrôle de sécurité et une tenue adaptée. Commencez tôt et évitez de concentrer trop d’autres visites importantes le même jour.</p>"
+    },
+    {
+      "id": "rythme",
+      "title": "Marcher sans se presser",
+      "icon": "fa-shoe-prints",
+      "content": "<p>Rome récompense les itinéraires souples. Les distances semblent courtes sur une carte, mais les pavés, la chaleur, les détours par les églises et les files d’attente rallongent les journées. Prévoyez une vraie pause à midi et gardez chaque fin d’après-midi libre pour flâner, vous asseoir en terrasse ou adapter le programme selon votre énergie.</p>"
+    }
+  ],
+  "photo_spots": [
+    {
+      "name": "Colisée",
+      "description": "Amphithéâtre romain emblématique, particulièrement impressionnant depuis les abords du parc archéologique et Via dei Fori Imperiali.",
+      "type": "landmark",
+      "km_from_paris": 1420,
+      "lat": 41.8902,
+      "lon": 12.4922,
+      "best_side": "morning"
+    },
+    {
+      "name": "Pont Saint-Ange",
+      "description": "Pont monumental sur le Tibre avec vue vers le château Saint-Ange et, au loin, la coupole de Saint-Pierre.",
+      "type": "bridge",
+      "km_from_paris": 1420,
+      "lat": 41.9031,
+      "lon": 12.4663,
+      "best_side": "sunset"
+    },
+    {
+      "name": "Jardin des Orangers",
+      "description": "Belvédère de l’Aventin offrant une vue dégagée sur les coupoles, les toits et le Tibre.",
+      "type": "park",
+      "km_from_paris": 1420,
+      "lat": 41.884,
+      "lon": 12.4814,
+      "best_side": "sunset"
+    },
+    {
+      "name": "Belvédère du Pincio",
+      "description": "Panorama au-dessus de Piazza del Popolo, tourné vers le centre historique et les collines romaines.",
+      "type": "viewpoint",
+      "km_from_paris": 1420,
+      "lat": 41.9143,
+      "lon": 12.4778,
+      "best_side": "sunset"
+    }
+  ]
+}
