@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "built_at": "2026-09-21T15:35:52.203950",
+  "built_at": "2026-09-21T15:53:30.228717",
   "guides": [
     {
       "slug": "berlin",
@@ -42,14 +42,14 @@
       "name": "Marseille",
       "country": "France",
       "path": "France\\marseille.json",
-      "featured": false
+      "featured": true
     },
     {
       "slug": "paris",
       "name": "Paris",
       "country": "France",
       "path": "France\\paris.json",
-      "featured": false
+      "featured": true
     },
     {
       "slug": "milan",

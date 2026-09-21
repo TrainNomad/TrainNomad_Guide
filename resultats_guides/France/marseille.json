@@ -3,9 +3,266 @@
   "name": "Marseille",
   "country": "France",
   "country_code": "FR",
-  "description": "Cité phocéenne ensoleillée. Vieux-Port, calanques et bouillabaisse.",
-  "reading_time": 10,
-  "featured": false,
+  "image": "/assets/guides/marseille-cover.webp",
+  "hero_image": "/assets/guides/marseille-hero.webp",
+  "description": "Ville-port méditerranéenne entre calanques, patrimoine maritime, quartiers populaires et culture contemporaine.",
+  "reading_time": 20,
+  "featured": true,
+  "featured_title": "Marseille : mer, histoire et calanques en deux jours",
+  "featured_subtitle": "Du Vieux-Port aux falaises des Calanques, découvrez une ville vivante tournée vers la Méditerranée.",
+  "tags": [
+    "Méditerranée",
+    "Calanques",
+    "Culture"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-train",
+      "label": "Depuis Paris",
+      "value": "Environ 3h en TGV"
+    },
+    {
+      "icon": "fa-water",
+      "label": "Cadre",
+      "value": "Port et Méditerranée"
+    },
+    {
+      "icon": "fa-subway",
+      "label": "Se déplacer",
+      "value": "Métro, tram, bus, bateau"
+    }
+  ],
+  "introduction": "Marseille ne se résume pas à son Vieux-Port. La plus ancienne ville de France se découvre par contrastes : bateaux et terrasses face à la mer, ruelles du Panier, architectures contemporaines du Mucem, marchés populaires, collines et criques calcaires. Notre-Dame-de-la-Garde domine la ville tandis que les îles du Frioul et le parc national des Calanques rappellent que la Méditerranée est partout proche. Prévoyez des temps de marche, adaptez le programme au vent et à la chaleur, et réservez les excursions maritimes ou les visites très demandées dès que vos dates sont fixées.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Vieux-Port",
+        "description": "Cœur maritime de Marseille, entre bateaux, marché aux poissons, quais animés et départs vers les îles ou les Calanques."
+      },
+      {
+        "name": "Basilique Notre-Dame-de-la-Garde",
+        "description": "Monument emblématique dominant Marseille, apprécié pour son architecture et son panorama sur la ville, le port et la mer."
+      },
+      {
+        "name": "Mucem et Fort Saint-Jean",
+        "description": "Musée consacré aux civilisations de l’Europe et de la Méditerranée, relié au Fort Saint-Jean par une passerelle. Les espaces extérieurs du fort offrent de belles promenades pendant les horaires d’ouverture."
+      },
+      {
+        "name": "Le Panier",
+        "description": "Quartier historique aux rues en pente, façades colorées, ateliers, petites places et traces du Marseille ancien."
+      },
+      {
+        "name": "Cathédrale de la Major",
+        "description": "Édifice monumental du XIXe siècle situé près du Mucem et de la Joliette, reconnaissable à ses bandes de pierre claire et sombre."
+      },
+      {
+        "name": "Palais Longchamp",
+        "description": "Ensemble architectural du XIXe siècle avec parc, fontaine monumentale et accès à plusieurs institutions culturelles."
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Monter à Notre-Dame-de-la-Garde",
+        "description": "Choisissez la marche, le bus, le petit train touristique ou un taxi selon votre condition et le temps disponible ; la montée à pied depuis le Vieux-Port est soutenue."
+      },
+      {
+        "name": "Explorer les Calanques",
+        "description": "Randonnez ou rejoignez une calanque accessible selon les conditions. Vérifiez impérativement les règles d’ouverture, le risque incendie, la météo et les transports avant le départ."
+      },
+      {
+        "name": "Prendre la mer vers le Frioul",
+        "description": "Embarquez depuis le Vieux-Port pour une escapade insulaire, une promenade en bateau ou une excursion maritime, sous réserve des horaires et de la météo."
+      },
+      {
+        "name": "Flâner dans le Panier",
+        "description": "Parcourez les ruelles sans itinéraire strict entre places, escaliers, boutiques indépendantes et façades anciennes."
+      },
+      {
+        "name": "Goûter la cuisine marseillaise",
+        "description": "Cherchez une bouillabaisse proposée selon les règles de la maison, mais aussi panisses, poissons, coquillages, aïoli, navettes et cuisine méditerranéenne de marché."
+      },
+      {
+        "name": "Découvrir la Corniche",
+        "description": "Suivez le front de mer vers les plages du Prado, Malmousque ou la Pointe Rouge pour observer les îles, les anses et la côte."
+      }
+    ],
+    "mobility": [
+      {
+        "name": "Métro, tramway et bus RTM",
+        "description": "Le réseau urbain relie les principaux pôles de Marseille. Le Vieux-Port est un nœud particulièrement utile pour rejoindre le centre, le Mucem et les correspondances de bus."
+      },
+      {
+        "name": "À pied",
+        "description": "Le Vieux-Port, le Panier, le Mucem, la Major et la Joliette s’enchaînent bien à pied. Anticipez toutefois les pentes, les escaliers, la chaleur et les distances réelles."
+      },
+      {
+        "name": "Bateau et navettes maritimes",
+        "description": "Certaines liaisons permettent de rejoindre les îles, la côte ou des secteurs du littoral. Elles dépendent fortement des saisons, de la météo et des horaires."
+      },
+      {
+        "name": "Vers les Calanques",
+        "description": "L’accès varie selon la calanque choisie : bus puis marche, navette saisonnière, bateau ou randonnée. Ne partez pas sans avoir vérifié l’ouverture du massif et le dernier retour disponible."
+      },
+      {
+        "name": "Vélo",
+        "description": "Le vélo peut être agréable sur le littoral et certains axes, mais la circulation, les pentes et la chaleur peuvent rendre les trajets moins confortables dans le centre."
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Vieux-Port, Panier et Marseille maritime",
+      "description": "Une première journée entre le port historique, les ruelles du Panier, les musées et les promenades face à la Méditerranée.",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Arrivée à Marseille Saint-Charles",
+          "description": "Rejoignez le centre par métro, bus, taxi ou à pied selon votre hébergement. Déposez vos bagages avant de partir vers le Vieux-Port.",
+          "type": "transport"
+        },
+        {
+          "time": "09:45",
+          "title": "Vieux-Port et quai des Belges",
+          "description": "Commencez par les quais, les bateaux et l’ambiance portuaire. Passez sous l’Ombrière avant de choisir votre parcours vers le Panier.",
+          "type": "leisure"
+        },
+        {
+          "time": "10:30",
+          "title": "Le Panier",
+          "description": "Montez dans le quartier historique pour explorer les escaliers, les petites places, les ateliers et les façades colorées.",
+          "type": "visit"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner près du Vieux-Port ou de la Major",
+          "description": "Choisissez une table méditerranéenne dans une rue adjacente aux quais ou vers la Joliette selon la suite du programme.",
+          "type": "food"
+        },
+        {
+          "time": "14:00",
+          "title": "Mucem et Fort Saint-Jean",
+          "description": "Visitez une exposition si elle correspond à vos envies, puis prenez du temps pour les passerelles, terrasses et jardins du Fort Saint-Jean.",
+          "type": "visit"
+        },
+        {
+          "time": "16:30",
+          "title": "Cathédrale de la Major et quartier de la Joliette",
+          "description": "Admirez la Major puis longez le front de mer vers la Joliette, les Docks ou les Terrasses du Port selon vos centres d’intérêt.",
+          "type": "visit"
+        },
+        {
+          "time": "18:30",
+          "title": "Retour au Vieux-Port",
+          "description": "Revenez en fin de journée pour une promenade sur les quais ou un verre avec vue sur les bateaux et Notre-Dame-de-la-Garde.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner dans le centre",
+          "description": "Terminez au Vieux-Port, dans le Panier, à Noailles ou autour du Cours Julien selon l’ambiance recherchée.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Notre-Dame-de-la-Garde et Méditerranée",
+      "description": "Une journée adaptable entre panorama urbain, front de mer, îles ou Calanques selon la saison et les conditions d’accès.",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Montée à Notre-Dame-de-la-Garde",
+          "description": "Prenez le bus 60 depuis le secteur du Vieux-Port ou optez pour une montée à pied si vous êtes à l’aise avec le dénivelé. Vérifiez les horaires et les conditions d’accès avant de partir.",
+          "type": "transport"
+        },
+        {
+          "time": "09:45",
+          "title": "Basilique et panorama",
+          "description": "Visitez l’extérieur et, selon les conditions, l’intérieur de la basilique. Prenez le temps d’observer le port, les îles et les quartiers de Marseille.",
+          "type": "visit"
+        },
+        {
+          "time": "11:30",
+          "title": "Descente vers le Vallon des Auffes ou la Corniche",
+          "description": "Rejoignez le littoral pour une marche entre anses, cabanons, rochers et vues sur la Méditerranée.",
+          "type": "leisure"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner près de la mer",
+          "description": "Déjeunez vers les Catalans, Endoume, le Vallon des Auffes ou la Pointe Rouge selon votre parcours.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Calanques, Frioul ou plages du Prado",
+          "description": "Choisissez une excursion compatible avec la météo, la saison et vos réservations : randonnée encadrée ou autonome dans les Calanques, bateau vers le Frioul, ou après-midi plus simple sur le littoral.",
+          "type": "visit"
+        },
+        {
+          "time": "18:00",
+          "title": "Retour vers le centre",
+          "description": "Prévoyez une marge importante pour les retours en bateau, bus ou randonnée, surtout en cas de vent, de forte chaleur ou de restrictions d’accès.",
+          "type": "transport"
+        },
+        {
+          "time": "19:30",
+          "title": "Dernière soirée marseillaise",
+          "description": "Pour un dernier verre ou dîner, choisissez le Cours Julien, la Plaine, le Vieux-Port ou le quartier de la Préfecture.",
+          "type": "food"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure période",
+      "icon": "fa-calendar",
+      "content": "Avril-juin et septembre-octobre sont souvent les périodes les plus agréables pour combiner ville, marche et mer. L’été offre une ambiance très méditerranéenne, mais il peut faire très chaud et les Calanques peuvent faire l’objet de restrictions liées au risque incendie."
+    },
+    {
+      "title": "Se déplacer",
+      "icon": "fa-subway",
+      "content": "Le réseau RTM comprend métro, tramways et bus. Utilisez les informations officielles en temps réel pour les horaires, travaux et tarifs. Pour Notre-Dame-de-la-Garde, le bus 60 dessert le pied des marches depuis plusieurs arrêts centraux."
+    },
+    {
+      "title": "Calanques : à vérifier",
+      "icon": "fa-triangle-exclamation",
+      "content": "L’accès au parc national des Calanques est réglementé et peut changer selon le risque incendie, le vent ou les conditions météo. Vérifiez l’autorisation d’accès, le parcours, l’eau nécessaire et l’heure du dernier transport avant toute randonnée."
+    },
+    {
+      "title": "À ne pas manquer",
+      "icon": "fa-star",
+      "content": "Une promenade au Vieux-Port, la vue depuis Notre-Dame-de-la-Garde, le Fort Saint-Jean et le Mucem, ainsi qu’une sortie vers la mer ou les Calanques selon les conditions."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quartiers",
+      "title": "Quartiers et promenades",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>Le Vieux-Port</strong> est le point de départ naturel pour découvrir Marseille et rejoindre les départs maritimes. <strong>Le Panier</strong>, juste au nord, conserve un tissu de ruelles en pente, d’escaliers et de petites places.</p><p><strong>Noailles</strong> et <strong>La Canebière</strong> donnent à voir une ville très vivante, entre marchés et commerces. <strong>Le Cours Julien et La Plaine</strong> offrent une atmosphère plus alternative, avec cafés, murs peints, librairies et restaurants.</p>"
+    },
+    {
+      "id": "gastronomie",
+      "title": "Gastronomie méditerranéenne",
+      "icon": "fa-utensils",
+      "content": "<p>Marseille se découvre aussi par les produits de la mer, l’huile d’olive, les légumes du Sud et les cuisines méditerranéennes. La <strong>bouillabaisse</strong> mérite d’être choisie dans une maison qui annonce clairement son prix, son poisson et son mode de service.</p><p>Pour des pauses plus simples, goûtez panisses, navettes, chichis, poissons grillés, aïoli ou cuisine de marché. Réservez les tables recherchées, particulièrement les soirs de week-end et en haute saison.</p>"
+    },
+    {
+      "id": "culture",
+      "title": "Culture et patrimoine",
+      "icon": "fa-palette",
+      "content": "<p>Le <strong>Mucem</strong> constitue un repère culturel majeur avec ses expositions consacrées aux civilisations de l’Europe et de la Méditerranée. Il est relié au <strong>Fort Saint-Jean</strong>, dont les espaces extérieurs et les vues sur le port complètent naturellement la visite.</p><p>Le patrimoine marseillais se lit aussi à Notre-Dame-de-la-Garde, à la cathédrale de la Major, au Palais Longchamp et dans les quartiers anciens. Vérifiez les horaires des monuments et musées, qui peuvent varier selon la saison ou les expositions.</p>"
+    },
+    {
+      "id": "autour",
+      "title": "Autour de Marseille",
+      "icon": "fa-compass",
+      "content": "<p>Les <strong>îles du Frioul</strong>, le <strong>Château d’If</strong>, Cassis, Aix-en-Provence et les villages du littoral peuvent prolonger le séjour. Les Calanques ne sont pas un simple parc urbain : préparez chaque sortie selon l’accès réel, la météo, le niveau de randonnée et les transports disponibles.</p>"
+    }
+  ],
   "photo_spots": [
     {
       "name": "Vieux-Port",
