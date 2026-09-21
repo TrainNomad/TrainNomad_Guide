@@ -1,0 +1,373 @@
+{
+  "slug": "prague",
+  "name": "Prague",
+  "country": "Tchéquie",
+  "country_code": "CZ",
+  "image": "/assets/guides/prague-cover.webp",
+  "hero_image": "/assets/guides/prague-hero.webp",
+  "description": "Ville aux cent clochers, Prague mêle châteaux, ponts gothiques, ruelles médiévales, cafés historiques et panoramas sur la Vltava.",
+  "reading_time": 25,
+  "featured": false,
+  "featured_title": "Prague : château et quartiers en 3 jours",
+  "featured_subtitle": "Trois jours entre la Vltava, les tours gothiques, le château, les jardins de Petrín et les quartiers plus locaux.",
+  "tags": [
+    "Train de nuit",
+    "Architecture",
+    "Culture"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-clock",
+      "label": "Depuis Paris",
+      "value": "Environ 13 à 15 h"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Distance",
+      "value": "1 030 km"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Ligne",
+      "value": "European Sleeper via Bruxelles"
+    }
+  ],
+  "introduction": "Prague se dévoile autour de la Vltava, entre collines, tours gothiques, façades baroques et ruelles pavées. Depuis Praha hlavní nádraží, la gare principale, le centre historique est rapidement accessible en métro ou en tram. La ville rassemble plusieurs siècles d’histoire dans un périmètre compact : le château dominant Malá Strana, le pont Charles reliant les deux rives, la place de la Vieille-Ville et son horloge astronomique, le quartier juif de Josefov, puis les hauteurs de Petrín et de Vyšehrad. Depuis Paris, il est possible de rejoindre Bruxelles en train puis de poursuivre avec un train de nuit European Sleeper jusqu’à Prague ; vérifiez les jours de circulation, les horaires et les disponibilités au moment de réserver.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Château de Prague",
+        "description": "Vaste ensemble historique dominant la Vltava, avec cours, palais, jardins et cathédrale."
+      },
+      {
+        "name": "Cathédrale Saint-Guy",
+        "description": "Monument gothique majeur du château, connu pour ses vitraux, ses chapelles et les tombeaux royaux."
+      },
+      {
+        "name": "Pont Charles",
+        "description": "Pont médiéval décoré de statues, reliant la Vieille-Ville à Malá Strana au-dessus de la Vltava."
+      },
+      {
+        "name": "Place de la Vieille-Ville",
+        "description": "Cœur monumental de Prague avec l’hôtel de ville, l’horloge astronomique et l’église Notre-Dame-du-Týn."
+      },
+      {
+        "name": "Quartier juif de Josefov",
+        "description": "Ensemble de synagogues, vieux cimetière juif et lieux de mémoire liés à l’histoire de la communauté juive de Prague."
+      },
+      {
+        "name": "Vyšehrad",
+        "description": "Forteresse historique sur une hauteur au sud du centre, avec remparts, parc, église et vues ouvertes sur la Vltava."
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Traverser le pont Charles tôt le matin",
+        "description": "Profiter de la lumière sur la Vltava et d’une fréquentation généralement plus douce qu’en milieu de journée."
+      },
+      {
+        "name": "Croisière sur la Vltava",
+        "description": "Observer le château, les ponts et les façades des deux rives depuis le fleuve."
+      },
+      {
+        "name": "Découvrir Malá Strana",
+        "description": "Parcourir les rues calmes, les palais, les jardins et les escaliers du quartier au pied du château."
+      },
+      {
+        "name": "Voir Prague depuis Petrín",
+        "description": "Monter sur la colline de Petrín pour une promenade verdoyante et une vue étendue sur les toits de la ville."
+      },
+      {
+        "name": "Prendre un café historique",
+        "description": "Faire une pause dans un café du centre ou de Vinohrady, entre pâtisseries tchèques, atmosphère littéraire et vie locale."
+      },
+      {
+        "name": "Admirer le coucher du soleil à Letná",
+        "description": "Rejoindre le parc de Letná pour une vue panoramique sur la Vltava, ses ponts et le centre historique."
+      }
+    ],
+    "mobility": [
+      {
+        "name": "Tram",
+        "description": "Très pratique pour rejoindre le château, Malá Strana, Vyšehrad, Letná et les quartiers résidentiels."
+      },
+      {
+        "name": "Métro",
+        "description": "Rapide et efficace pour les trajets plus longs, avec une liaison utile entre la gare principale, le centre et Vyšehrad."
+      },
+      {
+        "name": "À pied",
+        "description": "La Vieille-Ville, Josefov, le pont Charles et Malá Strana s’explorent bien à pied, malgré les pavés, les escaliers et certains dénivelés."
+      },
+      {
+        "name": "Funiculaire de Petrín",
+        "description": "La ligne relie Újezd, Nebozízek et Petrín. Vérifiez son état de fonctionnement avant de construire votre journée : le service doit reprendre le 22 septembre 2026 après reconstruction."
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Château, Malá Strana et pont Charles",
+      "description": "Une première journée sur la rive gauche, entre le château de Prague, les palais de Malá Strana et les vues sur la Vltava.",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Départ depuis Praha hlavní nádraží",
+          "description": "Rejoignez votre hébergement ou le centre en métro. Achetez un titre de transport adapté à vos déplacements et gardez votre billet valide pendant toute sa durée de validité.",
+          "type": "transport"
+        },
+        {
+          "time": "10:00",
+          "title": "Château de Prague",
+          "description": "Arrivez tôt pour explorer les cours et les principaux édifices avant l’affluence. Le complexe est ouvert de 6 h à 22 h, mais les bâtiments historiques suivent des horaires distincts.",
+          "type": "visit"
+        },
+        {
+          "time": "10:30",
+          "title": "Cathédrale Saint-Guy",
+          "description": "Prenez le temps d’observer les vitraux, les chapelles et l’architecture gothique. Vérifiez les éventuelles fermetures liturgiques ou restrictions avant votre visite.",
+          "type": "visit"
+        },
+        {
+          "time": "11:30",
+          "title": "Ancien Palais royal et Ruelle d’Or",
+          "description": "Poursuivez la découverte du château par les intérieurs inclus dans votre circuit. Répartir les visites sur deux jours est possible selon le billet choisi.",
+          "type": "visit"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner à Malá Strana",
+          "description": "Redescendez vers Malá Strana pour une pause dans un restaurant ou un café de quartier. Éloignez-vous de quelques rues du pont Charles pour trouver une ambiance plus tranquille.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Église Saint-Nicolas et Malá Strana",
+          "description": "Découvrez l’église baroque Saint-Nicolas, puis parcourez les places, palais, ruelles et jardins du quartier.",
+          "type": "visit"
+        },
+        {
+          "time": "16:00",
+          "title": "Mur Lennon et île de Kampa",
+          "description": "Passez par le Mur Lennon puis rejoignez l’île de Kampa, plus calme, pour voir les moulins, les rives et les perspectives vers le pont Charles.",
+          "type": "leisure"
+        },
+        {
+          "time": "17:30",
+          "title": "Pont Charles",
+          "description": "Traversez le pont à pied vers la Vieille-Ville. Observez les statues, les tours et la silhouette du château à la lumière de fin d’après-midi.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner dans la Vieille-Ville",
+          "description": "Dînez dans les rues autour de Staré Město, ou éloignez-vous légèrement de la place principale pour une soirée plus calme.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Vieille-Ville, Josefov et Vltava",
+      "description": "Une journée dans le cœur médiéval et juif de Prague, avec du temps pour les panoramas et le fleuve.",
+      "steps": [
+        {
+          "time": "08:30",
+          "title": "Place de la Vieille-Ville",
+          "description": "Arrivez tôt pour parcourir la place, regarder les façades et découvrir l’horloge astronomique avant l’arrivée des grands groupes.",
+          "type": "leisure"
+        },
+        {
+          "time": "09:30",
+          "title": "Hôtel de ville et horloge astronomique",
+          "description": "Montez à la tour de l’hôtel de ville si vous souhaitez une vue panoramique sur les toits, le château et les clochers de Prague.",
+          "type": "visit"
+        },
+        {
+          "time": "10:45",
+          "title": "Quartier juif de Josefov",
+          "description": "Visitez les lieux de mémoire avec respect et prévoyez du temps pour les synagogues et le vieux cimetière juif. Le musée est fermé le samedi et lors des fêtes juives.",
+          "type": "visit"
+        },
+        {
+          "time": "13:30",
+          "title": "Déjeuner près de Josefov",
+          "description": "Faites une pause dans le centre, puis poursuivez à pied vers les quais, la rue Pařížská ou les ruelles de Staré Město.",
+          "type": "food"
+        },
+        {
+          "time": "15:00",
+          "title": "Clementinum ou ruelles de Staré Město",
+          "description": "Choisissez une visite du Clementinum si un créneau vous convient, ou flânez dans les passages et ruelles médiévales autour de la place de la Vieille-Ville.",
+          "type": "visit"
+        },
+        {
+          "time": "16:30",
+          "title": "Croisière sur la Vltava",
+          "description": "Embarquez pour une croisière courte afin de voir le pont Charles, Malá Strana et le château depuis l’eau.",
+          "type": "leisure"
+        },
+        {
+          "time": "18:00",
+          "title": "Quais de la Vltava",
+          "description": "Prolongez la balade à pied le long des quais et faites une pause en terrasse selon la saison.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner et café dans le centre",
+          "description": "Terminez dans Staré Město, Nové Město ou Vinohrady selon l’ambiance recherchée, puis goûtez une pâtisserie tchèque.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Petrín, Vyšehrad et Prague plus locale",
+      "description": "Une journée plus souple entre jardins, panoramas, forteresse historique et quartiers résidentiels.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Colline de Petrín",
+          "description": "Rejoignez la colline par le funiculaire depuis Újezd si le service circule, ou montez à pied tranquillement par les chemins. Prenez le temps de marcher dans les jardins.",
+          "type": "leisure"
+        },
+        {
+          "time": "10:30",
+          "title": "Tour de Petrín et panorama",
+          "description": "Montez à la tour d’observation si les conditions météo sont bonnes. La vue embrasse les toits, les clochers, le château et la Vltava.",
+          "type": "visit"
+        },
+        {
+          "time": "12:00",
+          "title": "Déjeuner à Smíchov ou Malá Strana",
+          "description": "Redescendez vers Újezd ou traversez vers Smíchov pour un déjeuner dans un quartier plus quotidien que le centre historique.",
+          "type": "food"
+        },
+        {
+          "time": "13:30",
+          "title": "Métro vers Vyšehrad",
+          "description": "Prenez le métro jusqu’à la station Vyšehrad, puis rejoignez l’enceinte de la forteresse à pied.",
+          "type": "transport"
+        },
+        {
+          "time": "14:00",
+          "title": "Forteresse de Vyšehrad",
+          "description": "Promenez-vous le long des remparts, visitez l’église Saints-Pierre-et-Paul et profitez des vues sur la Vltava et les quartiers du sud de Prague.",
+          "type": "visit"
+        },
+        {
+          "time": "15:30",
+          "title": "Cimetière de Vyšehrad",
+          "description": "Parcourez ce lieu de mémoire où reposent de nombreuses figures de la culture tchèque, dans une atmosphère plus paisible que le centre.",
+          "type": "visit"
+        },
+        {
+          "time": "17:00",
+          "title": "Vinohrady ou Karlín",
+          "description": "Rejoignez l’un de ces quartiers résidentiels pour leurs cafés, leurs façades et une atmosphère locale. Choisissez Vinohrady pour ses avenues et Karlín pour ses anciennes zones industrielles réinventées.",
+          "type": "leisure"
+        },
+        {
+          "time": "19:00",
+          "title": "Coucher de soleil à Letná",
+          "description": "Si vous souhaitez finir par un panorama, gagnez le parc de Letná pour observer les ponts et le centre historique à la lumière du soir.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:30",
+          "title": "Dernier dîner à Prague",
+          "description": "Dînez à Letná, Holešovice, Karlín ou Vinohrady pour une dernière soirée hors des rues les plus fréquentées du centre.",
+          "type": "food"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure période",
+      "icon": "fa-calendar",
+      "content": "Le printemps et le début de l’automne sont particulièrement agréables pour marcher. L’été est animé et plus fréquenté. En hiver, Prague est très atmosphérique, mais les journées sont courtes, les pavés peuvent être glissants et les températures souvent basses."
+    },
+    {
+      "title": "Se déplacer",
+      "icon": "fa-train",
+      "content": "Le réseau intégré de Prague combine métro, tram et bus, avec des titres valables pendant une durée donnée et utilisables en correspondance. Pour trois jours, le forfait 72 heures est le plus simple : il coûte 340 CZK dans l’application PID Lítačka ou 350 CZK en version papier. Pensez à valider un billet papier avant le premier trajet. [40][38]"
+    },
+    {
+      "title": "Réserver et vérifier",
+      "icon": "fa-ticket",
+      "content": "Réservez les créneaux du château, de l’hôtel de ville, du Clementinum et des croisières si vous voyagez pendant une période chargée. Le complexe du château est ouvert de 6 h à 22 h, tandis que les bâtiments historiques suivent des horaires séparés. Les lieux du Musée juif sont fermés le samedi et lors des fêtes juives. [48][54]"
+    },
+    {
+      "title": "À ne pas manquer",
+      "icon": "fa-star",
+      "content": "Le château et la cathédrale Saint-Guy, le pont Charles au petit matin, la place de la Vieille-Ville, Josefov, une promenade sur la Vltava, la colline de Petrín et le coucher du soleil depuis Letná."
+    }
+  ],
+  "sections": [
+    {
+      "id": "quartiers",
+      "title": "Quartiers à explorer",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>Staré Město</strong>, la Vieille-Ville, concentre les monuments les plus connus autour de la place centrale. <strong>Malá Strana</strong>, au pied du château, est plus élégante et plus calme. <strong>Josefov</strong> rassemble les grands lieux de mémoire juifs. <strong>Vinohrady</strong> et <strong>Karlín</strong> permettent de découvrir une Prague plus résidentielle, avec cafés, restaurants et architecture du tournant des XIXe et XXe siècles.</p>"
+    },
+    {
+      "id": "culture",
+      "title": "Histoire et architecture",
+      "icon": "fa-landmark",
+      "content": "<p>Prague superpose les périodes romane, gothique, baroque, Art nouveau et moderne. Le château, le pont Charles et la Vieille-Ville constituent les repères majeurs, mais les façades, les passages, les cours intérieures et les cafés racontent eux aussi la ville. Pour Josefov et Vyšehrad, privilégiez une visite attentive : ce sont des lieux de mémoire autant que des sites patrimoniaux.</p>"
+    },
+    {
+      "id": "paves",
+      "title": "Marcher avec attention",
+      "icon": "fa-shoe-prints",
+      "content": "<p>Le centre est compact et agréable à parcourir, mais ses <strong>pavés</strong>, ses escaliers et les rues en pente autour du château ou de Petrín demandent de bonnes chaussures. Traversez aux passages prévus, surveillez les rails de tram et prévoyez un peu de marge pour les déplacements dans les zones très fréquentées.</p>"
+    },
+    {
+      "id": "petrin",
+      "title": "Petrín et panoramas",
+      "icon": "fa-mountain-sun",
+      "content": "<p>La colline de <strong>Petrín</strong> est l’un des meilleurs contrepoints au centre historique : jardins, chemins et vues sur la ville. Le funiculaire reliant Újezd à Petrín reprend son service à partir du 22 septembre 2026, après des travaux de stabilisation et une reconstruction complète. Vérifiez son état avant votre départ et prévoyez une montée à pied en solution alternative. [50][52]</p>"
+    }
+  ],
+  "photo_spots": [
+    {
+      "name": "Pont Charles",
+      "description": "Pont gothique historique reliant les deux rives de la Vltava, bordé de statues et encadré par les tours de Prague.",
+      "type": "bridge",
+      "km_from_paris": 1030,
+      "lat": 50.0865,
+      "lon": 14.4114,
+      "best_side": "sunrise"
+    },
+    {
+      "name": "Place de la Vieille-Ville",
+      "description": "Grande place historique avec l’horloge astronomique, l’hôtel de ville et les flèches de Notre-Dame-du-Týn.",
+      "type": "plaza",
+      "km_from_paris": 1030,
+      "lat": 50.087,
+      "lon": 14.4208,
+      "best_side": "morning"
+    },
+    {
+      "name": "Château de Prague",
+      "description": "Ensemble monumental dominant la ville et la Vltava, particulièrement photogénique depuis les quais ou les hauteurs de Petrín.",
+      "type": "landmark",
+      "km_from_paris": 1030,
+      "lat": 50.0909,
+      "lon": 14.4005,
+      "best_side": "sunset"
+    },
+    {
+      "name": "Parc de Letná",
+      "description": "Grand parc en hauteur offrant l’un des panoramas les plus ouverts sur les ponts de la Vltava et le centre historique.",
+      "type": "park",
+      "km_from_paris": 1030,
+      "lat": 50.0964,
+      "lon": 14.4244,
+      "best_side": "sunset"
+    }
+  ]
+}

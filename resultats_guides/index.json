@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "built_at": "2026-09-21T17:31:55.418863",
+  "built_at": "2026-09-21T21:18:37.558070",
   "guides": [
     {
       "slug": "berlin",
@@ -85,6 +85,13 @@
       "country": "Royaume-Uni",
       "path": "Royaume-Uni\\Edimbourgh.json",
       "featured": true
+    },
+    {
+      "slug": "prague",
+      "name": "Prague",
+      "country": "République Tchèque",
+      "path": "République Tchèque\\Prague.json",
+      "featured": false
     }
   ]
 }
