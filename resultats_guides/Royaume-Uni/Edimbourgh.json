@@ -5,455 +5,351 @@
   "country_code": "GB",
   "image": "/assets/guides/edinburgh-cover.webp",
   "hero_image": "/assets/guides/edinburgh-hero.webp",
-  "description": "Capitale écossaise de pierre et de volcans, entre vieille ville médiévale, élégance géorgienne et panoramas spectaculaires.",
-  "reading_time": 22,
-  "featured": true,
-  "featured_title": "Édimbourg : l’essentiel en trois jours",
-  "featured_subtitle": "Château, Royal Mile, collines volcaniques, whisky et quartiers géorgiens pour un long week-end écossais.",
+  "description": "Capitale écossaise de châteaux, ruelles médiévales, collines volcaniques, pubs chaleureux et architecture géorgienne.",
+  "reading_time": 25,
+  "featured": false,
+  "featured_title": "Édimbourg : châteaux et landes en 3 jours",
+  "featured_subtitle": "Trois jours entre la vieille ville, le château, Arthur’s Seat, les musées, les quartiers géorgiens et les panoramas sur la capitale écossaise.",
   "tags": [
-    "Histoire",
-    "Panoramas",
-    "Whisky"
+    "Train",
+    "Architecture",
+    "Écosse"
   ],
   "quick_facts": [
-  {
-    "icon": "fa-train",
-    "label": "Depuis Paris",
-    "value": "Environ 8h30 à 10h"
-  },
-  {
-    "icon": "fa-route",
-    "label": "Correspondance",
-    "value": "Londres"
-  },
-  {
-    "icon": "fa-train-subway",
-    "label": "Arrivée",
-    "value": "Edinburgh Waverley"
-  }
-],
-"introduction": "Édimbourg concentre dans un périmètre compact une vieille ville médiévale, une ville nouvelle géorgienne, des musées majeurs et des paysages étonnamment sauvages. Depuis Paris, le voyage se fait en train via Londres : l’Eurostar arrive à London St Pancras, à quelques minutes à pied de King’s Cross, d’où partent les trains directs vers Edinburgh Waverley. Le château domine la ville depuis son rocher volcanique ; le Royal Mile descend jusqu’au palais de Holyroodhouse ; Arthur’s Seat et Calton Hill offrent des vues ouvertes sur les toits, le Firth of Forth et les collines environnantes. Trois jours permettent d’alterner les incontournables, les quartiers à pied et une expérience écossaise plus locale, entre pubs, galeries, jardins, whisky et bord de mer à Leith.",  "essentials": {
+    {
+      "icon": "fa-clock",
+      "label": "Depuis Paris",
+      "value": "Environ 8 à 10 h"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Distance",
+      "value": "Environ 930 km"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Ligne",
+      "value": "Eurostar et trains britanniques"
+    }
+  ],
+  "introduction": "Édimbourg apparaît comme une ville construite sur des reliefs : son château domine la vieille ville depuis un ancien volcan, tandis que les façades géorgiennes de New Town s’étendent au nord des jardins de Princes Street. La capitale écossaise se parcourt facilement à pied, mais ses escaliers, ses montées et ses pavés donnent du relief à chaque promenade. En trois jours, vous pouvez découvrir le château, la Royal Mile, le palais de Holyroodhouse, Arthur’s Seat, le National Museum of Scotland et les quartiers plus contemporains de Stockbridge ou de Leith. L’arrivée à Edinburgh Waverley place directement les visiteurs entre Old Town et New Town, au cœur du centre historique.",
+  "essentials": {
     "to_see": [
       {
-        "name": "Château d’Édimbourg",
-        "description": "Forteresse emblématique installée sur un ancien volcan, avec vues sur la ville et collections consacrées à l’histoire écossaise. Réservez un créneau horaire à l’avance."
+        "name": "Edinburgh Castle",
+        "description": "Forteresse emblématique installée sur Castle Rock, avec vues sur la ville, palais royaux, chapelles et collections militaires."
       },
       {
         "name": "Royal Mile",
-        "description": "Artère historique reliant le château au palais de Holyroodhouse, bordée de closes, de bâtiments anciens, de musées, de boutiques et de pubs."
+        "description": "Grande artère historique reliant le château au palais de Holyroodhouse, bordée de closes, boutiques et bâtiments anciens."
       },
       {
-        "name": "Palais de Holyroodhouse",
-        "description": "Résidence royale écossaise au pied du Royal Mile, à associer au parc de Holyrood et à l’abbaye en ruine voisine selon les conditions d’ouverture."
-      },
-      {
-        "name": "Arthur’s Seat",
-        "description": "Sommet volcanique de Holyrood Park, avec panorama sur Édimbourg, la mer et les collines. Prévoyez de bonnes chaussures, du temps et une météo favorable."
-      },
-      {
-        "name": "Calton Hill",
-        "description": "Colline centrale aux monuments néoclassiques, particulièrement appréciée pour ses vues sur la vieille ville, le château et les lumières de fin de journée."
+        "name": "Palace of Holyroodhouse",
+        "description": "Résidence royale écossaise située au pied de la Royal Mile, avec appartements historiques, ruines de l’abbaye et jardins."
       },
       {
         "name": "National Museum of Scotland",
-        "description": "Grand musée accessible gratuitement, mêlant histoire naturelle, inventions, design, archéologie et histoire écossaise."
+        "description": "Musée gratuit consacré à l’histoire écossaise, aux sciences, aux cultures du monde, à la nature et aux arts."
       },
       {
-        "name": "Dean Village",
-        "description": "Ancien village de meuniers installé le long de la Water of Leith, connu pour ses maisons historiques et son cadre plus calme."
+        "name": "Arthur’s Seat",
+        "description": "Sommet volcanique de Holyrood Park offrant un panorama spectaculaire sur Édimbourg et l’estuaire du Forth."
+      },
+      {
+        "name": "New Town",
+        "description": "Quartier géorgien aux avenues régulières, squares élégants, galeries, boutiques et cafés."
       }
     ],
     "experiences": [
       {
-        "name": "Suivre les closes de la vieille ville",
-        "description": "Quittez régulièrement le Royal Mile pour explorer les passages, escaliers et cours intérieures, notamment autour de Victoria Street, Cockburn Street et Grassmarket."
+        "name": "Monter au château tôt le matin",
+        "description": "Commencer par la forteresse avant les périodes de forte fréquentation et profiter des vues dégagées sur les toits."
       },
       {
-        "name": "Prendre de la hauteur",
-        "description": "Choisissez Calton Hill pour une montée courte et urbaine, ou Arthur’s Seat pour une randonnée plus physique et une vue très étendue."
+        "name": "Explorer les closes de la Royal Mile",
+        "description": "Emprunter les passages étroits qui descendent de la rue principale vers les anciennes zones d’habitation."
       },
       {
-        "name": "Découvrir le whisky écossais",
-        "description": "Réservez une dégustation guidée, un bar spécialisé ou une visite adaptée à votre niveau ; privilégiez une expérience qui explique les régions, les styles et les méthodes de production."
+        "name": "Randonnée à Arthur’s Seat",
+        "description": "Prévoir une montée parfois escarpée et choisir un itinéraire adapté à la météo et à votre condition physique."
       },
       {
-        "name": "Marcher sur la Water of Leith",
-        "description": "Reliez Dean Village, Stockbridge et, si le temps le permet, le secteur de Leith par une promenade plus végétale hors des grands flux touristiques."
+        "name": "Boire un verre dans un pub traditionnel",
+        "description": "Découvrir l’atmosphère chaleureuse des pubs écossais autour d’un cidre, d’une bière locale ou d’un whisky."
       },
       {
-        "name": "Explorer Leith",
-        "description": "Descendez vers le port pour son atmosphère maritime, ses restaurants, ses bars et le Royal Yacht Britannia si cette visite vous intéresse."
+        "name": "Admirer Édimbourg depuis Calton Hill",
+        "description": "Rejoindre une colline facilement accessible pour une vue sur Old Town, New Town et le Firth of Forth."
       },
       {
-        "name": "Se réfugier dans un pub",
-        "description": "Profitez d’une pause dans un pub de quartier pour goûter une bière locale, un whisky ou un plat réconfortant après les visites et les montées."
+        "name": "Marcher jusqu’à Dean Village",
+        "description": "Suivre le Water of Leith vers cet ancien village de meuniers aux maisons de pierre et aux petits ponts."
       }
     ],
     "mobility": [
-  {
-    "name": "Depuis Paris en train",
-    "description": "Voyagez en Eurostar jusqu’à London St Pancras, puis rejoignez King’s Cross, situé juste en face, pour prendre un train vers Edinburgh Waverley. Prévoyez une marge confortable à Londres, surtout avec des bagages ou si les billets sont séparés."
-  },
-  {
-    "name": "Edinburgh Waverley",
-    "description": "La gare principale se trouve entre Old Town et New Town, à quelques minutes à pied du Royal Mile, de Princes Street et de Calton Hill. Attention aux escaliers et aux pentes pour rejoindre certains hébergements de la vieille ville."
-  },
-  {
-    "name": "À pied",
-    "description": "Le centre est très praticable à pied, mais les pentes, pavés, escaliers et changements de niveau sont fréquents. Prévoyez des chaussures antidérapantes et confortables."
-  },
-  {
-    "name": "Tramway",
-    "description": "Le tram dessert le centre-ville et Leith. Vérifiez les horaires, l’arrêt le plus proche de votre hébergement et le tarif en vigueur avant de voyager."
-  },
-  {
-    "name": "Bus Lothian",
-    "description": "Les bus desservent très bien le centre, les quartiers résidentiels, Leith et de nombreux points de départ de promenade. Le paiement sans contact est généralement pratique, mais contrôlez les conditions actualisées."
-  },
-  {
-    "name": "Taxi ou VTC",
-    "description": "Utile à l’arrivée tardive, avec bagages, sous une pluie forte ou pour rejoindre rapidement un secteur moins central."
-  }
-]
+      {
+        "name": "À pied",
+        "description": "Le centre est compact et se visite bien à pied, mais les pavés, escaliers et dénivelés demandent de bonnes chaussures."
+      },
+      {
+        "name": "Bus Lothian",
+        "description": "Réseau pratique pour rejoindre Holyrood, Stockbridge, Leith, Dean Village et les quartiers éloignés du centre."
+      },
+      {
+        "name": "Tramway",
+        "description": "Utile pour les déplacements sur l’axe nord-ouest de la ville ; le tarif City DAY ne couvre pas la liaison aéroport."
+      },
+      {
+        "name": "City DAY ticket",
+        "description": "Titre valable pour des trajets illimités pendant la journée sur les bus Lothian et les tramways en zone urbaine, hors liaison aéroport."
+      }
+    ]
   },
   "itinerary": [
-  {
-    "day": 1,
-    "title": "Arrivée en train et première soirée dans Old Town",
-    "description": "Une journée de voyage depuis Paris via Londres, suivie d’une découverte douce du centre historique autour d’Edinburgh Waverley.",
-    "steps": [
-      {
-        "time": "07:00",
-        "title": "Départ de Paris Gare du Nord",
-        "description": "Rejoignez Londres en Eurostar. Arrivez en avance pour les contrôles frontaliers et vérifiez les conditions de bagages ainsi que les documents nécessaires pour entrer au Royaume-Uni.",
-        "type": "transport"
-      },
-      {
-        "time": "10:30",
-        "title": "Arrivée à London St Pancras",
-        "description": "Quittez St Pancras puis rejoignez London King’s Cross, situé juste en face. Gardez une marge confortable si vos billets Eurostar et britanniques sont séparés.",
-        "type": "transport"
-      },
-      {
-        "time": "11:30",
-        "title": "Train Londres–Édimbourg",
-        "description": "Embarquez depuis King’s Cross pour Edinburgh Waverley. Les trains directs suivent en partie la côte Est britannique ; prévoyez de quoi déjeuner ou achetez un repas avant le départ.",
-        "type": "transport"
-      },
-      {
-        "time": "16:30",
-        "title": "Arrivée à Edinburgh Waverley",
-        "description": "La gare se situe au cœur de la ville, entre Old Town et New Town. Rejoignez votre hébergement à pied, en bus ou en taxi selon les bagages et le dénivelé.",
-        "type": "transport"
-      },
-      {
-        "time": "17:30",
-        "title": "Installation et première marche",
-        "description": "Déposez vos bagages, puis rejoignez Cockburn Street, le Royal Mile ou Princes Street pour prendre vos repères sans programme trop dense.",
-        "type": "leisure"
-      },
-      {
-        "time": "18:30",
-        "title": "Calton Hill au coucher du soleil",
-        "description": "Montez à Calton Hill si la météo le permet : la courte ascension offre une première vue d’ensemble sur la vieille ville, Arthur’s Seat et les toits d’Édimbourg.",
-        "type": "leisure"
-      },
-      {
-        "time": "20:00",
-        "title": "Dîner dans Old Town",
-        "description": "Dînez autour de Grassmarket, du Royal Mile ou de Cowgate, puis rentrez tôt pour préserver l’énergie des deux journées de visite suivantes.",
-        "type": "food"
-      }
-    ]
-  },
-  {
-    "day": 2,
-    "title": "Château, Royal Mile et vieille ville",
-    "description": "Une journée consacrée aux grands repères d’Édimbourg, entre forteresse royale, ruelles médiévales, musées et vues sur la ville.",
-    "steps": [
-      {
-        "time": "09:00",
-        "title": "Château d’Édimbourg",
-        "description": "Commencez par le château sur un créneau réservé. Prévoyez environ deux heures et gardez du temps pour les remparts, les panoramas et les collections principales.",
-        "type": "visit"
-      },
-      {
-        "time": "11:30",
-        "title": "Esplanade, Grassmarket et Victoria Street",
-        "description": "Descendez vers Grassmarket, puis remontez par Victoria Street pour ses façades colorées et ses perspectives sur la vieille ville.",
-        "type": "leisure"
-      },
-      {
-        "time": "12:30",
-        "title": "Déjeuner autour de Grassmarket",
-        "description": "Faites une pause dans un pub, un café ou un restaurant de quartier, avec le château en surplomb.",
-        "type": "food"
-      },
-      {
-        "time": "14:00",
-        "title": "Royal Mile et closes historiques",
-        "description": "Parcourez le Royal Mile en descendant vers Holyrood. Écartez-vous dans les closes, passages et escaliers : c’est là que la vieille ville révèle son caractère.",
-        "type": "visit"
-      },
-      {
-        "time": "15:30",
-        "title": "National Museum of Scotland",
-        "description": "Choisissez quelques galeries plutôt qu’une visite exhaustive. Si accessible, montez aux niveaux offrant une vue sur les toits de la vieille ville.",
-        "type": "visit"
-      },
-      {
-        "time": "17:30",
-        "title": "Cockburn Street et Waverley",
-        "description": "Redescendez vers Cockburn Street, puis traversez le secteur de Waverley et Princes Street pour voir l’animation du centre en fin de journée.",
-        "type": "leisure"
-      },
-      {
-        "time": "19:30",
-        "title": "Dîner et pub dans Old Town",
-        "description": "Terminez dans la vieille ville, près de Grassmarket, du Royal Mile ou de Cowgate selon l’ambiance recherchée.",
-        "type": "food"
-      }
-    ]
-  },
-  {
-    "day": 3,
-    "title": "Holyrood, Arthur’s Seat et New Town",
-    "description": "Une journée entre patrimoine royal, paysages volcaniques et architecture géorgienne, à adapter aux conditions météorologiques.",
-    "steps": [
-      {
-        "time": "09:00",
-        "title": "Palais de Holyroodhouse",
-        "description": "Visitez le palais au pied du Royal Mile si les conditions d’ouverture le permettent. Réservez ou vérifiez les horaires, qui peuvent évoluer selon les événements officiels.",
-        "type": "visit"
-      },
-      {
-        "time": "10:45",
-        "title": "Randonnée à Arthur’s Seat",
-        "description": "Partez uniquement avec une météo suffisamment stable. Le vent, le brouillard et la pluie modifient rapidement la difficulté ; emportez eau, couche chaude et chaussures adaptées.",
-        "type": "leisure"
-      },
-      {
-        "time": "13:15",
-        "title": "Déjeuner après la randonnée",
-        "description": "Redescendez vers Holyrood ou Old Town et faites une vraie pause avant de poursuivre vers les jardins et la ville nouvelle.",
-        "type": "food"
-      },
-      {
-        "time": "14:45",
-        "title": "Princes Street Gardens",
-        "description": "Traversez les jardins installés au pied du château, entre la vieille ville surélevée et les grandes rues de la New Town.",
-        "type": "leisure"
-      },
-      {
-        "time": "15:30",
-        "title": "New Town et Scottish National Gallery",
-        "description": "Choisissez entre la Scottish National Gallery et une promenade dans la New Town, autour de George Street, Charlotte Square et des façades géorgiennes.",
-        "type": "visit"
-      },
-      {
-        "time": "17:30",
-        "title": "Dégustation de whisky ou tea time",
-        "description": "Réservez une dégustation guidée, visitez un bar spécialisé ou faites une pause dans un salon de thé selon vos envies.",
-        "type": "food"
-      },
-      {
-        "time": "20:00",
-        "title": "Dîner dans New Town ou Stockbridge",
-        "description": "Choisissez les rues autour de Broughton Street, George Street ou Stockbridge pour une soirée plus calme que le Royal Mile.",
-        "type": "food"
-      }
-    ]
-  },
-  {
-    "day": 4,
-    "title": "Dean Village, Stockbridge, Leith et retour vers Paris",
-    "description": "Une dernière matinée à Édimbourg entre Water of Leith et port de Leith, suivie du retour ferroviaire via Londres.",
-    "steps": [
-      {
-        "time": "08:30",
-        "title": "Départ de l’hébergement et bagages",
-        "description": "Libérez la chambre et utilisez une consigne à Edinburgh Waverley ou à votre hébergement si nécessaire. Gardez vos documents et billets de train facilement accessibles.",
-        "type": "transport"
-      },
-      {
-        "time": "09:15",
-        "title": "Dean Village",
-        "description": "Rejoignez l’ancien village de meuniers tôt pour profiter du calme, des maisons de pierre et des chemins le long de la Water of Leith.",
-        "type": "visit"
-      },
-      {
-        "time": "10:30",
-        "title": "Water of Leith et Stockbridge",
-        "description": "Suivez une partie du chemin de rivière, puis rejoignez Stockbridge pour ses cafés, librairies, petites boutiques et son ambiance résidentielle.",
-        "type": "leisure"
-      },
-      {
-        "time": "11:30",
-        "title": "Brunch ou déjeuner anticipé",
-        "description": "Faites une dernière pause à Stockbridge ou près de Waverley, en tenant compte de l’horaire du train vers Londres.",
-        "type": "food"
-      },
-      {
-        "time": "12:30",
-        "title": "Retour à Edinburgh Waverley",
-        "description": "Récupérez vos bagages et arrivez à quai avec une marge suffisante. Vérifiez le numéro de quai et les éventuelles modifications de service.",
-        "type": "transport"
-      },
-      {
-        "time": "13:00",
-        "title": "Train Édimbourg–Londres",
-        "description": "Prenez le train vers London King’s Cross. Gardez une marge confortable avant votre Eurostar au départ de St Pancras, particulièrement si les billets sont indépendants.",
-        "type": "transport"
-      },
-      {
-        "time": "17:30",
-        "title": "Correspondance à Londres",
-        "description": "Rejoignez London St Pancras depuis King’s Cross, effectuez les contrôles frontaliers et préparez-vous à embarquer vers Paris Gare du Nord.",
-        "type": "transport"
-      },
-      {
-        "time": "19:00",
-        "title": "Eurostar Londres–Paris",
-        "description": "Embarquez pour Paris Gare du Nord. L’heure exacte dépend du train choisi et doit être adaptée à la correspondance réellement réservée.",
-        "type": "transport"
-      }
-    ]
-  }
-],
-  "practical": [
     {
-      "title": "Depuis Paris",
-      "icon": "fa-plane",
-      "content": "Le vol direct Paris–Édimbourg dure environ 1h50. Pour un voyage réaliste, prévoyez environ 4h30 à 5h30 porte à porte, selon l’aéroport de départ, l’horaire, les bagages et le transfert à Édimbourg. Le train via Londres demande généralement une journée de voyage et convient davantage à un séjour plus long."
+      "day": 1,
+      "title": "Château et vieille ville",
+      "description": "Une première journée au cœur de l’Édimbourg médiévale, entre la forteresse, la Royal Mile et les passages historiques.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Edinburgh Waverley",
+          "description": "Commencez depuis la gare centrale et rejoignez Castlehill à pied. Prévoyez une montée progressive vers l’entrée du château.",
+          "type": "transport"
+        },
+        {
+          "time": "10:00",
+          "title": "Edinburgh Castle",
+          "description": "Réservez votre billet à l’avance et prévoyez au moins deux heures pour les principaux espaces : Crown Square, palais royal, chapelle Sainte-Marguerite et points de vue.",
+          "type": "visit"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner sur la Royal Mile",
+          "description": "Descendez tranquillement depuis le château et choisissez une adresse autour de Lawnmarket ou de George IV Bridge.",
+          "type": "food"
+        },
+        {
+          "time": "14:00",
+          "title": "Royal Mile",
+          "description": "Parcourez l’artère historique jusqu’à Canongate en observant les closes, les anciennes façades et les boutiques indépendantes.",
+          "type": "leisure"
+        },
+        {
+          "time": "15:00",
+          "title": "Cathédrale Saint-Gilles",
+          "description": "Faites une pause dans cette église historique au cœur de la Royal Mile et vérifiez les éventuelles cérémonies ou restrictions de visite.",
+          "type": "visit"
+        },
+        {
+          "time": "16:00",
+          "title": "Victoria Street et Grassmarket",
+          "description": "Descendez par Victoria Street, l’une des rues les plus reconnaissables d’Édimbourg, puis rejoignez Grassmarket pour ses cafés et ses vues vers le château.",
+          "type": "leisure"
+        },
+        {
+          "time": "18:00",
+          "title": "Greyfriars et quartier de South Bridge",
+          "description": "Passez par Greyfriars Kirkyard et les rues autour de South Bridge, connues pour leurs bâtiments anciens et leurs histoires souterraines.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner dans Old Town",
+          "description": "Terminez dans la vieille ville par un pub ou une adresse de cuisine écossaise contemporaine.",
+          "type": "food"
+        }
+      ]
     },
+    {
+      "day": 2,
+      "title": "Holyrood, Arthur’s Seat et musées",
+      "description": "Une journée entre résidence royale, paysages volcaniques et culture écossaise.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Palace of Holyroodhouse",
+          "description": "Commencez par le palais situé au pied de la Royal Mile. Vérifiez les jours d’ouverture car les horaires peuvent varier selon la saison et les activités royales.",
+          "type": "visit"
+        },
+        {
+          "time": "11:30",
+          "title": "Ruines de l’abbaye de Holyrood",
+          "description": "Poursuivez dans l’enceinte du palais pour observer les vestiges de l’ancienne abbaye et les jardins lorsque ceux-ci sont accessibles.",
+          "type": "visit"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner à Holyrood ou Canongate",
+          "description": "Faites une pause avant la montée vers Holyrood Park. Prévoyez de l’eau si vous choisissez la randonnée.",
+          "type": "food"
+        },
+        {
+          "time": "14:00",
+          "title": "Holyrood Park",
+          "description": "Traversez le parc en direction d’Arthur’s Seat ou choisissez un circuit plus court autour de Salisbury Crags selon la météo.",
+          "type": "leisure"
+        },
+        {
+          "time": "15:30",
+          "title": "Arthur’s Seat",
+          "description": "Montez jusqu’au sommet si le terrain est sec et les conditions favorables. Le chemin peut être exposé au vent et glissant après la pluie.",
+          "type": "leisure"
+        },
+        {
+          "time": "17:30",
+          "title": "National Museum of Scotland",
+          "description": "Si vous préférez éviter la randonnée ou si la météo change, remplacez Arthur’s Seat par le musée. Ses collections permanentes sont gratuites et il est ouvert chaque jour de 10 h à 17 h.",
+          "type": "visit"
+        },
+        {
+          "time": "19:30",
+          "title": "Dîner autour de New Town",
+          "description": "Rejoignez New Town ou Broughton pour une soirée entre restaurants, bars et architecture géorgienne.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "New Town, Dean Village et panoramas",
+      "description": "Une dernière journée plus souple entre architecture géorgienne, rivière, quartiers vivants et points de vue.",
+      "steps": [
+        {
+          "time": "09:30",
+          "title": "Princes Street Gardens",
+          "description": "Commencez par les jardins au pied du château pour profiter d’une perspective différente sur Castle Rock et Old Town.",
+          "type": "leisure"
+        },
+        {
+          "time": "10:30",
+          "title": "New Town",
+          "description": "Parcourez George Street, Rose Street et les squares géorgiens de Charlotte Square et St Andrew Square.",
+          "type": "leisure"
+        },
+        {
+          "time": "12:00",
+          "title": "Déjeuner à Stockbridge",
+          "description": "Rejoignez Stockbridge à pied ou en bus pour une pause dans un quartier apprécié pour ses cafés, ses boutiques et ses restaurants.",
+          "type": "food"
+        },
+        {
+          "time": "13:30",
+          "title": "Dean Village",
+          "description": "Descendez vers le Water of Leith et marchez jusqu’à Dean Village, en restant sur les chemins publics et en respectant les zones résidentielles.",
+          "type": "leisure"
+        },
+        {
+          "time": "15:00",
+          "title": "Water of Leith",
+          "description": "Poursuivez la balade le long de la rivière ou revenez vers Stockbridge pour une pause dans un café.",
+          "type": "leisure"
+        },
+        {
+          "time": "16:30",
+          "title": "Calton Hill",
+          "description": "Rejoignez Calton Hill pour ses monuments néoclassiques et une vue dégagée sur Old Town, New Town et le Firth of Forth.",
+          "type": "leisure"
+        },
+        {
+          "time": "18:30",
+          "title": "Leith ou retour vers Old Town",
+          "description": "Choisissez Leith pour une atmosphère maritime et gastronomique, ou retournez dans Old Town pour une dernière promenade au coucher du soleil.",
+          "type": "leisure"
+        },
+        {
+          "time": "20:00",
+          "title": "Dernier dîner écossais",
+          "description": "Terminez par un dîner à Leith, Stockbridge ou New Town, puis profitez d’un dernier pub traditionnel.",
+          "type": "food"
+        }
+      ]
+    }
+  ],
+  "practical": [
     {
       "title": "Meilleure période",
       "icon": "fa-calendar",
-      "content": "Mai-juin et septembre offrent souvent un bon compromis entre durée du jour, températures et fréquentation. L’été est très vivant, notamment pendant les festivals d’août, mais l’hébergement devient plus cher et les réservations indispensables. La pluie et le vent restent possibles en toute saison."
+      "content": "La fin du printemps et le début de l’automne offrent souvent un bon équilibre entre lumière, températures et fréquentation. L’été permet de longues journées mais attire davantage de visiteurs, notamment pendant les festivals. L’automne et l’hiver sont plus changeants : prévoyez des vêtements imperméables et des chaussures adaptées."
     },
     {
-      "title": "Météo et relief",
-      "icon": "fa-cloud-rain",
-      "content": "Prévoyez plusieurs couches, une veste imperméable et des chaussures capables de supporter pavés, pluie et chemins boueux. Arthur’s Seat et les autres hauteurs sont à éviter ou à adapter en cas de vent fort, brouillard, pluie persistante ou visibilité réduite."
+      "title": "Se déplacer",
+      "icon": "fa-bus",
+      "content": "Le centre historique se visite principalement à pied. Les bus Lothian sont pratiques pour Holyrood, Stockbridge, Leith et Dean Village. En 2026, le ticket City DAY adulte coûte 6 £ et permet des trajets illimités sur les bus Lothian et les tramways en zone urbaine, hors liaison aéroport."
     },
     {
-      "title": "Réservations",
+      "title": "Réserver à l’avance",
       "icon": "fa-ticket",
-      "content": "Réservez à l’avance le château d’Édimbourg, le palais de Holyroodhouse, les visites guidées, les dégustations de whisky et, en période de festivals, les restaurants et l’hébergement."
+      "content": "Réservez le château d’Édimbourg à l’avance : une fois les billets en ligne épuisés, il peut ne plus y avoir de billets disponibles sur place. Prévoyez au moins deux heures pour la visite. Le palais de Holyroodhouse peut modifier ses jours d’ouverture selon la saison ou les obligations royales."
     },
     {
       "title": "À ne pas manquer",
       "icon": "fa-star",
-      "content": "Le château et le Royal Mile, un coucher de soleil à Calton Hill, une montée à Arthur’s Seat si la météo le permet, et une promenade hors du centre historique vers Dean Village, Stockbridge ou Leith."
+      "content": "Edinburgh Castle, la Royal Mile, Arthur’s Seat, le National Museum of Scotland, Calton Hill, Dean Village et une soirée dans un pub traditionnel ou à Leith."
     }
   ],
   "sections": [
     {
       "id": "quartiers",
-      "title": "Quartiers et promenades",
+      "title": "Quartiers à explorer",
       "icon": "fa-map-location-dot",
-      "content": "<p><strong>Old Town</strong> concentre château, Royal Mile, closes, Grassmarket et musées. Ses pavés, ruelles et pentes en font le cœur historique, mais demandent de bonnes chaussures.</p><p><strong>New Town</strong> se distingue par son urbanisme géorgien, ses grandes avenues, ses galeries et ses restaurants. <strong>Stockbridge et Dean Village</strong> proposent une ambiance plus résidentielle, agréable pour marcher le long de la Water of Leith.</p><p><strong>Leith</strong>, ancien port relié au centre par tram et bus, mêle docks, restaurants, bars et patrimoine maritime.</p>"
+      "content": "<p><strong>Old Town</strong> rassemble le château, la Royal Mile, les closes et les principaux témoignages de l’Édimbourg médiévale. <strong>New Town</strong> se distingue par son urbanisme géorgien, ses squares et ses adresses élégantes. <strong>Stockbridge</strong> offre une atmosphère de village avec cafés et boutiques. <strong>Leith</strong>, autour du port, propose une scène gastronomique et une ambiance plus contemporaine.</p>"
     },
     {
-      "id": "gastronomie",
-      "title": "Gastronomie et whisky",
-      "icon": "fa-utensils",
-      "content": "<p>La cuisine écossaise se découvre entre pubs, produits de la mer, viandes, soupes, pâtisseries et cuisines internationales. Goûtez le haggis si cela vous tente, mais ne réduisez pas Édimbourg à ce seul plat : la ville compte aussi de très bonnes adresses contemporaines et de quartier.</p><p>Pour le whisky, préférez une dégustation qui détaille les régions, le vieillissement et les profils aromatiques. Il est utile de réserver les expériences les plus connues et de consommer avec modération.</p>"
+      "id": "histoire",
+      "title": "Châteaux et histoire",
+      "icon": "fa-landmark",
+      "content": "<p>Le château d’Édimbourg domine la ville depuis Castle Rock et constitue la visite historique principale. La Royal Mile relie symboliquement la forteresse au palais de Holyroodhouse, mais elle ne se résume pas à une seule rue : ses closes, cours et églises racontent l’évolution de la ville. Le palais de Holyroodhouse reste une résidence royale en activité, ce qui peut entraîner des changements de calendrier.</p>"
     },
     {
-      "id": "culture",
-      "title": "Culture et festivals",
-      "icon": "fa-palette",
-      "content": "<p>Édimbourg se distingue par ses musées, ses lieux littéraires, son patrimoine royal et son calendrier de festivals. Le <strong>National Museum of Scotland</strong>, les galeries nationales, les visites de la vieille ville et les spectacles peuvent compléter les grands monuments.</p><p>En août, la ville accueille notamment le Fringe et d’autres festivals majeurs. L’ambiance est exceptionnelle, mais l’affluence et les prix d’hébergement sont élevés : réservez très longtemps à l’avance et gardez du temps libre entre deux spectacles.</p>"
+      "id": "randonnee",
+      "title": "Marcher dans les reliefs",
+      "icon": "fa-mountain-sun",
+      "content": "<p><strong>Arthur’s Seat</strong> et Holyrood Park donnent à Édimbourg son caractère spectaculaire. Le parc est libre d’accès et ouvert toute l’année, mais les chemins peuvent devenir boueux, glissants ou exposés au vent. Si la météo est mauvaise, remplacez la montée par le National Museum of Scotland, Calton Hill ou une promenade dans New Town.</p>"
     },
     {
-      "id": "autour",
-      "title": "Autour d’Édimbourg",
-      "icon": "fa-compass",
-      "content": "<p>Pour une quatrième journée, envisagez <strong>South Queensferry</strong> et les ponts du Forth, <strong>North Berwick</strong> sur la côte, ou <strong>Rosslyn Chapel</strong>. Ces excursions sont réalisables en transports publics, mais demandez une vérification des horaires et du dernier retour avant de partir.</p>"
+      "id": "meteo",
+      "title": "Prévoir la météo",
+      "icon": "fa-cloud-rain",
+      "content": "<p>Le temps peut changer rapidement. Emportez une veste imperméable, plusieurs couches et des chaussures offrant une bonne adhérence. Gardez toujours une alternative intérieure : le National Museum of Scotland, les galeries de New Town, les cafés ou les pubs permettent d’adapter facilement le programme.</p>"
     }
   ],
   "photo_spots": [
     {
-      "name": "Calton Hill",
-      "description": "Panorama majeur sur les toits de la vieille ville, le château, Arthur’s Seat et le Firth of Forth, avec les monuments néoclassiques de la colline au premier plan.",
-      "type": "viewpoint",
-      "km_from_paris": 873,
-      "lat": 55.9550,
-      "lon": -3.1822,
-      "best_side": "sunset"
-    },
-    {
-      "name": "Victoria Street",
-      "description": "Rue courbe aux façades colorées, dominant Grassmarket, idéale pour des compositions urbaines avec pavés, vitrines et perspective de vieille ville.",
-      "type": "street",
-      "km_from_paris": 873,
-      "lat": 55.9488,
-      "lon": -3.1942,
+      "name": "Edinburgh Castle",
+      "description": "Forteresse posée sur Castle Rock, avec vue sur Old Town, Princes Street et les quartiers du nord.",
+      "type": "castle",
+      "km_from_paris": 930,
+      "lat": 55.9486,
+      "lon": -3.1999,
       "best_side": "morning"
     },
     {
-      "name": "The Vennel Steps",
-      "description": "Escalier et passage offrant un cadrage classique sur le château d’Édimbourg, particulièrement atmosphérique lorsque les lumières s’allument.",
+      "name": "Calton Hill",
+      "description": "Colline centrale avec monuments néoclassiques et panorama sur les toits, le château et le Firth of Forth.",
       "type": "viewpoint",
-      "km_from_paris": 873,
-      "lat": 55.9471,
-      "lon": -3.1981,
+      "km_from_paris": 930,
+      "lat": 55.9553,
+      "lon": -3.1823,
       "best_side": "sunset"
-    },
-    {
-      "name": "Princes Street Gardens",
-      "description": "Jardins au pied de la vieille ville, avec vues dégagées vers le château perché sur son rocher volcanique.",
-      "type": "garden",
-      "km_from_paris": 873,
-      "lat": 55.9503,
-      "lon": -3.2024,
-      "best_side": "afternoon"
     },
     {
       "name": "Arthur’s Seat",
-      "description": "Sommet volcanique offrant une vue très large sur le centre d’Édimbourg, Calton Hill, les collines et l’estuaire du Forth. À photographier uniquement par météo sûre.",
-      "type": "viewpoint",
-      "km_from_paris": 873,
-      "lat": 55.9445,
+      "description": "Sommet volcanique de Holyrood Park offrant une vue étendue sur Édimbourg et les paysages côtiers.",
+      "type": "mountain",
+      "km_from_paris": 930,
+      "lat": 55.9442,
       "lon": -3.1618,
-      "best_side": "sunset"
-    },
-    {
-      "name": "Dean Village",
-      "description": "Ancien village de meuniers le long de la Water of Leith, avec maisons de pierre, rivière, végétation et ambiance plus calme que le centre historique.",
-      "type": "waterfront",
-      "km_from_paris": 873,
-      "lat": 55.9511,
-      "lon": -3.2105,
       "best_side": "morning"
     },
     {
-      "name": "Circus Lane",
-      "description": "Rue pavée de la New Town bordée de maisons géorgiennes et de façades fleuries, particulièrement adaptée aux images d’architecture et d’ambiance.",
-      "type": "street",
-      "km_from_paris": 873,
-      "lat": 55.9587,
-      "lon": -3.2033,
-      "best_side": "morning"
-    },
-    {
-      "name": "Cockburn Street",
-      "description": "Rue en pente reliant le Royal Mile à Waverley, avec perspective de façades anciennes, commerces indépendants et atmosphère dense de vieille ville.",
-      "type": "street",
-      "km_from_paris": 873,
-      "lat": 55.9502,
-      "lon": -3.1901,
-      "best_side": "afternoon"
-    },
-    {
-      "name": "Scott Monument",
-      "description": "Monument gothique sombre dans Princes Street Gardens ; son sommet offre, lorsqu’il est accessible, une perspective élevée sur la ville et ses toits.",
-      "type": "landmark",
-      "km_from_paris": 873,
-      "lat": 55.9524,
-      "lon": -3.1933,
-      "best_side": "afternoon"
-    }
+  "name": "Dean Village",
+  "description": "Ancien village de meuniers installé le long du Water of Leith, avec maisons de pierre et ponts pittoresques.",
+  "type": "village",
+  "km_from_paris": 930,
+  "lat": 55.9525,
+  "lon": -3.2244,
+  "best_side": "afternoon"
+}
   ]
 }
