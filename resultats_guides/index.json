@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "built_at": "2026-09-21T21:55:25.259102",
+  "built_at": "2026-10-05T14:35:36.054471",
   "guides": [
     {
       "slug": "berlin",
@@ -91,7 +91,7 @@
       "name": "Édimbourg",
       "country": "Royaume-Uni",
       "path": "Royaume-Uni\\Edimbourgh.json",
-      "featured": true
+      "featured": false
     },
     {
       "slug": "prague",
