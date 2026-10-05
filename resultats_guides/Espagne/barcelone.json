@@ -5,10 +5,10 @@
   "country_code": "ES",
   "image": "/assets/guides/barcelone-cover.webp",
   "hero_image": "/assets/guides/barcelone-hero.webp",
-  "description": "Capitale catalane vibrante. Gaudi, plages et tapas accessible en TGV.",
+  "description": "Capitale catalane vibrante. Gaudí, plages et tapas, accessible en TGV.",
   "reading_time": 20,
   "featured": false,
-  "featured_title": "Barcelone : 2 jours entre Gaudi et Mediterranee",
+  "featured_title": "Barcelone : 2 jours entre Gaudí et Méditerranée",
   "featured_subtitle": "La capitale catalane accessible en TGV direct depuis Paris. Architecture moderniste, plages et tapas.",
   "tags": [
     "TGV",
@@ -32,7 +32,7 @@
       "value": "TGV / AVE"
     }
   ],
-  "introduction": "Le TGV franchit les Pyrenees et longe la Mediterranee avant d'entrer dans Barcelone. Depuis le quai de Sants, la ville catalane s'offre a vous : les fleches de la Sagrada Familia percent le ciel, les Ramblas grouillent de vie, et la plage de Barceloneta scintille sous le soleil. Ici, Gaudi a reinvente l'architecture, les tapas se degustent debout au comptoir, et la nuit ne s'arrete jamais vraiment. Barcelone vibre d'une energie mediterraneenne unique.",
+  "introduction": "Le TGV franchit les Pyrénées et longe la Méditerranée avant d'entrer dans Barcelone. Depuis le quai de Sants, la ville catalane s'offre à vous : les flèches de la Sagrada Família percent le ciel, les Ramblas grouillent de vie, et la plage de Barceloneta scintille sous le soleil. Ici, Gaudí a réinventé l'architecture, les tapas se dégustent debout au comptoir, et la nuit ne s'arrête jamais vraiment. Barcelone vibre d'une énergie méditerranéenne unique.",
   "essentials": {
     "to_see": [
       {
@@ -213,17 +213,17 @@
     {
       "title": "Meilleure periode",
       "icon": "fa-calendar",
-      "content": "Avril-juin et septembre-octobre. Ete tres chaud et touristique. Attention aux pickpockets sur les Ramblas."
+      "content": "Avril-juin et septembre-octobre. Été très chaud et touristique. Attention aux pickpockets sur les Ramblas."
     },
     {
       "title": "Se deplacer",
       "icon": "fa-bus",
-      "content": "Metro efficace. T-casual 10 trajets valable metro/bus/tram. Centre facilement accessible a pied."
+      "content": "Métro efficace. T-casual 10 trajets valable métro/bus/tram. Centre facilement accessible à pied."
     },
     {
-      "title": "A ne pas manquer",
+      "title": "À ne pas manquer",
       "icon": "fa-star",
-      "content": "Reserver Sagrada Familia a l'avance. Tapas debout au comptoir. Coucher de soleil depuis les Bunkers del Carmel."
+      "content": "Réserver la Sagrada Família à l'avance. Tapas debout au comptoir. Coucher de soleil depuis les Bunkers del Carmel."
     }
   ],
   "sections": [

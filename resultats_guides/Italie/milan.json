@@ -9,7 +9,7 @@
   "reading_time": 20,
   "featured": false,
   "featured_title": "Milan : Design, mode et aperitivo",
-  "featured_subtitle": "A 7h de Paris, la capitale lombarde melange elegance, art et dolce vita.",
+  "featured_subtitle": "À 7h de Paris, la capitale lombarde mélange élégance, art et dolce vita.",
   "tags": [
     "TGV",
     "Design",
@@ -32,7 +32,7 @@
       "value": "TGV / Frecciarossa"
     }
   ],
-  "introduction": "Le train traverse les Alpes et la plaine du Po avant d'entrer dans Milano Centrale, cathedrale ferroviaire Art deco. Milan n'est pas une ville-musee : c'est une metropole vibrante ou mode et design dictent les tendances mondiales. Ici, le Duomo de marbre blanc defie le ciel, la Cene de Leonard se contemple en silence, et l'aperitivo sur les Navigli inaugure des soirees italiennes memorables. Entre Via Montenapoleone et Brera, Milan cultive une elegance discrete.",
+  "introduction": "Le train traverse les Alpes et la plaine du Pô avant d'entrer dans Milano Centrale, cathédrale ferroviaire Art déco. Milan n'est pas une ville-musée : c'est une métropole vibrante où mode et design dictent les tendances mondiales. Ici, le Duomo de marbre blanc défie le ciel, la Cène de Léonard se contemple en silence, et l'aperitivo sur les Navigli inaugure des soirées italiennes mémorables. Entre Via Montenapoleone et Brera, Milan cultive une élégance discrète.",
   "essentials": {
     "to_see": [
       {
@@ -207,17 +207,17 @@
     {
       "title": "Meilleure periode",
       "icon": "fa-calendar",
-      "content": "Avril-juin et septembre-octobre. Fashion Week en fevrier et septembre. Ete chaud et deserte en aout."
+      "content": "Avril-juin et septembre-octobre. Fashion Week en février et septembre. Été chaud et ville désertée en août."
     },
     {
       "title": "Se deplacer",
       "icon": "fa-bus",
-      "content": "Metro M1/M3 couvrent l'essentiel. Tramways historiques. Centre compact a pied."
+      "content": "Les lignes de métro M1 et M3 couvrent l'essentiel. Tramways historiques. Centre compact à pied."
     },
     {
-      "title": "A ne pas manquer",
+      "title": "À ne pas manquer",
       "icon": "fa-star",
-      "content": "Reserver la Cene des mois a l'avance. Aperitivo sur les Navigli. Les terrasses du Duomo."
+      "content": "Réserver la Cène des mois à l'avance. Aperitivo sur les Navigli. Les terrasses du Duomo."
     }
   ],
   "sections": [

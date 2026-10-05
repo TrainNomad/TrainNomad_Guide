@@ -5,11 +5,11 @@
   "country_code": "NL",
   "image": "/assets/guides/amsterdam-cover.webp",
   "hero_image": "/assets/guides/amsterdam-hero.webp",
-  "description": "Ville des canaux, musees et velos. Hub creatif au coeur de l'Europe.",
+  "description": "Ville des canaux, musées et vélos. Hub créatif au cœur de l'Europe.",
   "reading_time": 20,
   "featured": false,
   "featured_title": "Amsterdam : Canaux et culture en 2 jours",
-  "featured_subtitle": "A 3h20 de Paris en Eurostar, la Venise du Nord devoile ses musees, canaux et cafes bruns.",
+  "featured_subtitle": "À 3h20 de Paris en Eurostar, la Venise du Nord dévoile ses musées, canaux et cafés bruns.",
   "tags": [
     "Eurostar",
     "Velo",
@@ -32,7 +32,7 @@
       "value": "Eurostar"
     }
   ],
-  "introduction": "L'Eurostar traverse la Belgique et les polders neerlandais avant d'entrer dans Amsterdam Centraal. Depuis cette gare monumentale, la ville s'ouvre comme un tableau de maitre : canaux bordes de maisons etroites, ponts arrondis, et velos partout. Ici, Rembrandt a peint la Ronde de Nuit, Van Gogh a trouve son style, et les cafes bruns perpetuent une ambiance seculaire. Amsterdam vibre d'une tolerance legendaire et d'une creativite debordante.",
+  "introduction": "L'Eurostar traverse la Belgique et les polders néerlandais avant d'entrer dans Amsterdam Centraal. Depuis cette gare monumentale, la ville s'ouvre comme un tableau de maître : canaux bordés de maisons étroites, ponts arrondis, et vélos partout. Ici, Rembrandt a peint la Ronde de Nuit, Van Gogh a trouvé son style, et les cafés bruns perpétuent une ambiance séculaire. Amsterdam vibre d'une tolérance légendaire et d'une créativité débordante.",
   "essentials": {
     "to_see": [
       {
@@ -207,17 +207,17 @@
     {
       "title": "Meilleure periode",
       "icon": "fa-calendar",
-      "content": "Avril-mai pour les tulipes et le Jour du Roi (27 avril). Ete agreable mais touristique. Hiver doux."
+      "content": "Avril-mai pour les tulipes et le Jour du Roi (27 avril). Été agréable mais touristique. Hiver doux."
     },
     {
       "title": "Se deplacer",
       "icon": "fa-bus",
-      "content": "Louer un velo des l'arrivee. Sinon tramway efficace. OV-chipkaart pour les transports."
+      "content": "Louer un vélo dès l'arrivée. Sinon tramway efficace. OV-chipkaart pour les transports."
     },
     {
-      "title": "A ne pas manquer",
+      "title": "À ne pas manquer",
       "icon": "fa-star",
-      "content": "Reserver Anne Frank a l'avance. Un cafe brun authentique. Croisiere au coucher du soleil."
+      "content": "Réserver la Maison Anne Frank à l'avance. Un café brun authentique. Croisière au coucher du soleil."
     }
   ],
   "sections": [
@@ -243,7 +243,7 @@
   "photo_spots": [
     {
       "name": "Canal Ring",
-      "description": "Les canaux concentriques de Amsterdam avec maisons historiques et ponts pittoresques",
+      "description": "Les canaux concentriques d'Amsterdam avec maisons historiques et ponts pittoresques",
       "type": "waterway",
       "km_from_paris": 500,
       "lat": 52.3702,
@@ -252,7 +252,7 @@
     },
     {
       "name": "Anne Frank House",
-      "description": "Maison historique cachette d'Anne Frank pendant la Seconde Guerre mondiale",
+      "description": "Maison historique où Anne Frank s'est cachée pendant la Seconde Guerre mondiale",
       "type": "museum",
       "km_from_paris": 500,
       "lat": 52.3752,

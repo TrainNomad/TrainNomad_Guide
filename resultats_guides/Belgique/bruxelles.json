@@ -5,11 +5,11 @@
   "country_code": "BE",
   "image": "/assets/guides/bruxelles-cover.webp",
   "hero_image": "/assets/guides/bruxelles-hero.webp",
-  "description": "Capitale de l'Europe. Gaufres, bandes dessinees et Grand-Place.",
+  "description": "Capitale de l'Europe. Gaufres, bandes dessinées et Grand-Place.",
   "reading_time": 18,
   "featured": false,
   "featured_title": "Bruxelles : Art nouveau et gourmandise",
-  "featured_subtitle": "A 1h22 de Paris, la capitale belge melange patrimoine UNESCO, BD et chocolat.",
+  "featured_subtitle": "À 1h22 de Paris, la capitale belge mélange patrimoine UNESCO, BD et chocolat.",
   "tags": [
     "Eurostar",
     "Art Nouveau",
@@ -207,17 +207,17 @@
     {
       "title": "Meilleure periode",
       "icon": "fa-calendar",
-      "content": "Avril-juin et septembre-octobre. Marche de Noel feerique en decembre."
+      "content": "Avril-juin et septembre-octobre. Marché de Noël féerique en décembre."
     },
     {
       "title": "Se deplacer",
       "icon": "fa-bus",
-      "content": "Centre compact a pied. Metro/tram efficace. Ticket STIB 24h pratique."
+      "content": "Centre compact à pied. Métro/tram efficace. Ticket STIB 24h pratique."
     },
     {
-      "title": "A ne pas manquer",
+      "title": "À ne pas manquer",
       "icon": "fa-star",
-      "content": "Grand-Place illuminee le soir. Une biere trappiste authentique. Le chocolat Pierre Marcolini."
+      "content": "Grand-Place illuminée le soir. Une bière trappiste authentique. Le chocolat Pierre Marcolini."
     }
   ],
   "sections": [

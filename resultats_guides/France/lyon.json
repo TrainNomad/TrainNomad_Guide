@@ -5,11 +5,11 @@
   "country_code": "FR",
   "image": "/assets/guides/lyon-cover.webp",
   "hero_image": "/assets/guides/lyon-hero.webp",
-  "description": "Capitale gastronomique, entre Rhone et Saone. Bouchons, traboules et tech.",
+  "description": "Capitale gastronomique, entre Rhône et Saône. Bouchons, traboules et tech.",
   "reading_time": 20,
   "featured": false,
   "featured_title": "Lyon : Gastronomie et patrimoine en 2 jours",
-  "featured_subtitle": "A 2h de Paris, la capitale des Gaules devoile ses bouchons, ses traboules et sa presqu'ile.",
+  "featured_subtitle": "À 2h de Paris, la capitale des Gaules dévoile ses bouchons, ses traboules et sa presqu'île.",
   "tags": [
     "TGV",
     "Gastronomie",
@@ -32,7 +32,7 @@
       "value": "TGV"
     }
   ],
-  "introduction": "Le TGV file a travers la Bourgogne et la vallee du Rhone avant d'entrer dans Lyon Part-Dieu. Entre Rhone et Saone, la capitale des Gaules deploie ses tresors : ruelles de la Renaissance dans le Vieux Lyon, traboules secretes, et bien sur, ces fameux bouchons ou la gastronomie devient art de vivre. De Fourviere a la Confluence, Lyon melange deux mille ans d'histoire a une modernite creative. Ici, Paul Bocuse a invente la nouvelle cuisine, et les lumieres de decembre illuminent la ville entiere.",
+  "introduction": "Le TGV file à travers la Bourgogne et la vallée du Rhône avant d'entrer dans Lyon Part-Dieu. Entre Rhône et Saône, la capitale des Gaules déploie ses trésors : ruelles de la Renaissance dans le Vieux Lyon, traboules secrètes, et bien sûr, ces fameux bouchons où la gastronomie devient art de vivre. De Fourvière à la Confluence, Lyon mélange deux mille ans d'histoire à une modernité créative. Ici, Paul Bocuse a inventé la nouvelle cuisine, et les lumières de décembre illuminent la ville entière.",
   "essentials": {
     "to_see": [
       {
@@ -219,17 +219,17 @@
     {
       "title": "Meilleure periode",
       "icon": "fa-calendar",
-      "content": "Printemps et automne. Fete des Lumieres en decembre (8 dec), incontournable mais tres frequentee."
+      "content": "Printemps et automne. Fête des Lumières en décembre (8 déc.), incontournable mais très fréquentée."
     },
     {
       "title": "Se deplacer",
       "icon": "fa-bus",
-      "content": "Metro efficace. Funiculaire pour Fourviere. Centre compact a pied. Velo'v pratique."
+      "content": "Métro efficace. Funiculaire pour Fourvière. Centre compact à pied. Vélo'v pratique."
     },
     {
-      "title": "A ne pas manquer",
+      "title": "À ne pas manquer",
       "icon": "fa-star",
-      "content": "Un vrai bouchon (eviter les pieges a touristes). Les traboules du Vieux Lyon. Vue depuis Fourviere au coucher du soleil."
+      "content": "Un vrai bouchon (éviter les pièges à touristes). Les traboules du Vieux Lyon. Vue depuis Fourvière au coucher du soleil."
     }
   ],
   "sections": [

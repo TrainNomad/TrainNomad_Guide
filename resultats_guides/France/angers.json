@@ -8,8 +8,8 @@
   "description": "Capitale de l'Anjou, ville d'art et d'histoire au bord de la Maine.",
   "reading_time": 18,
   "featured": false,
-  "featured_title": "Angers : L'Anjou en une journee",
-  "featured_subtitle": "A 1h30 de Paris, decouvrez le chateau medieval, les vignobles et la douceur angevine.",
+  "featured_title": "Angers : L'Anjou en une journée",
+  "featured_subtitle": "À 1h30 de Paris, découvrez le château médiéval, les vignobles et la douceur angevine.",
   "tags": [
     "TGV",
     "Patrimoine",
@@ -32,7 +32,7 @@
       "value": "TGV Atlantique"
     }
   ],
-  "introduction": "A moins de deux heures de Paris, Angers devoile ses tresors avec une elegance discrete. Le TGV glisse le long de la Loire avant de s'arreter dans cette ville ou l'ardoise des toits contraste avec le tuffeau blanc des facades. Ici, le plus grand chateau medieval de France veille sur la Tapisserie de l'Apocalypse, chef-d'oeuvre du XIVe siecle. Les quais de la Maine invitent a la flanerie, les ruelles du centre historique regorgent de boutiques d'artisans, et les vignobles de l'Anjou ne sont qu'a quelques kilometres. Bienvenue dans la douceur angevine.",
+  "introduction": "À moins de deux heures de Paris, Angers dévoile ses trésors avec une élégance discrète. Le TGV glisse le long de la Loire avant de s'arrêter dans cette ville où l'ardoise des toits contraste avec le tuffeau blanc des façades. Ici, le plus grand château médiéval de France veille sur la Tapisserie de l'Apocalypse, chef-d'œuvre du XIVe siècle. Les quais de la Maine invitent à la flânerie, les ruelles du centre historique regorgent de boutiques d'artisans, et les vignobles de l'Anjou ne sont qu'à quelques kilomètres. Bienvenue dans la douceur angevine.",
   "essentials": {
     "to_see": [
       {
@@ -203,17 +203,17 @@
     {
       "title": "Meilleure periode",
       "icon": "fa-calendar",
-      "content": "Avril-juin et septembre-octobre. Printemps ideal pour les jardins et vignobles en fleur."
+      "content": "Avril-juin et septembre-octobre. Printemps idéal pour les jardins et vignobles en fleur."
     },
     {
       "title": "Se deplacer",
       "icon": "fa-bus",
-      "content": "Centre compact et pietonnise. Tramway ligne A pour Terra Botanica. Velos en libre-service Velo+."
+      "content": "Centre compact et piétonnisé. Tramway ligne A pour Terra Botanica. Vélos en libre-service Vélo+."
     },
     {
-      "title": "A ne pas manquer",
+      "title": "À ne pas manquer",
       "icon": "fa-star",
-      "content": "La Tapisserie de l'Apocalypse au chateau. Un verre de Coteaux du Layon en terrasse. Les quais au coucher du soleil."
+      "content": "La Tapisserie de l'Apocalypse au château. Un verre de Coteaux du Layon en terrasse. Les quais au coucher du soleil."
     }
   ],
   "sections": [
