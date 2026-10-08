@@ -1,0 +1,317 @@
+{
+  "slug": "porto",
+  "name": "Porto",
+  "country": "Portugal",
+  "country_code": "PT",
+  "image": "/assets/guides/porto-cover.webp",
+  "hero_image": "/assets/guides/porto-hero.webp",
+  "description": "La ville du vin de Porto, des azulejos et du Douro. Un week-end de 3 jours au bout du rail, entre Ribeira, caves de Gaia et tram historique.",
+  "reading_time": 6,
+  "featured": false,
+  "featured_title": "Porto : 3 jours au fil du Douro",
+  "featured_subtitle": "Capitale du Nord portugais, accessible en train avec correspondances depuis Paris. Quais colorés, vin de Porto et lumière dorée sur le fleuve.",
+  "tags": [
+    "Portugal",
+    "Train",
+    "Vin",
+    "Culture",
+    "Gastronomie"
+  ],
+  "quick_facts": [
+    {
+      "icon": "fa-clock",
+      "label": "Accès depuis Paris",
+      "value": "En train avec correspondances, environ 22–32 h selon l’itinéraire"
+    },
+    {
+      "icon": "fa-route",
+      "label": "Distance",
+      "value": "Environ 1 200 km par le rail"
+    },
+    {
+      "icon": "fa-train",
+      "label": "Gares principales",
+      "value": "Porto Campanhã (longue distance) et São Bento (centre & Douro)"
+    }
+  ],
+  "introduction": "Le train ralentit en longeant le Douro, et déjà les façades ocres de Porto apparaissent, serrées les unes contre les autres jusqu’au fleuve. Vous avez rejoint le nord du Portugal par le rail, en traversant la France et l’Espagne avec quelques correspondances, avant de poser vos valises sur les quais de Porto Campanhã. En sortant de la gare, l’air sent le fleuve, le vin et le granit chauffé par le soleil. Bienvenue à Porto, terminus romantique d’un voyage ferroviaire où chaque rue semble une invitation à s’attarder.",
+  "essentials": {
+    "to_see": [
+      {
+        "name": "Sé do Porto",
+        "description": "Cathédrale romane dominant la ville, vue panoramique sur le Douro"
+      },
+      {
+        "name": "Palácio da Bolsa",
+        "description": "Palais néoclassique et somptueux Salon Arabe"
+      },
+      {
+        "name": "Livraria Lello",
+        "description": "Librairie Art nouveau aux escaliers iconiques"
+      },
+      {
+        "name": "Torre dos Clérigos",
+        "description": "Tour baroque offrant une vue à 360° sur Porto"
+      },
+      {
+        "name": "Caves de Vila Nova de Gaia",
+        "description": "Chais historiques pour déguster le vin de Porto"
+      }
+    ],
+    "experiences": [
+      {
+        "name": "Croisière des 6 ponts",
+        "description": "Balade en bateau rabelo sur le Douro, 50 minutes"
+      },
+      {
+        "name": "Tram historique ligne 1",
+        "description": "De la Ribeira à Foz do Douro, le long du fleuve et de l’océan"
+      },
+      {
+        "name": "Dégustation de vin de Porto",
+        "description": "Dans les caves de Gaia, face à la vieille ville"
+      }
+    ],
+    "mobility": [
+      {
+        "name": "Métro",
+        "description": "6 lignes reliant Campanhã, São Bento, Boavista et Foz"
+      },
+      {
+        "name": "Tramways",
+        "description": "Lignes historiques 1, 18 et 22 pour relier le centre à Foz"
+      },
+      {
+        "name": "Bus & funiculaire",
+        "description": "Réseau STCP pour gravir les collines et atteindre les quartiers hauts"
+      }
+    ]
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Ribeira, Douro et Gaia",
+      "description": "Première immersion dans le cœur historique de Porto",
+      "steps": [
+        {
+          "time": "08:00",
+          "title": "Arrivée à Porto Campanhã",
+          "description": "Descendez du train et prenez le métro ligne B ou un train régional (4 min) jusqu’à São Bento. La gare elle-même, ornée d’azulejos, vaut le détour.",
+          "type": "transport"
+        },
+        {
+          "time": "09:30",
+          "title": "Déambulation dans la Ribeira",
+          "description": "Depuis São Bento, descendez à pied vers les quais du Douro. Ruelles pavées, façades colorées, linge aux fenêtres : c’est ici que Porto se révèle dans toute sa splendeur.",
+          "type": "visit"
+        },
+        {
+          "time": "11:00",
+          "title": "Sé do Porto",
+          "description": "Visitez la cathédrale romane du XIIe siècle. Le cloître et le parvis offrent l’une des plus belles vues sur le fleuve et les toits de tuiles ocres.",
+          "type": "visit"
+        },
+        {
+          "time": "12:30",
+          "title": "Déjeuner à la Ribeira",
+          "description": "Installez-vous en terrasse face au Douro. Goûtez à la francesinha (spécialité locale) ou à un prato do dia (plat du jour) dans une tasca traditionnelle.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Palácio da Bolsa",
+          "description": "Visitez ce palais néoclassique du XIXe siècle. Ne manquez pas le Salon Arabe, décoré dans un style mauresque époustouflant.",
+          "type": "visit"
+        },
+        {
+          "time": "16:00",
+          "title": "Croisière des 6 ponts",
+          "description": "Embarquez pour 50 minutes sur un bateau rabelo. Vous passerez sous les ponts emblématiques, dont le Dom Luís I, et admirerez Porto depuis le fleuve.",
+          "type": "leisure"
+        },
+        {
+          "time": "17:30",
+          "title": "Caves de Vila Nova de Gaia",
+          "description": "Traversez le pont Dom Luís I à pied (niveau supérieur) pour rejoindre Gaia. Visitez une cave (Taylor’s, Sandeman, Cálem) et dégustez un vin de Porto au coucher du soleil.",
+          "type": "visit"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner à Gaia ou retour à Ribeira",
+          "description": "Dînez face à Porto illuminée. Fruits de mer grillés, morue ou cuisine traditionnelle dans un restaurant avec vue sur le fleuve.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Azulejos, Clérigos et tram vers l’océan",
+      "description": "Entre patrimoine, art et bord de mer",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Gare de São Bento",
+          "description": "Admirez les 20 000 azulejos racontant l’histoire du Portugal dans le hall de la gare. Un chef-d’œuvre de Jorge Colaço.",
+          "type": "visit"
+        },
+        {
+          "time": "10:00",
+          "title": "Livraria Lello",
+          "description": "Plongez dans cette librairie Art nouveau aux boiseries sculptées et à l’escalier en colimaçon. Réservez à l’avance pour éviter la file.",
+          "type": "visit"
+        },
+        {
+          "time": "11:30",
+          "title": "Torre dos Clérigos",
+          "description": "Montez les 225 marches de cette tour baroque du XVIIIe siècle. La vue sur Porto, le Douro et l’océan récompense l’effort.",
+          "type": "visit"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner au quartier des Clérigos",
+          "description": "Petites adresses autour de la tour : cuisine portugaise moderne, tapas ou sandwichs gourmets.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Tram ligne 1 vers Foz",
+          "description": "Depuis l’Infante ou Ribeira, prenez le tram historique qui longe le Douro jusqu’à Foz do Douro. Vues sur le fleuve, les villas bourgeoises et l’océan.",
+          "type": "transport"
+        },
+        {
+          "time": "15:30",
+          "title": "Foz do Douro et front de mer",
+          "description": "Promenez-vous le long de l’embouchure du Douro. Phare de Felgueiras, digue de protection, cafés en bord de mer : l’atmosphère change, plus détendue.",
+          "type": "leisure"
+        },
+        {
+          "time": "17:00",
+          "title": "Serralves ou Casa da Música",
+          "description": "Selon vos envies : le parc et le musée de Serralves (art contemporain) ou la Casa da Música, salle de concert à l’architecture audacieuse.",
+          "type": "visit"
+        },
+        {
+          "time": "20:00",
+          "title": "Dîner à Boavista ou retour au centre",
+          "description": "Boavista propose une scène culinaire variée, du traditionnel au gastronomique. Sinon, retour vers le centre pour une soirée dans les bars de la rue Galeria de Paris.",
+          "type": "food"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Mercado do Bolhão, azulejos et départ",
+      "description": "Dernières découvertes avant de reprendre le train",
+      "steps": [
+        {
+          "time": "09:00",
+          "title": "Mercado do Bolhão",
+          "description": "Ce marché historique rénové est le cœur vivant de Porto. Fruits, légumes, poissons, fleurs et petites échoppes : une immersion sensorielle.",
+          "type": "visit"
+        },
+        {
+          "time": "10:30",
+          "title": "Igreja do Carmo & Capela das Almas",
+          "description": "Admirez ces églises recouvertes d’azulejos bleus et blancs. La façade du Carmo est l’une des plus photographiées de Porto.",
+          "type": "visit"
+        },
+        {
+          "time": "11:30",
+          "title": "Quartier de Cedofeita ou Bonfim",
+          "description": "Flânez dans ces quartiers populaires en pleine revitalisation. Street art, cafés branchés, boutiques indépendantes : le Porto contemporain.",
+          "type": "leisure"
+        },
+        {
+          "time": "13:00",
+          "title": "Déjeuner au Bolhão ou à Cedofeita",
+          "description": "Dernier repas portugais : poisson grillé, riz de canard ou simplement une bonne bifana (sandwich au porc mariné) dans une adresse locale.",
+          "type": "food"
+        },
+        {
+          "time": "14:30",
+          "title": "Dernière balade ou shopping",
+          "description": "Profitez des dernières heures pour acheter du vin de Porto, des conserves de poisson ou des céramiques. Ou remontez vers un miradouro pour une dernière vue.",
+          "type": "leisure"
+        },
+        {
+          "time": "16:00",
+          "title": "Retour vers Campanhã ou São Bento",
+          "description": "Récupérez vos bagages et dirigez-vous vers votre gare de départ. Vérifiez bien si votre train part de Campanhã (longue distance) ou São Bento (régional/Douro).",
+          "type": "transport"
+        }
+      ]
+    }
+  ],
+  "practical": [
+    {
+      "title": "Meilleure période",
+      "icon": "fa-calendar",
+      "content": "Avril-juin et septembre-octobre. Été chaud et touristique, surtout en juillet-août. Hiver doux mais parfois pluvieux."
+    },
+    {
+      "title": "Se déplacer",
+      "icon": "fa-bus",
+      "content": "Andante Tour (24/48/72h) : voyages illimités en métro, bus et tram dans le centre. Sinon, carte Andante rechargeable à l’unité."
+    },
+    {
+      "title": "À ne pas manquer",
+      "icon": "fa-star",
+      "content": "Le coucher de soleil depuis les caves de Gaia. La croisière des 6 ponts en fin de journée. Le tram ligne 1 vers Foz en après-midi."
+    }
+  ],
+  "sections": [
+    {
+      "id": "gares",
+      "title": "Les gares de Porto",
+      "icon": "fa-train",
+      "content": "<p><strong>Porto Campanhã</strong> est la principale gare longue distance, desservie par les trains en provenance de Lisbonne, du nord du Portugal et de l’Espagne. Elle est reliée au centre par le métro (ligne B, C ou E) et par des trains régionaux vers São Bento (4 min).</p><p><strong>São Bento</strong> est une gare historique au cœur du centre, célèbre pour ses azulejos. Elle dessert principalement les trains régionaux et la ligne du Douro (Pinhão, Pocinho). Pour les voyages longue distance, vérifiez toujours si votre train arrive ou part de Campanhã.</p>"
+    },
+    {
+      "id": "quartiers",
+      "title": "Quartiers à explorer",
+      "icon": "fa-map-location-dot",
+      "content": "<p><strong>Ribeira</strong> : le quartier historique au bord du Douro, classé à l’UNESCO. Ruelles médiévales, maisons colorées aux façades d’azulejos, bars et restaurants en terrasse. Le cœur touristique et pittoresque de Porto.</p><p><strong>Baixa / centre historique</strong> : autour de la Sé, des Clérigos et de la Livraria Lello. Rues commerçantes élégantes, monuments majeurs et ambiance animée.</p><p><strong>Vila Nova de Gaia</strong> : sur la rive sud du Douro, face à Porto. Caves de vin de Porto, restaurants avec vue et promenades au bord du fleuve.</p><p><strong>Foz do Douro</strong> : à l’embouchure du fleuve, quartier bourgeois et balnéaire. Front de mer, villas, cafés et ambiance plus détendue.</p>"
+    },
+    {
+      "id": "gastronomie",
+      "title": "Gastronomie",
+      "icon": "fa-utensils",
+      "content": "<p>La cuisine de Porto est généreuse, entre spécialités locales et produits de la mer.</p><p><strong>Francesinha</strong> : sandwich emblématique garni de plusieurs viandes, recouvert de fromage fondu et nappé d’une sauce tomate-bière épicée. À tester dans une brasserie traditionnelle.</p><p><strong>Bacalhau</strong> : la morue se décline en de nombreuses recettes, notamment le bacalhau à Gomes de Sá, spécialité de la région.</p><p><strong>Vin de Porto</strong> : ruby, tawny, blanc ou vintage. Dégustez-le dans les caves de Gaia, face à la vieille ville, en fin de journée.</p><p><strong>Fruits de mer</strong> : crevettes, percebes, barnacles et poissons grillés sont omniprésents, surtout près du fleuve et à Foz.</p>"
+    },
+    {
+      "id": "histoire",
+      "title": "Le train vers Porto : une histoire européenne",
+      "icon": "fa-book-open",
+      "content": "<p>Depuis la fin du XIXe siècle, le rail relie la France au Portugal via la péninsule Ibérique. Le <strong>Sud-Express</strong>, lancé en 1887 par la Compagnie Internationale des Wagons-Lits, était un train de nuit de luxe entre Paris et la péninsule, avec des correspondances à <strong>Hendaye/Irun</strong> (villes frontalières franco-espagnoles) vers Lisbonne, Porto et Madrid.</p><p>Pendant des décennies, les voyageurs descendant vers le Portugal devaient souvent changer de train à Hendaye ou Irun, notamment à cause de la différence d’écartement des voies entre la France et l’Espagne. Le trajet complet Paris–Lisbonne durait alors deux nuits.</p><p>Aujourd’hui, la partie française du Sud-Express a disparu et il n’existe plus de liaison directe Hendaye–Lisbonne/Porto. Les itinéraires modernes se font avec plusieurs correspondances (souvent via Bordeaux et différentes villes espagnoles), mais l’esprit reste le même : rejoindre Porto lentement, en traversant des paysages et des frontières, jusqu’au Douro.</p>"
+    }
+  ],
+  "photo_spots": [
+    {
+      "name": "Vue depuis la Sé do Porto",
+      "description": "Parvis de la cathédrale avec vue plongeante sur le Douro, le pont Dom Luís I et les toits de tuiles",
+      "type": "viewpoint",
+      "km_from_paris": 1200,
+      "lat": 41.1428,
+      "lon": -8.6107,
+      "best_side": "afternoon"
+    },
+    {
+      "name": "Quais de Vila Nova de Gaia",
+      "description": "Front de mer face à Porto, idéal au coucher du soleil avec les caves et les bateaux rabelos",
+      "type": "waterfront",
+      "km_from_paris": 1200,
+      "lat": 41.1366,
+      "lon": -8.6178,
+      "best_side": "sunset"
+    },
+    {
+      "name": "Embouchure du Douro à Foz",
+      "description": "Le fleuve qui se jette dans l’Atlantique, phare de Felgueiras et digue au coucher du soleil",
+      "type": "river_mouth",
+      "km_from_paris": 1200,
+      "lat": 41.1496,
+      "lon": -8.6757,
+      "best_side": "sunset"
+    }
+  ]
+}

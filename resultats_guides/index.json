@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "built_at": "2026-10-05T14:35:36.054471",
+  "built_at": "2026-10-08T17:44:57.577515",
   "guides": [
     {
       "slug": "berlin",
@@ -70,7 +70,7 @@
       "name": "Rome",
       "country": "Italie",
       "path": "Italie\\Rome.json",
-      "featured": false
+      "featured": true
     },
     {
       "slug": "amsterdam",
@@ -84,6 +84,13 @@
       "name": "Lisbonne",
       "country": "Portugal",
       "path": "Portugal\\lisbonne.json",
+      "featured": false
+    },
+    {
+      "slug": "porto",
+      "name": "Porto",
+      "country": "Portugal",
+      "path": "Portugal\\porto.json",
       "featured": false
     },
     {
