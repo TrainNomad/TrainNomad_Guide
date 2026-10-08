@@ -1,0 +1,300 @@
+[
+  {
+    "slug": "madrid",
+    "name": "Madrid",
+    "country": "Espagne",
+    "country_code": "ES",
+    "image": "/assets/guides/madrid-cover.webp",
+    "hero_image": "/assets/guides/madrid-hero.webp",
+    "description": "La capitale espagnole, entre grands musées, places animées et soirées de tapas. Trois jours pour explorer Madrid au rythme du rail.",
+    "reading_time": 6,
+    "featured": false,
+    "featured_title": "Madrid : 3 jours au cœur de l’Espagne",
+    "featured_subtitle": "Une capitale vivante à rejoindre en train avec correspondance depuis Paris. Art, jardins royaux et quartiers où prolonger la soirée.",
+    "tags": [
+      "Espagne",
+      "Train",
+      "Culture",
+      "Gastronomie"
+    ],
+    "quick_facts": [
+      {
+        "icon": "fa-clock",
+        "label": "Accès depuis Paris",
+        "value": "En train avec correspondance ; horaires et durée selon la date"
+      },
+      {
+        "icon": "fa-route",
+        "label": "Distance",
+        "value": "Environ 1 050 km à vol d’oiseau depuis Paris"
+      },
+      {
+        "icon": "fa-train",
+        "label": "Gare principale",
+        "value": "Madrid-Puerta de Atocha-Almudena Grandes"
+      }
+    ],
+    "introduction": "À Madrid, les journées commencent sur une grande place et finissent souvent autour d’une table de tapas. Entre les chefs-d’œuvre du Prado, les allées ombragées du Retiro et les rues animées de La Latina, la capitale espagnole se découvre par quartiers, sans chercher à tout voir d’un seul pas. Prenez le temps de vous arrêter pour un café, de pousser la porte d’un musée et de laisser la soirée s’étirer : Madrid se savoure autant dans ses lieux emblématiques que dans son quotidien.",
+    "essentials": {
+      "to_see": [
+        {
+          "name": "Museo del Prado",
+          "description": "Grand musée d’art espagnol et européen, avec des œuvres majeures de Velázquez et Goya"
+        },
+        {
+          "name": "Palacio Real",
+          "description": "Résidence royale monumentale ouverte aux visites selon les horaires et événements"
+        },
+        {
+          "name": "Parque del Retiro",
+          "description": "Grand parc historique avec étang, jardins et Palais de Cristal"
+        },
+        {
+          "name": "Plaza Mayor",
+          "description": "Place emblématique entourée d’arcades au cœur du centre historique"
+        },
+        {
+          "name": "Museo Reina Sofía",
+          "description": "Musée d’art moderne et contemporain, où se trouve Guernica de Picasso"
+        }
+      ],
+      "experiences": [
+        {
+          "name": "Le Triangle de l’art",
+          "description": "Découvrir le Prado, le Reina Sofía et le Thyssen-Bornemisza selon ses envies"
+        },
+        {
+          "name": "Tapas à La Latina",
+          "description": "Faire une halte dans les bars et tavernes des rues autour de la Cava Baja"
+        },
+        {
+          "name": "Churros et chocolat",
+          "description": "S’offrir une pause gourmande dans une chocolatería traditionnelle"
+        }
+      ],
+      "mobility": [
+        {
+          "name": "Métro",
+          "description": "Réseau étendu reliant les quartiers centraux et les principaux pôles de transport"
+        },
+        {
+          "name": "Bus urbains",
+          "description": "Réseau EMT utile pour traverser la ville et rejoindre certains sites"
+        },
+        {
+          "name": "À pied",
+          "description": "Le centre historique, les musées du Paseo del Prado et le Retiro se prêtent bien à la marche"
+        }
+      ]
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Madrid des Habsbourg et centre historique",
+        "description": "Places monumentales, ruelles anciennes et premières saveurs madrilènes",
+        "steps": [
+          {
+            "time": "09:00",
+            "title": "Puerta del Sol",
+            "description": "Commencez au cœur de Madrid, point de repère central et carrefour animé. De là, rejoignez les rues commerçantes et les places historiques à pied.",
+            "type": "visit"
+          },
+          {
+            "time": "10:00",
+            "title": "Plaza Mayor",
+            "description": "Traversez les arcades de cette grande place historique, puis perdez-vous dans les rues du Madrid des Austrias.",
+            "type": "visit"
+          },
+          {
+            "time": "11:30",
+            "title": "Mercado de San Miguel",
+            "description": "Faites une pause dans ce marché couvert près de la Plaza Mayor. C’est un lieu très fréquenté : comparez les stands et les prix avant de choisir.",
+            "type": "food"
+          },
+          {
+            "time": "13:00",
+            "title": "Déjeuner dans le centre",
+            "description": "Choisissez une adresse autour de La Latina ou du quartier des Austrias pour goûter des plats espagnols et des tapas.",
+            "type": "food"
+          },
+          {
+            "time": "15:00",
+            "title": "Palacio Real et cathédrale de l’Almudena",
+            "description": "Visitez le palais royal et la cathédrale voisine. Vérifiez les horaires et les conditions d’accès avant votre visite, qui peuvent varier selon les cérémonies.",
+            "type": "visit"
+          },
+          {
+            "time": "17:30",
+            "title": "Jardins de Sabatini ou Plaza de Oriente",
+            "description": "Promenez-vous dans les jardins et sur la place, avec une belle perspective sur le palais.",
+            "type": "leisure"
+          },
+          {
+            "time": "20:00",
+            "title": "Dîner à La Latina",
+            "description": "Terminez la journée dans les rues animées du quartier, notamment autour de la Cava Baja, pour un dîner de tapas.",
+            "type": "food"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Musées et parc du Retiro",
+        "description": "Une journée consacrée aux collections d’art et aux jardins du centre",
+        "steps": [
+          {
+            "time": "09:30",
+            "title": "Museo del Prado",
+            "description": "Consacrez la matinée aux collections du Prado. Pour une visite plus ciblée, repérez à l’avance les salles et œuvres qui vous intéressent.",
+            "type": "visit"
+          },
+          {
+            "time": "12:30",
+            "title": "Déjeuner dans le Barrio de las Letras",
+            "description": "Rejoignez ce quartier voisin du Paseo del Prado pour déjeuner dans une taverne ou un restaurant.",
+            "type": "food"
+          },
+          {
+            "time": "14:00",
+            "title": "Museo Reina Sofía",
+            "description": "Découvrez les collections d’art moderne et contemporain, dont Guernica. Si vous préférez limiter les musées, remplacez cette visite par une promenade dans le quartier.",
+            "type": "visit"
+          },
+          {
+            "time": "16:30",
+            "title": "Parque del Retiro",
+            "description": "Promenez-vous dans le parc, faites une halte au grand étang et découvrez le Palais de Cristal si celui-ci est ouvert au public.",
+            "type": "leisure"
+          },
+          {
+            "time": "18:30",
+            "title": "Paseo del Prado et Plaza de Cibeles",
+            "description": "Remontez le boulevard et admirez les façades monumentales autour de la Plaza de Cibeles.",
+            "type": "visit"
+          },
+          {
+            "time": "20:30",
+            "title": "Soirée dans le Barrio de las Letras",
+            "description": "Dînez dans le quartier et profitez de ses rues animées, entre bars, terrasses et petites places.",
+            "type": "food"
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Malasaña, Chueca et dernières découvertes",
+        "description": "Une journée plus libre entre quartiers créatifs, marchés et panoramas",
+        "steps": [
+          {
+            "time": "09:00",
+            "title": "Petit-déjeuner à Malasaña",
+            "description": "Commencez la journée dans l’un des cafés du quartier, connu pour ses boutiques indépendantes et son ambiance décontractée.",
+            "type": "food"
+          },
+          {
+            "time": "10:30",
+            "title": "Flânerie à Malasaña et Chueca",
+            "description": "Explorez les rues, les librairies, les boutiques et les places de ces deux quartiers centraux.",
+            "type": "leisure"
+          },
+          {
+            "time": "12:30",
+            "title": "Déjeuner au marché ou dans une taverne",
+            "description": "Choisissez une adresse de quartier et prenez le temps de goûter quelques spécialités locales.",
+            "type": "food"
+          },
+          {
+            "time": "14:00",
+            "title": "Temple de Debod et parc de l’Ouest",
+            "description": "Promenez-vous autour du temple et dans le parc voisin. Vérifiez les horaires d’accès au monument, qui peuvent varier.",
+            "type": "visit"
+          },
+          {
+            "time": "16:00",
+            "title": "Gran Vía",
+            "description": "Parcourez cette grande artère commerçante et admirez ses édifices emblématiques. Prévoyez une pause en terrasse ou dans un café.",
+            "type": "leisure"
+          },
+          {
+            "time": "18:00",
+            "title": "Retour vers Atocha ou temps libre",
+            "description": "Si vous partez le jour même, prévoyez suffisamment de temps pour rejoindre votre gare et vérifier les informations de départ. Sinon, profitez d’une dernière balade.",
+            "type": "transport"
+          }
+        ]
+      }
+    ],
+    "practical": [
+      {
+        "title": "Meilleure période",
+        "icon": "fa-calendar",
+        "content": "Le printemps et l’automne offrent souvent des températures agréables pour visiter. En été, les journées peuvent être très chaudes ; prévoyez des pauses et vérifiez la météo."
+      },
+      {
+        "title": "Se déplacer",
+        "icon": "fa-bus",
+        "content": "Le métro et les bus EMT couvrent largement la ville. Pour les déplacements à pied, regroupez les visites par quartier et vérifiez les conditions d’accès aux musées et monuments."
+      },
+      {
+        "title": "À ne pas manquer",
+        "icon": "fa-star",
+        "content": "Le Prado, une promenade au Retiro et une soirée de tapas à La Latina. Réservez à l’avance les visites très demandées."
+      }
+    ],
+    "sections": [
+      {
+        "id": "gares",
+        "title": "La gare de Madrid",
+        "icon": "fa-train",
+        "content": "<p><strong>Madrid-Puerta de Atocha-Almudena Grandes</strong> est l’un des grands pôles ferroviaires de la capitale et dessert notamment les trains à grande vitesse vers plusieurs villes espagnoles. Les trains de Paris à Madrid ne sont pas directs : le trajet implique une correspondance et la gare de départ ou d’arrivée peut dépendre de l’itinéraire réservé. Vérifiez les gares indiquées sur votre billet avant le voyage.</p>"
+      },
+      {
+        "id": "quartiers",
+        "title": "Quartiers à explorer",
+        "icon": "fa-map-location-dot",
+        "content": "<p><strong>Madrid de los Austrias</strong> : le centre historique autour de la Plaza Mayor et du palais royal, entre places monumentales et ruelles anciennes.</p><p><strong>La Latina</strong> : quartier de ruelles, de terrasses et de bars à tapas, particulièrement animé en soirée.</p><p><strong>Barrio de las Letras</strong> : quartier central lié à l’histoire littéraire espagnole, proche du Paseo del Prado et de ses musées.</p><p><strong>Malasaña et Chueca</strong> : quartiers vivants aux cafés, boutiques indépendantes et places animées.</p>"
+      },
+      {
+        "id": "gastronomie",
+        "title": "Gastronomie",
+        "icon": "fa-utensils",
+        "content": "<p>À Madrid, les bars et tavernes invitent à goûter plusieurs plats au fil de la journée.</p><p><strong>Bocadillo de calamares</strong> : sandwich garni de calamars frits, souvent proposé près de la Plaza Mayor.</p><p><strong>Tortilla española</strong> : omelette aux pommes de terre, servie en part ou en tapa.</p><p><strong>Cocido madrileño</strong> : ragoût traditionnel de pois chiches, légumes et viandes, souvent servi en plusieurs services.</p><p><strong>Churros con chocolate</strong> : douceur à partager au petit-déjeuner ou après une sortie.</p>"
+      },
+      {
+        "id": "histoire",
+        "title": "Madrid et le rail",
+        "icon": "fa-book-open",
+        "content": "<p>Madrid est devenue un nœud majeur du réseau ferroviaire espagnol au XIXe siècle. La première ligne ferroviaire de la péninsule ibérique, ouverte en 1848, reliait Barcelone à Mataró ; Madrid a ensuite été reliée aux grands axes du pays au fil du développement du réseau.</p><p>Aujourd’hui, Madrid est un point de correspondance important pour les trains à grande vitesse espagnols. Depuis Paris, il n’existe pas de liaison ferroviaire directe : il faut prévoir une correspondance et consulter les horaires pour la date choisie.</p>"
+      }
+    ],
+    "photo_spots": [
+      {
+        "name": "Plaza Mayor",
+        "description": "Arcades et façades rouges de la place historique, particulièrement belles en fin de journée",
+        "type": "plaza",
+        "km_from_paris": 1050,
+        "lat": 40.4154,
+        "lon": -3.7074,
+        "best_side": "afternoon"
+      },
+      {
+        "name": "Parque del Retiro",
+        "description": "Le grand étang et les allées arborées au cœur de Madrid",
+        "type": "park",
+        "km_from_paris": 1050,
+        "lat": 40.4153,
+        "lon": -3.6845,
+        "best_side": "morning"
+      },
+      {
+        "name": "Palacio Real",
+        "description": "Façade monumentale et perspective sur la Plaza de Oriente",
+        "type": "palace",
+        "km_from_paris": 1050,
+        "lat": 40.4179,
+        "lon": -3.7143,
+        "best_side": "sunset"
+      }
+    ]
+  }
+]

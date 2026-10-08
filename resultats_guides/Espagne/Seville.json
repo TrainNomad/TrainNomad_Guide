@@ -1,0 +1,300 @@
+[{
+    "slug": "seville",
+    "name": "Séville",
+    "country": "Espagne",
+    "country_code": "ES",
+    "image": "/assets/guides/seville-cover.webp",
+    "hero_image": "/assets/guides/seville-hero.webp",
+    "description": "Patios, orangers et flamenco : trois jours pour découvrir Séville, entre monuments mudéjars, rives du Guadalquivir et ruelles de Santa Cruz.",
+    "reading_time": 6,
+    "featured": false,
+    "featured_title": "Séville : 3 jours au rythme de l’Andalousie",
+    "featured_subtitle": "Une escapade ferroviaire dans le sud de l’Espagne, avec correspondance depuis Paris. Alcázar, Plaza de España et soirées au bord du Guadalquivir.",
+    "tags": [
+      "Espagne",
+      "Andalousie",
+      "Train",
+      "Culture",
+      "Gastronomie"
+    ],
+    "quick_facts": [
+      {
+        "icon": "fa-clock",
+        "label": "Accès depuis Paris",
+        "value": "En train avec correspondance(s) ; durée selon l’itinéraire et la date"
+      },
+      {
+        "icon": "fa-route",
+        "label": "Distance",
+        "value": "Environ 1 450 km à vol d’oiseau depuis Paris"
+      },
+      {
+        "icon": "fa-train",
+        "label": "Gare principale",
+        "value": "Sevilla Santa Justa"
+      }
+    ],
+    "introduction": "Séville se prête aux journées sans précipitation : une matinée dans un palais, une promenade à l’ombre des orangers et une soirée qui se prolonge autour de tapas. Dans le centre historique, l’Alcázar, la cathédrale et les ruelles de Santa Cruz se découvrent à pied. De l’autre côté du Guadalquivir, Triana offre une autre ambiance, entre ateliers de céramique, bars de quartier et vues sur le fleuve. Trois jours permettent d’alterner grands monuments et moments plus libres.",
+    "essentials": {
+      "to_see": [
+        {
+          "name": "Real Alcázar de Sevilla",
+          "description": "Ensemble palatial aux décors mudéjars, patios et jardins historiques"
+        },
+        {
+          "name": "Cathédrale de Séville et Giralda",
+          "description": "Monument gothique majeur et ancien minaret devenu clocher"
+        },
+        {
+          "name": "Plaza de España",
+          "description": "Place monumentale aménagée pour l’Exposition ibéro-américaine de 1929"
+        },
+        {
+          "name": "Parque de María Luisa",
+          "description": "Grand parc paysager voisin de la Plaza de España"
+        },
+        {
+          "name": "Torre del Oro",
+          "description": "Tour historique sur les rives du Guadalquivir"
+        }
+      ],
+      "experiences": [
+        {
+          "name": "Flamenco",
+          "description": "Assister à un spectacle dans une salle dédiée ou une peña, en réservant si nécessaire"
+        },
+        {
+          "name": "Triana",
+          "description": "Traverser le fleuve pour explorer le marché, les ateliers et les rues du quartier"
+        },
+        {
+          "name": "Tapas sévillanes",
+          "description": "Goûter plusieurs petites assiettes dans les bars du centre ou de Triana"
+        }
+      ],
+      "mobility": [
+        {
+          "name": "À pied",
+          "description": "Le centre historique et les principaux monuments se visitent aisément à pied"
+        },
+        {
+          "name": "Tramway et métro",
+          "description": "Réseaux utiles pour rejoindre certains secteurs plus éloignés du centre"
+        },
+        {
+          "name": "Bus urbains",
+          "description": "Réseau TUSSAM pour se déplacer dans la ville et rejoindre la gare"
+        }
+      ]
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Alcázar, cathédrale et Santa Cruz",
+        "description": "Les grands monuments du centre historique et les ruelles de l’ancien quartier juif",
+        "steps": [
+          {
+            "time": "09:00",
+            "title": "Real Alcázar",
+            "description": "Commencez par le palais et ses jardins. Réservez votre créneau à l’avance et vérifiez les règles de visite en vigueur.",
+            "type": "visit"
+          },
+          {
+            "time": "12:00",
+            "title": "Déjeuner à Santa Cruz",
+            "description": "Installez-vous dans le quartier voisin pour goûter des tapas ou un menu du jour. Les rues les plus centrales sont très fréquentées.",
+            "type": "food"
+          },
+          {
+            "time": "13:30",
+            "title": "Cathédrale de Séville et Giralda",
+            "description": "Visitez la cathédrale et montez à la Giralda si les conditions d’accès le permettent. Prévoyez du temps pour les contrôles et les files.",
+            "type": "visit"
+          },
+          {
+            "time": "16:00",
+            "title": "Promenade dans Santa Cruz",
+            "description": "Flânez dans les ruelles et les petites places du quartier, en faisant une pause à l’ombre lorsque la chaleur se fait sentir.",
+            "type": "leisure"
+          },
+          {
+            "time": "18:00",
+            "title": "Archivo de Indias et environs",
+            "description": "Découvrez l’extérieur de l’édifice et les places autour de la cathédrale. Vérifiez les horaires si vous souhaitez visiter les espaces intérieurs.",
+            "type": "visit"
+          },
+          {
+            "time": "20:30",
+            "title": "Dîner dans le centre",
+            "description": "Choisissez une adresse autour de l’Arenal ou de Santa Cruz et goûtez quelques spécialités andalouses.",
+            "type": "food"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Triana et les rives du Guadalquivir",
+        "description": "Céramique, marché et soirées de l’autre côté du fleuve",
+        "steps": [
+          {
+            "time": "09:00",
+            "title": "Marché de Triana",
+            "description": "Commencez la journée au marché, près du pont Isabel II. Les horaires et l’activité des stands varient selon le jour.",
+            "type": "visit"
+          },
+          {
+            "time": "10:30",
+            "title": "Ruelles et ateliers de Triana",
+            "description": "Explorez les rues du quartier et ses traditions de céramique. Certaines boutiques et certains ateliers ont des horaires variables.",
+            "type": "leisure"
+          },
+          {
+            "time": "12:30",
+            "title": "Déjeuner à Triana",
+            "description": "Faites une pause dans un bar ou une taverne du quartier, avec des tapas et des plats de saison.",
+            "type": "food"
+          },
+          {
+            "time": "14:30",
+            "title": "Promenade le long du fleuve",
+            "description": "Traversez le pont Isabel II et marchez sur les berges du Guadalquivir en direction de l’Arenal.",
+            "type": "leisure"
+          },
+          {
+            "time": "16:00",
+            "title": "Torre del Oro",
+            "description": "Admirez la tour depuis les quais ou visitez-la si les horaires et l’ouverture du musée le permettent.",
+            "type": "visit"
+          },
+          {
+            "time": "18:00",
+            "title": "Metropol Parasol",
+            "description": "Rejoignez la Plaza de la Encarnación et découvrez cette structure contemporaine. Vérifiez les horaires d’accès au belvédère.",
+            "type": "visit"
+          },
+          {
+            "time": "20:30",
+            "title": "Soirée flamenco",
+            "description": "Réservez un spectacle dans une salle ou une peña et renseignez-vous sur la durée et les conditions d’entrée.",
+            "type": "food"
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Plaza de España et jardins",
+        "description": "Architecture monumentale, parc et dernières découvertes",
+        "steps": [
+          {
+            "time": "09:00",
+            "title": "Parque de María Luisa",
+            "description": "Promenez-vous dans les allées du parc avant les heures les plus chaudes. Prévoyez de l’eau et une protection solaire en période estivale.",
+            "type": "leisure"
+          },
+          {
+            "time": "10:30",
+            "title": "Plaza de España",
+            "description": "Prenez le temps de parcourir la place, ses galeries et ses ponts. L’accès aux espaces peut être soumis à des horaires ou à des règles temporaires.",
+            "type": "visit"
+          },
+          {
+            "time": "12:30",
+            "title": "Déjeuner près du parc",
+            "description": "Choisissez un café ou un restaurant dans le secteur, puis rejoignez le centre à pied ou en transport.",
+            "type": "food"
+          },
+          {
+            "time": "14:30",
+            "title": "Casa de Pilatos ou musée des Beaux-Arts",
+            "description": "Choisissez entre la Casa de Pilatos, palais historique, et le musée des Beaux-Arts, selon vos intérêts et les horaires d’ouverture.",
+            "type": "visit"
+          },
+          {
+            "time": "16:30",
+            "title": "Dernière balade dans le centre",
+            "description": "Profitez d’un dernier café, faites quelques achats ou retournez dans votre quartier préféré.",
+            "type": "leisure"
+          },
+          {
+            "time": "18:00",
+            "title": "Retour vers Santa Justa",
+            "description": "Si vous prenez le train le jour même, prévoyez une marge pour rejoindre la gare et vérifiez l’heure et le quai affichés pour votre départ.",
+            "type": "transport"
+          }
+        ]
+      }
+    ],
+    "practical": [
+      {
+        "title": "Meilleure période",
+        "icon": "fa-calendar",
+        "content": "Le printemps et l’automne sont généralement agréables pour marcher. En été, les températures peuvent être très élevées : privilégiez les visites tôt le matin et en fin de journée."
+      },
+      {
+        "title": "Se déplacer",
+        "icon": "fa-bus",
+        "content": "Le centre se découvre bien à pied. Les bus, le tramway et le métro complètent les déplacements vers les secteurs plus éloignés. Vérifiez les horaires et travaux éventuels."
+      },
+      {
+        "title": "À ne pas manquer",
+        "icon": "fa-star",
+        "content": "Réservez l’Alcázar et la cathédrale à l’avance si nécessaire. Prévoyez une pause à l’ombre et une soirée de tapas ou de flamenco."
+      }
+    ],
+    "sections": [
+      {
+        "id": "gares",
+        "title": "La gare de Séville",
+        "icon": "fa-train",
+        "content": "<p><strong>Sevilla Santa Justa</strong> est la principale gare ferroviaire de la ville. Elle accueille des trains de proximité, de moyenne et longue distance ainsi que des trains à grande vitesse. Depuis Paris, le trajet n’est pas direct et nécessite au moins une correspondance ; vérifiez les gares de changement et les horaires correspondant à votre date.</p>"
+      },
+      {
+        "id": "quartiers",
+        "title": "Quartiers à explorer",
+        "icon": "fa-map-location-dot",
+        "content": "<p><strong>Santa Cruz</strong> : ruelles étroites et petites places à proximité de la cathédrale et de l’Alcázar.</p><p><strong>El Arenal</strong> : quartier central entre le Guadalquivir, la cathédrale et les arènes, avec de nombreux bars et restaurants.</p><p><strong>Triana</strong> : de l’autre côté du fleuve, quartier connu pour ses traditions de céramique, son marché et ses bars.</p><p><strong>Alameda de Hércules</strong> : secteur animé avec cafés, restaurants et places fréquentées en soirée.</p>"
+      },
+      {
+        "id": "gastronomie",
+        "title": "Gastronomie",
+        "icon": "fa-utensils",
+        "content": "<p>À Séville, les tapas permettent de goûter plusieurs spécialités au fil des repas.</p><p><strong>Espinacas con garbanzos</strong> : épinards mijotés avec des pois chiches, une recette traditionnelle andalouse.</p><p><strong>Salmorejo</strong> : soupe froide épaisse à base de tomate et de pain, souvent garnie d’œuf et de jambon.</p><p><strong>Pescaíto frito</strong> : assortiment de petits poissons frits, à partager.</p><p><strong>Torrijas</strong> : tranches de pain imbibées et dorées, souvent proposées en dessert ou à certaines périodes de l’année.</p>"
+      },
+      {
+        "id": "histoire",
+        "title": "Séville et le rail",
+        "icon": "fa-book-open",
+        "content": "<p>Le train à grande vitesse a rapproché Séville de Madrid depuis l’ouverture de la ligne à grande vitesse entre les deux villes en 1992. Aujourd’hui, plusieurs opérateurs assurent des liaisons directes entre Madrid-Atocha et Sevilla Santa Justa, avec des durées qui varient selon le service et l’horaire.</p><p>Depuis Paris, le voyage en train vers Séville nécessite une ou plusieurs correspondances. Il est préférable de vérifier l’itinéraire complet et les marges entre les trains au moment de la réservation.</p>"
+      }
+    ],
+    "photo_spots": [
+      {
+        "name": "Plaza de España",
+        "description": "Galeries, ponts et façades décorées autour de la grande place monumentale",
+        "type": "plaza",
+        "km_from_paris": 1450,
+        "lat": 37.3772,
+        "lon": -5.9869,
+        "best_side": "morning"
+      },
+      {
+        "name": "Giralda et cathédrale",
+        "description": "La silhouette du clocher et de la cathédrale au-dessus des toits du centre historique",
+        "type": "monument",
+        "km_from_paris": 1450,
+        "lat": 37.3861,
+        "lon": -5.9926,
+        "best_side": "afternoon"
+      },
+      {
+        "name": "Pont Isabel II et Triana",
+        "description": "Vue sur le Guadalquivir et les façades de Triana depuis les quais du centre",
+        "type": "river",
+        "km_from_paris": 1450,
+        "lat": 37.3861,
+        "lon": -6.0036,
+        "best_side": "sunset"
+      }
+    ]
+  }
+]
