@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "built_at": "2026-10-08T17:44:57.577515",
+  "built_at": "2026-10-14T15:55:33.510925",
   "guides": [
     {
       "slug": "berlin",
@@ -21,6 +21,20 @@
       "name": "Barcelone",
       "country": "Espagne",
       "path": "Espagne\\barcelone.json",
+      "featured": false
+    },
+    {
+      "slug": "madrid",
+      "name": "Madrid",
+      "country": "Espagne",
+      "path": "Espagne\\Madrid.json",
+      "featured": false
+    },
+    {
+      "slug": "seville",
+      "name": "Séville",
+      "country": "Espagne",
+      "path": "Espagne\\Seville.json",
       "featured": false
     },
     {
